@@ -11,19 +11,18 @@ block content
           a(href=article.url)= article.title
       section.content
         if article.intro.length > 0
-          != typogr(article.intro).typogrify()
-        if article.hasMore
-          p.more
-            a(href=article.url) more
+          != article.metadata.excerpt
+        p.more
+          a(href=article.url) weiterlesen
 
 block prepend footer
   div.nav
     if prevPage
-      a(href=prevPage.url) « Newer
+      a(href=prevPage.url) « neuer
     else
       a(href='/archive.html') « Archives
     if nextPage
-      a(href=nextPage.url) Next page »
+      a(href=nextPage.url) weiter »
 
 
 
