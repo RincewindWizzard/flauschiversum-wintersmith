@@ -1,0 +1,10 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'fluschiversum_de'
+
+// fluschiversum_de.wp_posts
+
+[1,2,3]
