@@ -1,5 +1,31 @@
 extends layout
 
+block headerfull
+  div.logo
+    h1
+      a(href=locals.url)= locals.name
+    p.description= locals.description
+  if pageNum == 1
+    div.category-images.flex-horizontal-wrap-center
+      a(href='/category/basteln/')
+        img.category(src='/images/Basteln.jpg')
+        p Pinselstrich und Mine, geben mir die Muße,<br/> dem ersten Zug, ein Neuer folgt zum Gruße.
+      a(href='/category/brandings/')
+        img.category(src='/images/Brandings.jpg')
+        p Mit Klebe und Schere bestückt,<br/> wird mit Liebe geschmückt.
+      a(href='/category/filzen/')
+        img.category(src='/images/Filzen.jpg')
+        p Spinne, häkel, webe, sticke,<br/> knüpfe dir nur keine Stricke.
+      a(href='/category/malen/')
+        img.category(src='/images/Malen.jpg')
+        p Wasser, Seife, Wolle,<br/> reibe nicht zu dolle.
+      a(href='/category/naehen/')
+        img.category(src='/images/Naehen.jpg')
+        p Die Haut zu dick? Das ist egal,<br/> bebrannt wird auch das Holzregal.
+      a(href='/category/wolle/')
+        img.category(src='/images/Wolle.jpg')
+        p Mit Nadel und Faden in den Krieg,<br/> erreichen kannst du nur den Sieg.
+
 block content
   include author
   each article in articles
@@ -9,6 +35,8 @@ block content
           span= moment.utc(article.date).format('DD. MMMM YYYY')
         h2
           a(href=article.url)= article.title
+            div.flex-horizontal-wrap-center
+              img.title-image(src=article.url + article.metadata.image)
       section.content
         if article.intro.length > 0
           != article.metadata.excerpt

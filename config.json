@@ -6,7 +6,8 @@
     "description": "Ermelines Bastelblog"
   },
   "plugins": [
-    "./plugins/paginator.coffee"
+    "./plugins/paginator.coffee",
+    "wintersmith-less"
   ],
   "require": {
     "moment": "moment",

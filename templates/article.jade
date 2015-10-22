@@ -7,9 +7,14 @@ block append vars
 block prepend title
   | #{ page.title + " - "}
 
+block append head
+  script(src="/js/article.js")
+
 append header
   include author
   h1= page.title
+  div.flex-horizontal-wrap-center
+    img.title-image(src=page.url + page.metadata.image)
   p.author
     | #{ "Written by " }
     mixin author(page.metadata.author)
@@ -20,6 +25,6 @@ block content
 
 block prepend footer
   div.nav
-    a(href=contents.index.url) « Full blog
+    a(href=contents.index.url) « Zurück
 
 
