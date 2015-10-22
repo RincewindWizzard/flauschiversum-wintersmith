@@ -7,11 +7,10 @@ image: IMG_3748.jpg
 excerpt: "Ich finde ja wenn man Muster strickt ist es doof, dass es auf der Rückseite des Strickstücks immer so doofe Fäden gibt..."
 ---
 
--   ![IMG\_3748](IMG_3748.jpg)
--   ![IMG\_3746](IMG_3746.jpg)
-
-1.  [1](#)
-2.  [2](#)
+<div class='slideshow'>
+![IMG\_3748](IMG_3748.jpg)
+![IMG\_3746](IMG_3746.jpg)
+</div>
 
 Ich finde ja wenn man Muster strickt ist es doof, dass es auf der
 Rückseite des Strickstücks immer so doofe Fäden gibt... praktisch wenn
@@ -22,19 +21,13 @@ gestrickten Tuch, wer die Strickspitze wiedererkennt - ja sie ist
 abgeschaut beim "[In the
 Pink](http://flauschiversum.de/2014/01/in-the-pink/ "In the Pink")".
 
--   ![IMG\_3749](IMG_3749.jpg)
--   ![IMG\_3747](IMG_3747.jpg)
-
-1.  [1](#)
-2.  [2](#)
-
--   ![IMG\_3750](IMG_3750.jpg)
--   ![IMG\_3751](IMG_3751.jpg)
--   ![IMG\_3752](IMG_3752.jpg)
-
-1.  [1](#)
-2.  [2](#)
-3.  [3](#)
+<div class='slideshow'>
+![IMG\_3749](IMG_3749.jpg)
+![IMG\_3747](IMG_3747.jpg)
+![IMG\_3750](IMG_3750.jpg)
+![IMG\_3751](IMG_3751.jpg)
+![IMG\_3752](IMG_3752.jpg)
+</div>
 
 Das Muster habe ich mir selbst gebastelt mit dem tollsten
 Handarbeitsprogramm für den PC "Sticken bhv" unterschätzt diese

@@ -7,13 +7,10 @@ image: DSCF2031.jpg
 excerpt: "Weil mein Gästebad so langweilig aussah, beschloß ich, es mit einem Bild zu verschönern. Und was paßt in einen solchen Raum besser, als ein Seerosenquilt a la Monet?"
 ---
 
--   ![DSCF2031](DSCF2031.jpg)
--   ![DSCF2032](DSCF2032.jpg)
-
-1.  [1](#)
-2.  [2](#)
-
-[**](#) [**](#)
+<div class='slideshow'>
+![DSCF2031](DSCF2031.jpg)
+![DSCF2032](DSCF2032.jpg)
+</div>
 
 Weil mein Gästebad so langweilig aussah, beschloß ich, es mit einem Bild
 zu verschönern. Und was paßt in einen solchen Raum besser, als ein

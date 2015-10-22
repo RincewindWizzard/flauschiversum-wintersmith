@@ -7,9 +7,7 @@ image: DSCF0443-e1422114449790.jpg
 excerpt: "So dieses Werk entstand im Ernährungslehreunterricht. "
 ---
 
--   ![DSCF0443](DSCF0443-e1422114449790.jpg)
-
-1.  [1](#)
+![DSCF0443](DSCF0443-e1422114449790.jpg)
 
 So dieses Werk entstand im Ernährungslehreunterricht. Es sollten laut
 Aufgabe, die Ursachen und Folgen von übermäßigem Alkoholkonsum

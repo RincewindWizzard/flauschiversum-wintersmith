@@ -7,9 +7,7 @@ image: DSC00014.jpg
 excerpt: "Hier mal ein zeitlich etwas länger zurückliegendes Werk."
 ---
 
--   ![DSC00014](DSC00014.jpg)
-
-1.  [1](#)
+![DSC00014](DSC00014.jpg)
 
 Hier mal ein zeitlich etwas länger zurückliegendes Werk. Der Herr Papa
 der hat ein Tarotbuch. Und dieses Buch ist schon sehr abgegriffen. Der
@@ -22,14 +20,9 @@ Lötkolben war da und das Buch musste neu. Mein Paps entschied sich für
 das Motiv des Friedens, welches zukünftig sein neues Buchcover
 verschönern sollte. Na und das ist das Ergebnis.  
 
--   ![DSC00015](DSC00015-e1423583599756.jpg)
--   ![DSC00016](DSC00016-e1423583611753.jpg)
--   ![DSC00017](DSC00017-e1423583624522.jpg)
--   ![DSC00018](DSC00018-e1423583640313.jpg)
-
-1.  [1](#)
-2.  [2](#)
-3.  [3](#)
-4.  [4](#)
-
- 
+<div id='slides' class='slideshow'>
+![DSC00015](DSC00015-e1423583599756.jpg)
+![DSC00016](DSC00016-e1423583611753.jpg)
+![DSC00017](DSC00017-e1423583624522.jpg)
+![DSC00018](DSC00018-e1423583640313.jpg)
+</div>

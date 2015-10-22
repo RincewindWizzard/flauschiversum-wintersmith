@@ -7,15 +7,12 @@ image: DSCF0527-e1423510718948.jpg
 excerpt: "Mal wieder etwas für das Hobby LARP, wir fahren in diesem Jahr mit unseren Magiern auf eine Kriegscon und unser Schutz ist diese junge Alraune..."
 ---
 
--   ![DSCF0527](DSCF0527-e1423510718948.jpg)
--   ![DSCF0528](DSCF0528-e1423510730422.jpg)
--   ![DSCF0529](DSCF0529-e1423510742580.jpg)
--   ![DSCF0530](DSCF0530-e1423510754567.jpg)
-
-1.  [1](#)
-2.  [2](#)
-3.  [3](#)
-4.  [4](#)
+<div id='slides' class='slideshow'>
+![DSCF0527](DSCF0527-e1423510718948.jpg)
+![DSCF0528](DSCF0528-e1423510730422.jpg)
+![DSCF0529](DSCF0529-e1423510742580.jpg)
+![DSCF0530](DSCF0530-e1423510754567.jpg)
+</div>
 
 Mal wieder etwas für das Hobby LARP, wir fahren in diesem Jahr mit
 unseren Magiern auf eine Kriegscon und unser Schutz ist diese junge
@@ -32,9 +29,10 @@ der Ohrenpuschels sparen, weil ich so schön scheußliche Schützerchen für
 2€/Stck finden konnte. Toll nicht wahr? Vielleicht laufe ich auch
 einfach so mal mit dem Ding durch die Innenstadt. :)
 
--   ![DSCF0531](DSCF0531.jpg)
+<div id='slides' class='slideshow'>
+![DSCF0531](DSCF0531.jpg)
+</div>
 
-1.  [1](#)
 
 IST GERADE ZIEHMLICHLAUT HIER.... BESSER MAL DIE OHRENSCHÜTZER
 AUFSETZEN!!!!!!!!!!!!!!!!!!!

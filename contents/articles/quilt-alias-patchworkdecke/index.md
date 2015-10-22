@@ -7,9 +7,7 @@ image: DSCF0515-e1423511199914.jpg
 excerpt: "Was macht man wenn man schon immer eine selbstgenähte Tagesdecke haben wollte?"
 ---
 
--   ![DSCF0515](DSCF0515-e1423511199914.jpg)
-
-1.  [1](#)
+![DSCF0515](DSCF0515-e1423511199914.jpg)
 
 Was macht man wenn man schon immer eine selbstgenähte Tagesdecke haben
 wollte? Ganz klar, man macht sich seinen eigenen Quilt, aber das
@@ -34,12 +32,8 @@ kein Profiquilt aber er ist selbstgemacht und dann ist man doppelt so
 stolz darauf, besonders wenn die eigenen Nähkünste sich auf gerade Nähte
 beschränken. ;) Die Maße sind 1,75m \* 1,35m.
 
--   ![DSCF0610](DSCF0610-e1423511262447.jpg)
--   ![DSCF0516](DSCF0516.jpg)
--   ![DSCF0517](DSCF0517.jpg)
-
-1.  [1](#)
-2.  [2](#)
-3.  [3](#)
-
- 
+<div id='slides' class='slideshow'>
+![DSCF0610](DSCF0610-e1423511262447.jpg)
+![DSCF0516](DSCF0516.jpg)
+![DSCF0517](DSCF0517.jpg)
+</div>

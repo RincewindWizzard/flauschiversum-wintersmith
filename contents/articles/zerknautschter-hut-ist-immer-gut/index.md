@@ -7,15 +7,12 @@ image: DSCF1451.jpg
 excerpt: "Diesmal sollte es kein Spitzhut sein. Aber die Alternative kann sich sehen lassen. "
 ---
 
--   ![DSCF1451](DSCF1451.jpg)
--   ![DSCF1450](DSCF1450.jpg)
--   ![DSCF1453](DSCF1453.jpg)
--   ![DSCF1452](DSCF1452.jpg)
-
-1.  [1](#)
-2.  [2](#)
-3.  [3](#)
-4.  [4](#)
+<div id='slides' class='slideshow'>
+![DSCF1451](DSCF1451.jpg)
+![DSCF1450](DSCF1450.jpg)
+![DSCF1453](DSCF1453.jpg)
+![DSCF1452](DSCF1452.jpg)
+</div>
 
 Diesmal sollte es kein Spitzhut sein. Aber die Alternative kann sich
 sehen lassen. Ein zerknautschter, blauer Zylinder ist absolut

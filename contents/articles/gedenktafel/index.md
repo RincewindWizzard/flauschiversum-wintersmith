@@ -7,13 +7,12 @@ image: IMG_4453-e1422117904595.jpg
 excerpt: "Nachdem ich trauriger Weise den Umzug meiner langjährigen Arbeitsstelle dulden musste, habe ich (als Andenken von uns Mitarbeitern für die Chefs) eine hölzerne Gedenktafel ins Leben gerufen."
 ---
 
--   ![IMG\_4453](IMG_4453-e1422117904595.jpg)
--   ![IMG\_4454](IMG_4454-e1422117895133.jpg)
--   ![IMG\_4455](IMG_4455-e1422117887576.jpg)
 
-1.  [1](#)
-2.  [2](#)
-3.  [3](#)
+<div id='slides' class='slideshow'>
+![IMG\_4453](IMG_4453-e1422117904595.jpg)
+![IMG\_4454](IMG_4454-e1422117895133.jpg)
+![IMG\_4455](IMG_4455-e1422117887576.jpg)
+</div>
 
 Nachdem ich trauriger Weise den Umzug meiner langjährigen Arbeitsstelle
 dulden musste, habe ich (als Andenken von uns Mitarbeitern für die

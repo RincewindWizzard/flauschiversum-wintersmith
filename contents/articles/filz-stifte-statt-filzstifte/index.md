@@ -7,9 +7,7 @@ image: DSCF1405.jpg
 excerpt: "Diese Stifte gehen ganz schnell und man kann ganz toll seine Reste verwerten..."
 ---
 
--   ![DSCF1405](DSCF1405.jpg)
-
-1.  [1](#)
+![DSCF1405](DSCF1405.jpg)
 
 Diese Stifte gehen ganz schnell und man kann ganz toll seine Reste
 verwerten... man muss nur etwas Filzwolle um einen dicken Stift wickeln

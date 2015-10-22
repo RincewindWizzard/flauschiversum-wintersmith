@@ -7,11 +7,10 @@ image: DSCF2005.jpg
 excerpt: "So dann wollen wir doch mal wieder was flauschiges teilen. Die Feiertage haben bestimmt viel von uns abverlangt und ich habe diese Zeit zum Entspannen und Produzieren genutzt... "
 ---
 
--   ![DSCF2005](DSCF2005.jpg)
--   ![DSCF2006](DSCF2006.jpg)
-
-1.  [1](#)
-2.  [2](#)
+<div id='slides' class='slideshow'>
+![DSCF2005](DSCF2005.jpg)
+![DSCF2006](DSCF2006.jpg)
+</div>
 
 So dann wollen wir doch mal wieder was flauschiges teilen. Die Feiertage
 haben bestimmt viel von uns abverlangt und ich habe diese Zeit zum

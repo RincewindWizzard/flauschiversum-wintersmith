@@ -27,7 +27,6 @@ runder Holzdosendeckel, welcher ebenfalls rot und mit Goldbronze bemalt
 wurde. Die Zinnsoldaten sind vom Flohmarkt und mit kleinen Sprechblasen
 aus Papier versehen.
 
-1.  [1](#)
 
   Man kann von diesem Reichsfedervieh halten was man möchte. Solange es
 zur Diskussion welcher Art auch immer anregt, bin ich zufrieden!;) Wer

@@ -7,11 +7,10 @@ image: DSC00624-e1423509985673.jpg
 excerpt: "Nachdem ich festgestellt hatte was man mit Vaddis Lötkolben alles anstellen kann, hab ich mich an das erste Lederbranding rangewagt..."
 ---
 
--   ![DSC00624](DSC00624-e1423509985673.jpg)
--   ![DSC00622](DSC00622-e1423509999197.jpg)
-
-1.  [1](#)
-2.  [2](#)
+<div id='slides' class='slideshow'>
+![DSC00624](DSC00624-e1423509985673.jpg)
+![DSC00622](DSC00622-e1423509999197.jpg)
+</div>
 
 Nachdem ich festgestellt hatte was man mit Vaddis Lötkolben alles
 anstellen kann, hab ich mich an das erste Lederbranding rangewagt, man

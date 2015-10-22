@@ -7,17 +7,12 @@ image: DSCF1489-e1421947669696.jpg
 excerpt: "Diesmal ist es ein grünes Zwirbelchen geworden. "
 ---
 
--   ![DSCF1489](DSCF1489-e1421947669696.jpg)
--   ![DSCF1490](DSCF1490-e1421947681743.jpg)
--   ![DSCF1491](DSCF1491-e1421947692111.jpg)
--   ![DSCF1492](DSCF1492-e1421947703923.jpg)
-
-1.  [1](#)
-2.  [2](#)
-3.  [3](#)
-4.  [4](#)
-
-[**](#) [**](#)
+<div class='slideshow'>
+![DSCF1489](DSCF1489-e1421947669696.jpg)
+![DSCF1490](DSCF1490-e1421947681743.jpg)
+![DSCF1491](DSCF1491-e1421947692111.jpg)
+![DSCF1492](DSCF1492-e1421947703923.jpg)
+</div>
 
 Diesmal ist es ein grünes Zwirbelchen geworden. Dieser Hut ist mit
 meiner Großen Spitzhutvorlage von einem Meter gefilzt worden. Der

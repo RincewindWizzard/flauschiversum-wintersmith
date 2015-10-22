@@ -7,9 +7,7 @@ image: IMG_20130412_213522.jpg
 excerpt: "Nom Nom Nom... das ist meine Krümelmonster-Mütze, er hält sogar einen gehäkelten Keks in der Pfote."
 ---
 
--   ![IMG\_20130412\_213522](IMG_20130412_213522.jpg)
-
-1.  [1](#)
+![IMG\_20130412\_213522](IMG_20130412_213522.jpg)
 
 Nom Nom Nom... das ist meine Krümelmonster-Mütze, er hält sogar einen
 gehäkelten Keks in der Pfote. Gehäkelt ist die Mütze nach der

@@ -7,9 +7,7 @@ image: DSCF0295-e1422117136878.jpg
 excerpt: "Tja, also Katzen mag ich echt gerne..."
 ---
 
--   ![DSCF0295](DSCF0295-e1422117136878.jpg)
-
-1.  [1](#)
+![DSCF0295](DSCF0295-e1422117136878.jpg)
 
 Tja, also Katzen mag ich echt gerne und es mag schon viele Menschen zum
 Schmunzeln gebracht haben, wenn ich im Winter mit meiner Mütze
@@ -44,10 +42,6 @@ aufgeklebt mit Textilkleber.
 Zum Schluss fehlt nur das Näschen natürlich schön rosa. Fertig ist die
 Mietzemütze.
 
--   ![IMG\_4427](IMG_4427-e1422117333249.jpg)
-
-1.  [1](#)
+![IMG\_4427](IMG_4427-e1422117333249.jpg)
 
 Es gibt sogar schon eine Katzenschwester für eine Freundin.
-
-

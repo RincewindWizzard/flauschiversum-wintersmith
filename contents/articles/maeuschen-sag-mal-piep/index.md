@@ -7,13 +7,11 @@ image: DSCF0879.jpg
 excerpt: "Und die Maus antwortet: \"Rrrrrrrrr\"..."
 ---
 
--   ![DSCF0879](DSCF0879.jpg)
--   ![DSCF0880](DSCF0880.jpg)
--   ![DSCF0882](DSCF0882.jpg)
-
-1.  [1](#)
-2.  [2](#)
-3.  [3](#)
+<div id='slides' class='slideshow'>
+![DSCF0879](DSCF0879.jpg)
+![DSCF0880](DSCF0880.jpg)
+![DSCF0882](DSCF0882.jpg)
+</div>
 
 Und die Maus antwortet: "Rrrrrrrrr"... Tja, dieses kleine Kerlchen
 entstand gestern Abend in einem Wahn von

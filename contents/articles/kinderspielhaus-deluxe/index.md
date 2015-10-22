@@ -19,13 +19,11 @@ für das ultimative Kinderspielhaus. Wie durch Zufall hat meine Schwester
 Kinder (na sowas) und damit hatten wir auch einen idealen Endabnehmer :)
 ...also ran an den Speck.
 
--   ![IMG\_2035](IMG_2035.jpg)
--   ![IMG\_2039](IMG_2039.jpg)
--   ![IMG\_2040](IMG_2040.jpg)
-
-1.  [1](#)
-2.  [2](#)
-3.  [3](#)
+<div id='slides' class='slideshow'>
+![IMG\_2035](IMG_2035.jpg)
+![IMG\_2039](IMG_2039.jpg)
+![IMG\_2040](IMG_2040.jpg)
+</div>
 
 Wir bekamen eine alte Wohnzimmerverkleidung geschenkt aus der wir die
 Wände des Hauses bauten. Das Haus soll einem Umzug stand halten können
@@ -35,11 +33,10 @@ hatten 4 Wände und ein Dach gebaut, aber das macht noch kein fertiges
 Haus. Damit ein Kind sich dort wohlfühlen kann und auch wohnen kann,
 fehlen Fenster und Tür, Vorhänge und Hausschild...
 
--   ![DSCF0962](DSCF0962.jpg)
--   ![DSCF0964](DSCF0964.jpg)
-
-1.  [1](#)
-2.  [2](#)
+<div id='slides' class='slideshow'>
+![DSCF0962](DSCF0962.jpg)
+![DSCF0964](DSCF0964.jpg)
+</div>
 
 Also los geht's. Die Innenseiten der Wände haben wir mit Styropor
 isoliert und mit Stoff bezogen (Wer will schon, dass die Kinder das
@@ -50,11 +47,10 @@ Schornstein, ist in der Rückwand des Häusschens eine Toilettenbelüftung
 leiden...), hier sieht man gerade einen neugierigen Eigenheimbesitzer,
 der bei der Montage spioniert.
 
--   ![DSCF0973](DSCF0973.jpg)
--   ![DSCF0976](DSCF0976.jpg)
-
-1.  [1](#)
-2.  [2](#)
+<div id='slides' class='slideshow'>
+![DSCF0973](DSCF0973.jpg)
+![DSCF0976](DSCF0976.jpg)
+</div>
 
 Die Fenster sind aus Plexiglas und das große an der Seite lässt sich
 aufschieben. Die Vorhänge hat meine Mutti beigesteuert, das macht das
@@ -67,11 +63,10 @@ hätte jemand das Haus vermutlich mit einem Plumpsklo verwechselt und das
 sollte nicht geschehen.) Ein kleiner Riegel verhindert das Aufschwingen
 der Tür.
 
--   ![IMG\_2024](IMG_2024.jpg)
--   ![DSCF0969](DSCF0969.jpg)
-
-1.  [1](#)
-2.  [2](#)
+<div id='slides' class='slideshow'>
+![IMG\_2024](IMG_2024.jpg)
+![DSCF0969](DSCF0969.jpg)
+</div>
 
 Das Dach ist mit Teerschindeln bedeckt, diese sind wetterbeständig und
 das Haus sieht mit der Ziegeloptik viel detaillierter aus, es war zwar
@@ -81,11 +76,10 @@ Tonne umgeleitet werden. Damit auch jeder weiß: "Dieses Haus gehört
 jemandem:" Habe ich noch ein kleines Schild mit den Initialen meiner
 Nichten gebrannt.
 
--   ![DSCF0990](DSCF0990.jpg)
--   ![DSCF0971](DSCF0971.jpg)
-
-1.  [1](#)
-2.  [2](#)
+<div id='slides' class='slideshow'>
+![DSCF0990](DSCF0990.jpg)
+![DSCF0971](DSCF0971.jpg)
+</div>
 
 Im Sommer steht oft ein eigener Outdoor-Pool (Planschbecken) vor der Tür
 neben den kleinen Blumenkästen, die mit dem Wasser der Regentonne

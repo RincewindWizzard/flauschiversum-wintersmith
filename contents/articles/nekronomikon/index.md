@@ -7,11 +7,10 @@ image: DSCF0496.jpg
 excerpt: "Ich wollte selbst immer einen dicken Wälzer haben, mit dem ich auffallen würde."
 ---
 
--   ![DSCF0496](DSCF0496.jpg)
--   ![DSCF0497](DSCF0497.jpg)
-
-1.  [1](#)
-2.  [2](#)
+<div id='slides' class='slideshow'>
+![DSCF0496](DSCF0496.jpg)
+![DSCF0497](DSCF0497.jpg)
+</div>
 
 Ich wollte selbst immer einen dicken Wälzer haben, mit dem ich auffallen
 würde. Nach langandauerndem Binden und Kleben ist dann endlich mein

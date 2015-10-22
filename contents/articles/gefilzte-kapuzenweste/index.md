@@ -7,11 +7,10 @@ image: DSCF2769f.jpg
 excerpt: "Lange lange lag dieses Projekt herum, noch vor meinem Umzug wurde dieses Ding angefilzt, unfertig und farblich nicht mehr meiner Stimmung entsprechend, für über ein Jahr auf Eis gelegt und fast vergessen."
 ---
 
--   ![DSCF2769f](DSCF2769f.jpg)
--   ![DSCF2768f](DSCF2768f.jpg)
-
-1.  [1](#)
-2.  [2](#)
+<div id='slides' class='slideshow'>
+![DSCF2769f](DSCF2769f.jpg)
+![DSCF2768f](DSCF2768f.jpg)
+</div>
 
 Lange lange lag dieses Projekt herum, noch vor meinem Umzug wurde dieses
 Ding angefilzt, unfertig und farblich nicht mehr meiner Stimmung
@@ -26,13 +25,11 @@ trocknen lassen mit all der Seife, die noch enthalten war.
 Glücklicherweise hat sich mein schlecht behandeltes Werk nicht gerächt,
 die Wolle stank nicht, sie war nicht verklebt oder spröde... mein Glück.
 
--   ![DSCF2771f](DSCF2771f.jpg)
--   ![DSCF2770f](DSCF2770f.jpg)
--   ![DSCF2772f](DSCF2772f.jpg)
-
-1.  [1](#)
-2.  [2](#)
-3.  [3](#)
+<div id='slides' class='slideshow'>
+![DSCF2771f](DSCF2771f.jpg)
+![DSCF2770f](DSCF2770f.jpg)
+![DSCF2772f](DSCF2772f.jpg)
+</div>
 
 Als ich dann letztens so vor mich hin lernte und dennoch den Drang
 verspürte etwas Sinnvolles zu tun (an dieser Stelle darf gelacht
@@ -46,13 +43,11 @@ reingestopft (aber nicht zu viel) und los ging es mit nur der Hälfte
 Waschmitteldosis im Normalwaschgang. Da die Gugel eh zu groß war, konnte
 es nicht schaden dem Ganzen die volle Filzdröhnung zu geben.
 
--   ![DSCF2763](DSCF2763.jpg)
--   ![DSCF2762](DSCF2762.jpg)
--   ![DSCF2761](DSCF2761.jpg)
-
-1.  [1](#)
-2.  [2](#)
-3.  [3](#)
+<div id='slides' class='slideshow'>
+![DSCF2763](DSCF2763.jpg)
+![DSCF2762](DSCF2762.jpg)
+![DSCF2761](DSCF2761.jpg)
+</div>
 
 Naja als die Wäsche fertig war, stand ich nun da und probierte das Werk
 an... Es sah mehr aus wie eine Zipfelmütze mit nem komischen
@@ -63,13 +58,11 @@ nebenbei, um die Zipfel zu begradigen, diese unter den Achseln nach
 vorne zog, war die Begeisterung groß. Das sollte eine Weste sein! Also
 ich war mehr als zufrieden mit diesem Endergebnis.
 
--   ![DSCF2760](DSCF2760.jpg)
--   ![DSCF2759](DSCF2759.jpg)
--   ![DSCF2758](DSCF2758.jpg)
-
-1.  [1](#)
-2.  [2](#)
-3.  [3](#)
+<div id='slides' class='slideshow'>
+![DSCF2760](DSCF2760.jpg)
+![DSCF2759](DSCF2759.jpg)
+![DSCF2758](DSCF2758.jpg)
+</div>
 
 Na und diese Fotos zeigen nun das (vielleicht) endgültige Werk mit
 diverser Stickerei und Perlenbesatz aus meinem Fundus. Die viiiiel zu

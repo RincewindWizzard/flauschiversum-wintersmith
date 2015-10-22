@@ -7,9 +7,9 @@ image: DSCF0890-e1422112092855.jpg
 excerpt: "Wenn ich gerade mal nicht handarbeite, dann betätige ich mich als Schriftstellerin."
 ---
 
--   ![DSCF0890](DSCF0890-e1422112092855.jpg)
-
-1.  [1](#)
+<div class='slideshow'>
+![DSCF0890](DSCF0890-e1422112092855.jpg)
+</div>
 
 Wenn ich gerade mal nicht handarbeite, dann betätige ich mich als
 Schriftstellerin. Im Moment schreibe ich an meinem ersten Roman, der

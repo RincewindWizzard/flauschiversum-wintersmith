@@ -19,16 +19,12 @@ eingeschlagen. Was man auf diesem Bild nicht sehen kann, sind die Kanten
 des Buches, die mit Kupferblech eingefasst wurden und dem Ganzen den
 letzten Schliff geben.
 
-  [\
-](IMG_4289.jpg)
 
--   ![IMG\_4282](IMG_4282.jpg)
--   ![IMG\_4289](IMG_4289.jpg)
-
-1.  [1](#)
-2.  [2](#)
-
-[**](#) [**](#)
+<div class='slideshow'>
+![IMG\_4282](IMG_4289.jpg)
+![IMG\_4282](IMG_4282.jpg)
+![IMG\_4289](IMG_4289.jpg)
+</div>
 
 Das gebundene Werk der Kombination aus Harry-Potter-Märchen und eigenen
 Stilelementen wurde geschaffen.\
@@ -38,5 +34,7 @@ in die Hände eines armen Mädchens gelangen. Ach ja ein kleiner Drache
 und der Tod daselbst, nicht zu Ross denn zu Rad, geben dem Ganzen den
 Touch des ähhh Andersartigen ;) nenne ich es jetzt mal. Hier ein ein
 kleiner Blick auf die Bilder im Buch.\
-  [\
-](IMG_4289.jpg)
+
+<div class='slideshow'>
+![](IMG_4289.jpg)
+</div>

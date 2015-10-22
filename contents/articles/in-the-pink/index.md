@@ -7,13 +7,11 @@ image: IMG_1892.jpg
 excerpt: "Hier mein Lieblingsschal nach einer Anleitung von Ravelry in verschiedensten Ausführungen."
 ---
 
--   ![IMG\_1892](IMG_1892.jpg)
--   ![IMG\_1897](IMG_1897.jpg)
--   ![IMG\_1896](IMG_1896.jpg)
-
-1.  [1](#)
-2.  [2](#)
-3.  [3](#)
+<div id='slides' class='slideshow'>
+![IMG\_1892](IMG_1892.jpg)
+![IMG\_1897](IMG_1897.jpg)
+![IMG\_1896](IMG_1896.jpg)
+</div>
 
 Hier mein Lieblingsschal nach einer Anleitung von Ravelry in
 verschiedensten Ausführungen. Das war der Erste "In the Pink" und der
@@ -25,25 +23,20 @@ wer findet sie? Die Strickspitze habe ich auch schon bei anderen Tüchern
 verwendet zum Beispiel beim
 [Doubleface-Schal](http://flauschiversum.de/2014/01/doubleface/ "Doubleface").
 
--   ![IMG\_1966](IMG_1966.jpg)
--   ![IMG\_1967](IMG_1967.jpg)
-
-1.  [1](#)
-2.  [2](#)
+<div id='slides' class='slideshow'>
+![IMG\_1966](IMG_1966.jpg)
+![IMG\_1967](IMG_1967.jpg)
+</div>
 
 Das war ein Weihnachtsgeschenk für meine liebe Mama.
 
--   ![IMG\_4237](IMG_4237.jpg)
--   ![IMG\_4238](IMG_4238.jpg)
--   ![IMG\_4239](IMG_4239.jpg)
--   ![IMG\_4240](IMG_4240.jpg)
--   ![IMG\_4241](IMG_4241.jpg)
-
-1.  [1](#)
-2.  [2](#)
-3.  [3](#)
-4.  [4](#)
-5.  [5](#)
+<div id='slides' class='slideshow'>
+![IMG\_4237](IMG_4237.jpg)
+![IMG\_4238](IMG_4238.jpg)
+![IMG\_4239](IMG_4239.jpg)
+![IMG\_4240](IMG_4240.jpg)
+![IMG\_4241](IMG_4241.jpg)
+</div>
 
 Und auf den hatte ich einfach Lust, jetzt trage ich ihn zu besonderen
 Anlässen, weil er in etwas gedeckteren Farben ist als mein erster Schal.

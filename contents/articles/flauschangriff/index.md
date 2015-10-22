@@ -7,23 +7,18 @@ image: DSCF0592.jpg
 excerpt: "Es war einmal...\r\n... ein Freund und der wollte (wie könnte es anders sein...) einen Hut."
 ---
 
--   ![DSCF0592](DSCF0592.jpg)
-
-1.  [1](#)
+![DSCF0592](DSCF0592.jpg)
 
 Es war einmal... ... ein Freund (siehe links) und der wollte (wie könnte
 es anders sein...) einen Hut. Und wie man den Hut macht, kann im
 Folgenden begutachtet werden.  
 
--   ![DSCF0555](DSCF0555.jpg)
--   ![DSCF0556](DSCF0556.jpg)
--   ![DSCF0572](DSCF0572.jpg)
--   ![DSCF0573](DSCF0573.jpg)
-
-1.  [1](#)
-2.  [2](#)
-3.  [3](#)
-4.  [4](#)
+<div class='slideshow'>
+![DSCF0555](DSCF0555.jpg)
+![DSCF0556](DSCF0556.jpg)
+![DSCF0572](DSCF0572.jpg)
+![DSCF0573](DSCF0573.jpg)
+</div>
 
 Diesmal habe ich mich zusammengerissen und von Anfang bis Ende mit Fotos
 dokumentiert, stell dich also auf einen längeren Beitrag ein.
@@ -35,24 +30,20 @@ unter Zuhilfenahme meiner Filz und Nähbücher, denn Hasenohren wollen
 schließlich die richtige Form haben. Tja und dann ab zum Wolldealer des
 Vertrauens...
 
--   ![DSCF0571](DSCF0571.jpg)
--   ![DSCF0574](DSCF0574.jpg)
--   ![DSCF0576](DSCF0576.jpg)
--   ![DSCF0577](DSCF0577.jpg)
-
-1.  [1](#)
-2.  [2](#)
-3.  [3](#)
-4.  [4](#)
+<div class='slideshow'>
+![DSCF0571](DSCF0571.jpg)
+![DSCF0574](DSCF0574.jpg)
+![DSCF0576](DSCF0576.jpg)
+![DSCF0577](DSCF0577.jpg)
+</div>
 
 Als besagter Freund das Konzept abgenommen hatte, habe ich für den Hut
 eine Hohlform angefertigt um die der Hut gefilzt wird. Danach wird die
 Wolle ausgelegt, jeweils abwechselnd waagerecht und senkrecht. Insgesamt
 habe ich 9 Schichten gelegt.
 
--   ![DSCF0578](DSCF0578.jpg)
+![DSCF0578](DSCF0578.jpg)
 
-1.  [1](#)
 
 Los gehts, die erste Seite wird mit Seifenwasser nass gemacht und mit
 vorsichtigem Reiben angefilzt. Ich nehme eine Brottüte zum Anfilzen,
@@ -63,9 +54,7 @@ Stück sprühe. Achtet beim Anfilzen der ersten Seite darauf, dass die
 Ränder einigermaßen trocken bleiben, denn die brauchst du noch zum
 Verbinden mit der anderen Seite.
 
--   ![DSCF0579](DSCF0579.jpg)
-
-1.  [1](#)
+![DSCF0579](DSCF0579.jpg)
 
 Und nachdem wir vorsichtig angefilzt haben und alles mit dem Wasser
 getränkt ist kann ich anfangen mit den bloßen Händen zu arbeiten. Die
@@ -73,29 +62,26 @@ Arbeit wird zusehends glatter und es bildet sich ein Gewebe. Bevor die
 Hutkrempe zu sehr verfilzt, habe ich sie umgeschlagen, denn so verfilzt
 sie mit dem Inneren des Hutes und man bekommt eine saubere Kante.  
 
--   ![DSCF0580](DSCF0580.jpg)
--   ![DSCF0581](DSCF0581.jpg)
-
-1.  [1](#)
-2.  [2](#)
+<div class='slideshow'>
+![DSCF0580](DSCF0580.jpg)
+![DSCF0581](DSCF0581.jpg)
+</div>
 
 Schreibt euch auf einem Zettel am besten auf wie ihr die Schichten
 gelegt habt, wenn ihr, so wie ich in diesem Falle, mehrere Farben
 verwendet. Ich lege nun wieder die Schichten abwechselnd waage- und
 senkrecht.
 
--   ![DSCF0581](DSCF0581.jpg)
+![DSCF0581](DSCF0581.jpg)
 
-1.  [1](#)
 
 Ich klappe ca. alle 2 Schichten die Ränder vom zuerst gefilzten Stück
 um.
 
--   ![DSCF0582](DSCF0582.jpg)
--   ![DSCF0583](DSCF0583.jpg)
-
-1.  [1](#)
-2.  [2](#)
+<div class='slideshow'>
+![DSCF0582](DSCF0582.jpg)
+![DSCF0583](DSCF0583.jpg)
+</div>
 
 Auf diese Weise verfilzen die Ränder zuverlässig durch mehrere Schichten
 miteinander und es gibt keine Löcher. Bis die letzte Schicht gelegt ist
@@ -121,9 +107,7 @@ Willst du einen Hut wie den hier, dann wird er so wie er ist, erst mal
 zur Seite gelegt. Denn wir erinnern uns an das Foto von oben... da sind
 Ohren dran!! Also zu den Ohren.
 
--   ![DSCF0584](DSCF0584.jpg)
-
-1.  [1](#)
+![DSCF0584](DSCF0584.jpg)
 
 In der gleichen Legetechnik, wie auch schon beim Hut, werden mehrere
 Schichten gelegt. Am besten macht man die Ohren parallel, denn sonst
@@ -132,9 +116,7 @@ Ich habe die Ohren von der zukünftigen Inneseite her aufgebaut. also
 erst das rosa Innenleben und dann Schicht für Schicht das Grau mit den
 dunkleren Spitzen aufgelegt. Und wieder einnässen.
 
--   ![DSCF0585](DSCF0585.jpg)
-
-1.  [1](#)
+![DSCF0585](DSCF0585.jpg)
 
 Bei flachen Filzarbeiten ist es nicht so schlimm wenn die Ränder etwas
 unregelmäßig sind, die kann man wenn genug angefilzt ist mit einer
@@ -144,9 +126,7 @@ er später an den Hut rangesetzt werden kann. Und das Anfilzen war auch
 für mich neu. Telefon ausstöpseln, Facebook aus und bloß keinen Besuch
 erwarten, jetzt muss man gaaaaanz vorsichtig arbeiten.
 
--   ![DSCF0586](DSCF0586.jpg)
-
-1.  [1](#)
+![DSCF0586](DSCF0586.jpg)
 
 Die Ohren einklappen, damit es richtige Löffel werden, dann das
 unbehandelte Ende etwas auffächern und auf den Hut an der richtigen
@@ -165,11 +145,10 @@ robuster aber er schrumpft auch. Also aufgepasst, wenn man zu viel walkt
 passt er am Ende nicht mehr, also immer mal schauen ob der Kopf noch
 reinpasst und wenn er die richtige Größe hat, geht es an die Feinarbeit.
 
--   ![DSCF0587](DSCF0587.jpg)
--   ![DSCF0588](DSCF0588.jpg)
-
-1.  [1](#)
-2.  [2](#)
+<div class='slideshow'>
+![DSCF0587](DSCF0587.jpg)
+![DSCF0588](DSCF0588.jpg)
+</div>
 
 Jetzt muss die Krempe in Form gebracht werden und die Löffel brauchen
 noch Form, der Zipfel soll auch noch nach hinten schauen, also... walk,
@@ -178,15 +157,12 @@ neutralisieren die Reste anschließend mit Essig und waschen nochmal
 durch... ein letztes Mal anpassen und mit Zeitungspapier ausstopfen und
 trocknen lassen. Dieser meiner Hüte braucht definitiv keine Stärke.
 
--   ![DSCF0589](DSCF0589.jpg)
--   ![DSCF0591](DSCF0591.jpg)
--   ![DSCF0590](DSCF0590.jpg)
--   ![DSCF0593](DSCF0593.jpg)
-
-1.  [1](#)
-2.  [2](#)
-3.  [3](#)
-4.  [4](#)
+<div class='slideshow'>
+![DSCF0589](DSCF0589.jpg)
+![DSCF0591](DSCF0591.jpg)
+![DSCF0590](DSCF0590.jpg)
+![DSCF0593](DSCF0593.jpg)
+</div>
 
 Tja, und nach 5 Stunden Non-Stop-Arbeit ist der Hut mit den Hasenohren
 fertig. Und der Besitzer glücklich, wie man sieht.    

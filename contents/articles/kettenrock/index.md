@@ -7,9 +7,7 @@ image: DSC00680.jpg
 excerpt: "Eines meiner ersten Werkstücke, welches ziemlich viele verschiedene Arbeiten in sich vereint. "
 ---
 
--   ![DSC00680](DSC00680.jpg)
-
-1.  [1](#)
+![DSC00680](DSC00680.jpg)
 
 Eines meiner ersten Werkstücke, welches ziemlich viele verschiedene
 Arbeiten in sich vereint. Wofür braucht man sowas? Naja, der Rock sieht
@@ -20,10 +18,7 @@ Auf der Innenseite der Lederstreifen sind Schutzrunen eingebrannt. Hier
 muss man Kettenringe verbinden, Nähen, Vernieten und bebrennen. Hey was
 für ein Aufwand ;)
 
--   ![DSC00679](DSC00679.jpg)
--   ![DSC00678](DSC00678.jpg)
-
-1.  [1](#)
-2.  [2](#)
-
- 
+<div id='slides' class='slideshow'>
+![DSC00679](DSC00679.jpg)
+![DSC00678](DSC00678.jpg)
+</div>

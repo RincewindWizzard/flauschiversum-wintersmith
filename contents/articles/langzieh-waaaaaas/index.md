@@ -7,9 +7,7 @@ image: DSCF0634-e1422117494573.jpg
 excerpt: "Wer nicht weiß was das hier sein soll, der denke jetzt bitte an Harry Potter... Die Weasley-Zwillinge... und Weaslys-Zauberhafte-Zauberscherze... jep, das ist ein Langzieh-Ohr."
 ---
 
--   ![DSCF0634](DSCF0634-e1422117494573.jpg)
-
-1.  [1](#)
+![DSCF0634](DSCF0634-e1422117494573.jpg)
 
 Wer nicht weiß was das hier sein soll, der denke jetzt bitte an Harry
 Potter... Die Weasley-Zwillinge... und

@@ -7,13 +7,10 @@ image: DSCF0844-e1422111087530.jpg
 excerpt: "Nach Vollendung eines so großen Projekts wie einer Wolldecke, fertige\r\nich zur Entspannung dann gerne mal kleinere Teile..."
 ---
 
--   ![DSCF0844](DSCF0844-e1422111087530.jpg)
--   ![DSCF0846](DSCF0846-e1422111097719.jpg)
--   
-
-1.  [1](#)
-2.  [2](#)
-3.  [3](#)
+<div id='slides' class='slideshow'>
+![DSCF0844](DSCF0844-e1422111087530.jpg)
+![DSCF0846](DSCF0846-e1422111097719.jpg)
+</div>
 
 Nach Vollendung eines so großen Projekts wie einer Wolldecke, fertige
 ich zur Entspannung dann gerne mal kleinere Teile wie z.B. Topflappen
@@ -21,25 +18,16 @@ aus Baumwolle (natürlich wieder im Doppelstrick, denn wir wollen uns ja
 nicht die zarten Fingerchen verbrennen), oder diese niedlichen Püppchen
 an.  
 
--   ![DSCF0843](DSCF0843.jpg)
--   ![DSCF0845](DSCF0845.jpg)
-
-1.  [1](#)
-2.  [2](#)
-
--   ![DSCF0847](DSCF0847-e1422111107687.jpg)
--   ![DSCF0863](DSCF0863-e1422111129472.jpg)
--   ![DSCF0864](DSCF0864-e1422111159528.jpg)
--   ![DSCF0867](DSCF0867-e1422111171445.jpg)
--   ![DSCF0870](DSCF0870-e1422111186526.jpg)
--   ![DSCF0871](DSCF0871-e1422111196770.jpg)
-
-1.  [1](#)
-2.  [2](#)
-3.  [3](#)
-4.  [4](#)
-5.  [5](#)
-6.  [6](#)
+<div id='slides' class='slideshow'>
+![DSCF0843](DSCF0843.jpg)
+![DSCF0845](DSCF0845.jpg)
+![DSCF0847](DSCF0847-e1422111107687.jpg)
+![DSCF0863](DSCF0863-e1422111129472.jpg)
+![DSCF0864](DSCF0864-e1422111159528.jpg)
+![DSCF0867](DSCF0867-e1422111171445.jpg)
+![DSCF0870](DSCF0870-e1422111186526.jpg)
+![DSCF0871](DSCF0871-e1422111196770.jpg)
+</div>
 
 Erst Arme und Beine auf der guten alten Strickliesel arbeiten (bitte
 Maschen zählen, sonst werden die Beine ungleich lang, und die Süßen
@@ -57,12 +45,10 @@ ziehe ich mit der Häkelnadel Wollschnipsel (ca. 10 cm lang) durch die
 Kopfhaut. Doppelknoten rein und je dichter man knüpft, desto wuscheliger
 wird die Frisur. Ist etwas fummelig, bringt aber viel Spaß.  
 
--   ![DSCF0866](DSCF0866.jpg)
--   ![DSCF0868](DSCF0868.jpg)
--   ![DSCF0869](DSCF0869.jpg)
-
-1.  [1](#)
-2.  [2](#)
-3.  [3](#)
+<div id='slides' class='slideshow'>
+![DSCF0866](DSCF0866.jpg)
+![DSCF0868](DSCF0868.jpg)
+![DSCF0869](DSCF0869.jpg)
+</div>
 
  

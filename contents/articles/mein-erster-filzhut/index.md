@@ -7,17 +7,13 @@ image: DSCF0503-e1423513550725.jpg
 excerpt: "Also ich habe mich vorher noch nie an das Filzen herangetraut, und dann kam es über mich: zu viel freie Zeit und der Wille einen qualitativ hochwertigen Hexenhut zu haben, wie ich ihn mir immer vorgestellt habe... denkste..."
 ---
 
--   ![DSCF0503](DSCF0503-e1423513550725.jpg)
--   ![DSCF0504](DSCF0504-e1423513561706.jpg)
--   ![DSCF0505](DSCF0505-e1423513572622.jpg)
--   ![DSCF0506](DSCF0506-e1423513581270.jpg)
--   ![DSCF0507](DSCF0507-e1423513592532.jpg)
-
-1.  [1](#)
-2.  [2](#)
-3.  [3](#)
-4.  [4](#)
-5.  [5](#)
+<div id='slides' class='slideshow'>
+![DSCF0503](DSCF0503-e1423513550725.jpg)
+![DSCF0504](DSCF0504-e1423513561706.jpg)
+![DSCF0505](DSCF0505-e1423513572622.jpg)
+![DSCF0506](DSCF0506-e1423513581270.jpg)
+![DSCF0507](DSCF0507-e1423513592532.jpg)
+</div>
 
 Also ich habe mich vorher noch nie an das Filzen herangetraut, und dann
 kam es über mich: zu viel freie Zeit und der Wille einen qualitativ

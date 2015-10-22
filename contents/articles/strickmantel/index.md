@@ -7,13 +7,11 @@ image: DSCF0872-e1422110208219.jpg
 excerpt: "Das Strickmuster welches ich für meine kunterbunte Restedecke benutzt habe, habe ich auch für meinen Mantel benutzt."
 ---
 
--   ![DSCF0872](DSCF0872-e1422110208219.jpg)
--   ![IMG\_1992](IMG_1992.jpg)
--   ![IMG\_1991](IMG_1991.jpg)
-
-1.  [1](#)
-2.  [2](#)
-3.  [3](#)
+<div id='slides' class='slideshow'>
+![DSCF0872](DSCF0872-e1422110208219.jpg)
+![IMG\_1992](IMG_1992.jpg)
+![IMG\_1991](IMG_1991.jpg)
+</div>
 
 Das Strickmuster welches ich für meine kunterbunte Restedecke benutzt
 habe, habe ich auch für meinen Mantel benutzt. Den habe ich kreuz und

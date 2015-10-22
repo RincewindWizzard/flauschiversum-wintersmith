@@ -18,20 +18,14 @@ als Abschiedsgeschenk für meine Klasse habe ich Orden gebastelt, damit
 zum einen jeder weiß was seine Aufgabe ist aber auch damit ein Ansporn
 entsteht auch einmal eine Aufgabe zu übernehmen.
 
--   ![DSCF0481](DSCF0481-e1423514105547.jpg)
-
-1.  [1](#)
+![Der Zeitwächter](DSCF0481-e1423514105547.jpg)
 
 Der Zeitwächter
 
--   ![DSCF0480](DSCF0480-e1423514128205.jpg)
-
-1.  [1](#)
+![Der Gruppenchef](DSCF0480-e1423514128205.jpg)
 
 Der Gruppenchef
 
--   ![DSCF0479](DSCF0479-e1423514152683.jpg)
-
-1.  [1](#)
+![Der Protokollführer](DSCF0479-e1423514152683.jpg)
 
 Der Protokollführer

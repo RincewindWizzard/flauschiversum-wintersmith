@@ -16,27 +16,19 @@ Hohlform angepasst wurde und keine
 entstanden ist. Am gleichen Tag ist auch noch eine schlichte Tasche
 entstanden aber man braucht ja auch was fürs Auge.
 
--   ![DSCF3012](DSCF3012.jpg)
--   ![DSCF3013](DSCF3013.jpg)
--   ![DSCF3015](DSCF3015.jpg)
--   ![DSCF3016](DSCF3016.jpg)
-
-1.  [1](#)
-2.  [2](#)
-3.  [3](#)
-4.  [4](#)
+<div id='slides' class='slideshow'>
+![Barett](DSCF3012.jpg)
+![Barett](DSCF3013.jpg)
+![Barett](DSCF3015.jpg)
+![Barett](DSCF3016.jpg)
+</div>
 
 Das dürfte ein auffälliges Accessoire sein. Jetzt nur noch irgendwo 'ne
 hübsche Brosche dran und alles tutti.
 
--   ![DSCF3009](DSCF3009.jpg)
--   ![DSCF3010](DSCF3010.jpg)
--   ![DSCF3011](DSCF3011.jpg)
--   ![DSCF3008](DSCF3008.jpg)
-
-1.  [1](#)
-2.  [2](#)
-3.  [3](#)
-4.  [4](#)
-
- 
+<div class='slideshow'>
+![Barett](DSCF3009.jpg)
+![Barett](DSCF3010.jpg)
+![Barett](DSCF3011.jpg)
+![Barett](DSCF3008.jpg)
+</div>

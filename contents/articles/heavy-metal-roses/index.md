@@ -7,9 +7,7 @@ image: DSCF0535.jpg
 excerpt: "Tja hübsch sehen sie ja aus, aber das ist doch echt schwer - oder?\r\nNö isses nicht."
 ---
 
--   ![DSCF0535](DSCF0535.jpg)
-
-1.  [1](#)
+![DSCF0535](DSCF0535.jpg)
 
 Tja hübsch sehen sie ja aus, aber das ist doch echt schwer - oder? Nö
 isses nicht. Das brauchst du: - Pappe, Bleistift und Zirkel, Schere -
@@ -24,11 +22,10 @@ Kreis machst du die Abrundung nur auf der einen Seite und auf der
 Anderen zeichnest du eine Welle ein, so wird das Blütenblatt schmaler
 und du kannst deine Mitte besser modellieren.
 
--   ![DSCF0541](DSCF0541.jpg)
--   ![DSCF0542](DSCF0542.jpg)
-
-1.  [1](#)
-2.  [2](#)
+<div id='slides' class='slideshow'>
+![DSCF0541](DSCF0541.jpg)
+![DSCF0542](DSCF0542.jpg)
+</div>
 
 Diese Schablonen schneidest du aus und überträgst die linke 3 mal und
 die rechte 1 mal auf dein Blech und schneidest die "Blumen" aus. Der
@@ -54,11 +51,10 @@ ziehst. Pass bitte bei der Arbeit mit Blech gut auf und schneide dich
 nicht. Wenn du gut mit Gartenhandschuhen arbeiten kannst und trotzdem
 ein Feeling für das Material hast, empfehle ich dir diese zu nutzen.
 
--   ![DSCF0539](DSCF0539.jpg)
--   ![DSCF0538](DSCF0538.jpg)
-
-1.  [1](#)
-2.  [2](#)
+<div id='slides' class='slideshow'>
+![DSCF0539](DSCF0539.jpg)
+![DSCF0538](DSCF0538.jpg)
+</div>
 
 Jetzt beginnt die Modellier- und Biegearbeit mit der Zange, du arbeitest
 von Innen nach Außen. Die Mitte ist am kompliziertesten achte darauf,
@@ -66,17 +62,11 @@ das sich die Blätter inneinanderwinden - soll halt aussehen wie eine
 Rose. Dann biegst du dir die Rose wie sie dir gefällt, jedes Blatt
 individuell. Und am Ende kann sie so aussehen...
 
--   ![DSCF0499](DSCF0499.jpg)
-
-1.  [1](#)
+![DSCF0499](DSCF0499.jpg)
 
 Ich habe mir auch aus besonders dünnem Blech ganz kleine Rosen gemacht
 und sie in einen Kranz eingeflochten den man zu einem besonderen Anlass
 auf dem Kopf tragen kann. Dieser Passt besonders gut zu meiner
 [Kabelverwirrung](http://flauschiversum.de/2014/04/282/ "Kabelverwirrung").
 
--   ![DSCF0498](DSCF0498-e1423508821382.jpg)
-
-1.  [1](#)
-
- 
+![DSCF0498](DSCF0498-e1423508821382.jpg)

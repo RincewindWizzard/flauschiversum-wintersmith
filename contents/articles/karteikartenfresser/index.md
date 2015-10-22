@@ -7,15 +7,12 @@ image: DSCF0444sscff.jpg
 excerpt: "Also irgendwie fand ich den alten Karteikasten zu langweilig."
 ---
 
--   ![DSCF0444sscff](DSCF0444sscff.jpg)
--   ![DSCF044ss8](DSCF044ss8.jpg)
--   ![DSCF044ss5](DSCF044ss5.jpg)
--   ![DSCF0447cff](DSCF0447cff.jpg)
-
-1.  [1](#)
-2.  [2](#)
-3.  [3](#)
-4.  [4](#)
+<div id='slides' class='slideshow'>
+![DSCF0444sscff](DSCF0444sscff.jpg)
+![DSCF044ss8](DSCF044ss8.jpg)
+![DSCF044ss5](DSCF044ss5.jpg)
+![DSCF0447cff](DSCF0447cff.jpg)
+</div>
 
 Also irgendwie fand ich den alten Karteikasten zu langweilig. Nach
 Karneval war der Flauschestoff im Angebot, und ich hab mich daran

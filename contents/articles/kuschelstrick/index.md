@@ -7,9 +7,7 @@ image: DSCF0854-e1422112754326.jpg
 excerpt: "Mein Hobby, Wolldecken zu stricken, entwickelte sich eher zufällig."
 ---
 
--   ![DSCF0854](DSCF0854-e1422112754326.jpg)
-
-1.  [1](#)
+![DSCF0854](DSCF0854-e1422112754326.jpg)
 
 Mein Hobby, Wolldecken zu stricken, entwickelte sich eher zufällig. Ich
 fand alte Hefte mit gestrickten Spitzendeckchen und probierte die Muster
@@ -21,15 +19,10 @@ abnehmend nach innen gestrickt. Für die Umrandung wurde jedes kleine
 Quadrat über Eck gestrickt, also in jeder 2. Reihe die mittleren 3
 Maschen zusammen gestrickt, bis alle Maschen abgenommen sind.
 
- 
-
--   ![DSCF0859](DSCF0859.jpg)
-
-1.  [1](#)
-
--   ![DSCF0852](DSCF0852-e1422112746564.jpg)
-
-1.  [1](#)
+<div id='slides' class='slideshow'>
+![DSCF0859](DSCF0859.jpg)
+![DSCF0852](DSCF0852-e1422112746564.jpg)
+</div>
 
 Einmal bekam ich einen ganzen Karton voller Restwolle in den
 unmöglichsten Farben geschenkt. Dazu fiel mir absolut nichts ein, bis
@@ -41,27 +34,18 @@ entscheiden, wie groß sie werden soll. Der weiße Mittelteil ist genauso
 gearbeitet, wie bei der vorherigen Decke beschrieben - nur in einer
 größeren Dimension (und mit einer sehr langen Rundstricknadel).
 
--   ![DSCF0853](DSCF0853.jpg)
-
-1.  [1](#)
+![DSCF0853](DSCF0853.jpg)
 
 Die rote Stola ist ebenfalls nach diesem Prinzip gearbeitet. Ich habe
 dafür alles genommen, was ich an Noppen- und Lurexgarn und anderen
 möglichst edlen Materialien bekommen konnte.
 
--   ![DSCF0862](DSCF0862.jpg)
-
-1.  [1](#)
-
--   ![DSCF0861](DSCF0861-e1422113051164.jpg)
--   ![DSCF0860](DSCF0860-e1422113041340.jpg)
-
-1.  [1](#)
-2.  [2](#)
-
--   ![DSCF0876](DSCF0876-e1422113251614.jpg)
-
-1.  [1](#)
+<div id='slides' class='slideshow'>
+![DSCF0862](DSCF0862.jpg)
+![DSCF0861](DSCF0861-e1422113051164.jpg)
+![DSCF0860](DSCF0860-e1422113041340.jpg)
+![DSCF0876](DSCF0876-e1422113251614.jpg)
+</div>
 
 Die Decke auf dem Bett stammt aus meiner beginnenden Double-Face-Ära.
 Als Vorbild diente mir ein Exemplar von Kaffe Fassett, meinem
@@ -70,15 +54,11 @@ bunten Patches im Karomuster wurden mit melierter Wolle (feste Maschen)
 umrandet und dann mit dunkler Wolle zusammengehäkelt.Man kann die Decke
 je nach Anzahl der Patches in jeder beliebigen Größe nachmachen.
 
--   ![DSCF0877](DSCF0877.jpg)
-
-1.  [1](#)
-
--   ![DSCF0849](DSCF0849-e1422112718849.jpg)
--   ![DSCF0850](DSCF0850-e1422112727868.jpg)
-
-1.  [1](#)
-2.  [2](#)
+<div id='slides' class='slideshow'>
+![DSCF0877](DSCF0877.jpg)
+![DSCF0849](DSCF0849-e1422112718849.jpg)
+![DSCF0850](DSCF0850-e1422112727868.jpg)
+</div>
 
 Auch für die nächste Decke stand der liebe Kaffe Pate. Aber während er
 sie in einem Stück gearbeitet hat, habe ich die Strickrichtung geändert
@@ -100,15 +80,11 @@ und mit Nähgarn aufgenäht. Die einzelnen Blütenblätter werden um eine
 kleine Häkelrosette herum genäht. Die Knospen bestehen aus nur eine
 länglichen Blütenblatt.
 
--   ![DSCF0841](DSCF0841-e1422112702531.jpg)
--   ![DSCF0842](DSCF0842-e1422112709210.jpg)
-
-1.  [1](#)
-2.  [2](#)
-
--   ![DSCF0840](DSCF0840-e1422112690387.jpg)
-
-1.  [1](#)
+<div id='slides' class='slideshow'>
+![DSCF0841](DSCF0841-e1422112702531.jpg)
+![DSCF0842](DSCF0842-e1422112709210.jpg)
+![DSCF0840](DSCF0840-e1422112690387.jpg)
+</div>
 
 Mein letztes Werk dieser Art ist eine Hommage an Marilyn Monroe, von der
 ich ein Fan bin. Das Zählmuster für ihr Konterfei läßt sich mit einem
@@ -119,9 +95,8 @@ Maschen leicht mal durcheinander. Drumherum habe ich in Streifen die
 US-Flagge gearbeitet. Die Sterne sind gehäkelt, die Rose wie bei der
 Rautendecke gestrickt.
 
--   ![DSCF0838](DSCF0838.jpg)
--   ![DSCF0839](DSCF0839.jpg)
-
-1.  [1](#)
-2.  [2](#)
+<div id='slides' class='slideshow'>
+![DSCF0838](DSCF0838.jpg)
+![DSCF0839](DSCF0839.jpg)
+</div>
 

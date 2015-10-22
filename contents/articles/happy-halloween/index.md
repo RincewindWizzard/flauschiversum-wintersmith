@@ -17,19 +17,14 @@ es nicht getan. Dann fand ich dieses Video auf Youtube
 [http://www.youtube.com/watch?v=\_9iIz2i2gww](http://www.youtube.com/watch?v=_9iIz2i2gww)
 und mich hats gepackt.
 
--   ![DSCF1734](DSCF1734-e1421938827294.jpg)
--   ![DSCF1742](DSCF1742-e1421938889112.jpg)
--   ![DSCF1741](DSCF1741-e1421938875997.jpg)
--   ![DSCF1739](DSCF1739-e1421938850143.jpg)
--   ![DSCF1740](DSCF1740-e1421938864753.jpg)
--   ![DSCF1747](DSCF1747-e1421938907261.jpg)
-
-1.  [1](#)
-2.  [2](#)
-3.  [3](#)
-4.  [4](#)
-5.  [5](#)
-6.  [6](#)
+<div id='slides' class='slideshow'>
+![DSCF1734](DSCF1734-e1421938827294.jpg)
+![DSCF1742](DSCF1742-e1421938889112.jpg)
+![DSCF1741](DSCF1741-e1421938875997.jpg)
+![DSCF1739](DSCF1739-e1421938850143.jpg)
+![DSCF1740](DSCF1740-e1421938864753.jpg)
+![DSCF1747](DSCF1747-e1421938907261.jpg)
+</div>
 
 Anzeichnen Ausschnitzen Feinarbeit Anmalen 4 Stunden später... Ich ekel
 mich selber vor diesem Ding. Insgeheim bin ich froh wenn er in einer

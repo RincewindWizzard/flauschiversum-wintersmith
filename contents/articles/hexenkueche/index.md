@@ -11,9 +11,7 @@ Endlich ist meine Küche fertig, sie hat nur auf dieses bebrannte Brett
 gewartet. Jetzt kann ich ruhigen Gewissens hinter dem Herd stehen und
 jeder weiß, wer in dieser Küche das sagen hat.
 
--   ![DSCF1613](DSCF1613-e1421944624349.jpg)
-
-1.  [1](#)
+![DSCF1613](DSCF1613-e1421944624349.jpg)
 
 Jawohl, es ist Ermeline Wollknoll, die hier den Kochlöffel schwingt.
 Dieses aussagekräftige Brett ist über meiner Dunstabzugshaube montiert

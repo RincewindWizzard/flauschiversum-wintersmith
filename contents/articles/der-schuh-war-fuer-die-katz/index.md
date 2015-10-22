@@ -20,35 +20,20 @@ sagt: "Leg dich hin." Tja und dass das Ganze nicht so richtig
 funktioniert, wenn man den Puschen nicht richtig benutzt, kann man den
 Beiden so oft sagen wie man will.
 
--   ![DSCF1522](DSCF1522.jpg)
--   ![DSCF1524](DSCF1524.jpg)
--   ![DSCF1525](DSCF1525.jpg)
--   ![DSCF1527](DSCF1527.jpg)
--   ![DSCF1530](DSCF1530.jpg)
--   ![DSCF1514](DSCF1514.jpg)
--   ![DSCF1515](DSCF1515.jpg)
 
-1.  [1](#)
-2.  [2](#)
-3.  [3](#)
-4.  [4](#)
-5.  [5](#)
-6.  [6](#)
-7.  [7](#)
-
-[**](#) [**](#)
-
--   ![DSCF1537](DSCF1537.jpg)
--   ![DSCF1541](DSCF1541.jpg)
--   ![DSCF1546](DSCF1546.jpg)
--   ![DSCF1545](DSCF1545.jpg)
-
-1.  [1](#)
-2.  [2](#)
-3.  [3](#)
-4.  [4](#)
-
-[**](#) [**](#)
+<div class='slideshow'>
+![DSCF1522](DSCF1522.jpg)
+![DSCF1524](DSCF1524.jpg)
+![DSCF1525](DSCF1525.jpg)
+![DSCF1527](DSCF1527.jpg)
+![DSCF1530](DSCF1530.jpg)
+![DSCF1514](DSCF1514.jpg)
+![DSCF1515](DSCF1515.jpg)
+![DSCF1537](DSCF1537.jpg)
+![DSCF1541](DSCF1541.jpg)
+![DSCF1546](DSCF1546.jpg)
+![DSCF1545](DSCF1545.jpg)
+</div>
 
 So und knapp eine Woche nach der Landung des Riesenpuschen, kann ich
 mich selbst davon überzeugen, dass er akzeptiert wurde. Schade, dass ihr
