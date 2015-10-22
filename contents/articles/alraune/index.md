@@ -7,7 +7,7 @@ image: DSCF0527-e1423510718948.jpg
 excerpt: "Mal wieder etwas für das Hobby LARP, wir fahren in diesem Jahr mit unseren Magiern auf eine Kriegscon und unser Schutz ist diese junge Alraune..."
 ---
 
-<div id='slides' class='slideshow'>
+<div class='slideshow'>
 ![DSCF0527](DSCF0527-e1423510718948.jpg)
 ![DSCF0528](DSCF0528-e1423510730422.jpg)
 ![DSCF0529](DSCF0529-e1423510742580.jpg)
@@ -29,7 +29,7 @@ der Ohrenpuschels sparen, weil ich so schön scheußliche Schützerchen für
 2€/Stck finden konnte. Toll nicht wahr? Vielleicht laufe ich auch
 einfach so mal mit dem Ding durch die Innenstadt. :)
 
-<div id='slides' class='slideshow'>
+<div class='slideshow'>
 ![DSCF0531](DSCF0531.jpg)
 </div>
 
