@@ -22,6 +22,7 @@ append header
 block content
   article.article
     section.content!= typogr(page.html).typogrify()
+    div.fb-like(data-href="http://flauschiversum.de" + page.url, data-layout="standard", data-action="like", data-show-faces="true", data-share="true")
 
 block prepend footer
   div.nav
