@@ -5,6 +5,7 @@ date: 2015-08-26 14:33:00
 template: article.jade
 filename: /:year/:month/:title/index.html
 image: Drachenauge.jpg
+category: malen
 excerpt: "Ich habe heute im Bus gezeichnet."
 ---
 
