@@ -3,6 +3,7 @@ title: "Gib´s mir!… - Audrey II"
 author: Ermeline
 date: 2014-05-26 21:01:23
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: IMG_6060-225x300.jpg
 excerpt: ""
 ---

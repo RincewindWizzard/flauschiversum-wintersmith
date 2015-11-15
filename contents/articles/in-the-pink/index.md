@@ -3,6 +3,7 @@ title: "In the Pink"
 author: Ermeline
 date: 2014-01-02 23:19:50
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: IMG_1892.jpg
 excerpt: "Hier mein Lieblingsschal nach einer Anleitung von Ravelry in verschiedensten Ausführungen."
 ---

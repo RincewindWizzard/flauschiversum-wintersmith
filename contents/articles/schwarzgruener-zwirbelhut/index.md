@@ -3,6 +3,7 @@ title: "Schwarzgrüner Zwirbelhut"
 author: Ermeline
 date: 2014-07-23 11:07:27
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF1388-e1421952622650.jpg
 excerpt: "Weil der neue Hut so toll ist und so viel Spaß gemacht hat, hab ich mich gleich auch noch am dritten Tag dem Filzen gewidmet. "
 ---

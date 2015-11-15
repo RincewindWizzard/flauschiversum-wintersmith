@@ -3,6 +3,7 @@ title: "Quilt alias Patchworkdecke"
 author: Ermeline
 date: 2014-01-02 23:56:41
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF0515-e1423511199914.jpg
 excerpt: "Was macht man wenn man schon immer eine selbstgenähte Tagesdecke haben wollte?"
 ---

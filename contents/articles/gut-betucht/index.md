@@ -3,6 +3,7 @@ title: "Gut betucht"
 author: Ermeline
 date: 2015-07-20 19:39:18
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF2941.jpg
 excerpt: "Lange hab ich mich nicht mehr um das Flauschiversum gekümmert, ich habe so einiges privat in dieser Zeit geregelt und jetzt genieße ich die Ferien und möchte euch zeigen, was so in der Zeit entstanden ist. "
 ---

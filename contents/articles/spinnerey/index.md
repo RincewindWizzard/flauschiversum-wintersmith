@@ -3,6 +3,7 @@ title: "Spinnerey"
 author: Ermeline
 date: 2013-07-27 22:13:00
 template: article.jade
+filename: /:year/:month/:title/index.html
 excerpt: ""
 ---
 

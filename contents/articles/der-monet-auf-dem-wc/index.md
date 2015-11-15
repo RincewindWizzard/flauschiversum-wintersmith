@@ -3,6 +3,7 @@ title: "Der Monet auf dem WC"
 author: Ermeline
 date: 2015-01-18 20:30:23
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF2031.jpg
 excerpt: "Weil mein Gästebad so langweilig aussah, beschloß ich, es mit einem Bild zu verschönern. Und was paßt in einen solchen Raum besser, als ein Seerosenquilt a la Monet?"
 ---

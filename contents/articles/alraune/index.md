@@ -3,6 +3,7 @@ title: "Alraune"
 author: Ermeline
 date: 2014-01-04 19:10:28
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF0527-e1423510718948.jpg
 excerpt: "Mal wieder etwas für das Hobby LARP, wir fahren in diesem Jahr mit unseren Magiern auf eine Kriegscon und unser Schutz ist diese junge Alraune..."
 ---

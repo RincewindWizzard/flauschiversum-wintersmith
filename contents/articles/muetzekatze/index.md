@@ -3,6 +3,7 @@ title: "Mützekatze"
 author: Ermeline
 date: 2014-05-18 18:25:10
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF0295-e1422117136878.jpg
 excerpt: "Tja, also Katzen mag ich echt gerne..."
 ---

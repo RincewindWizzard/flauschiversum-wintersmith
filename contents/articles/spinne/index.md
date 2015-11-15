@@ -3,6 +3,7 @@ title: "Spinne"
 author: Ermeline
 date: 2015-04-09 14:39:36
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF2097.jpg
 excerpt: "Aus ner ollen Socke und zwei Bällen... "
 ---

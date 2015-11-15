@@ -3,6 +3,7 @@ title: "Puppenspiel"
 author: Ermeline
 date: 2014-06-16 19:22:24
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF0844-e1422111087530.jpg
 excerpt: "Nach Vollendung eines so großen Projekts wie einer Wolldecke, fertige\r\nich zur Entspannung dann gerne mal kleinere Teile..."
 ---

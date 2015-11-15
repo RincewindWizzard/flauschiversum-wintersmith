@@ -3,6 +3,7 @@ title: "Nekronomikon"
 author: Ermeline
 date: 2014-01-02 20:25:10
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF0496.jpg
 excerpt: "Ich wollte selbst immer einen dicken Wälzer haben, mit dem ich auffallen würde."
 ---

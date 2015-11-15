@@ -3,6 +3,7 @@ title: "Ein Blick in mein Sketchbook"
 author: Ermeline
 date: 2015-08-26 14:33:00
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: Drachenauge.jpg
 excerpt: "Ich habe heute im Bus gezeichnet."
 ---

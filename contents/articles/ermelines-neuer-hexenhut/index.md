@@ -3,6 +3,7 @@ title: "Ermelines neuer Hexenhut"
 author: Ermeline
 date: 2014-07-22 15:10:47
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF1377-e1421954170338.jpg
 excerpt: "Und meine Freude ist riiiiiesig. "
 ---

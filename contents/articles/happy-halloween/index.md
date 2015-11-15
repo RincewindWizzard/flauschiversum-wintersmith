@@ -3,6 +3,7 @@ title: "Happy Halloween"
 author: Ermeline
 date: 2014-10-16 17:41:01
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF1734-e1421938827294.jpg
 excerpt: "Es war ja nur eine Frage der Zeit, wann auch ich mich mal an eine Kürbisfratze wage. "
 ---

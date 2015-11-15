@@ -3,6 +3,8 @@ title: Einschulungsgeschenk
 author: Ermeline
 date: 2015-08-30 11:45:00 
 template: article.jade
+filename: /:year/:month/:title/index.html
+filename: /:year/:month/:title/index.html
 image: DSCF3012.jpg
 excerpt: ""
 image: Korb.jpg

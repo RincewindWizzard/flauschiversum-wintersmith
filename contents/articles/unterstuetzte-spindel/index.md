@@ -3,6 +3,7 @@ title: "unterstützte Spindel"
 author: Ermeline
 date: 2015-05-12 16:58:09
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF2839.jpg
 excerpt: "Ich habe ein Problem, ich habe mir ein traumhaftes Fingergarn von SchoppelWolle besorgt und wollte mir ein schönes Lacegarn spinnen. "
 ---

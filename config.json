@@ -7,6 +7,7 @@
   },
   "plugins": [
     "./plugins/paginator.coffee",
+    "./plugins/date_urls.js",
     "wintersmith-less"
   ],
   "require": {

@@ -3,6 +3,7 @@ title: "Wikinger"
 author: Ermeline
 date: 2014-01-04 19:34:32
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSC00624-e1423509985673.jpg
 excerpt: "Nachdem ich festgestellt hatte was man mit Vaddis Lötkolben alles anstellen kann, hab ich mich an das erste Lederbranding rangewagt..."
 ---

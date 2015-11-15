@@ -3,6 +3,7 @@ title: "Warmes, pinkes Reichsfedervieh..."
 author: Ermeline
 date: 2014-07-30 19:23:04
 template: article.jade
+filename: /:year/:month/:title/index.html
 excerpt: ""
 ---
 

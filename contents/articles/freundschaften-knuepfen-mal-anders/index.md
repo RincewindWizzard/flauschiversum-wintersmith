@@ -3,6 +3,7 @@ title: "Freundschaften knüpfen mal anders"
 author: Ermeline
 date: 2014-07-23 12:52:24
 template: article.jade
+filename: /:year/:month/:title/index.html
 excerpt: ""
 ---
 

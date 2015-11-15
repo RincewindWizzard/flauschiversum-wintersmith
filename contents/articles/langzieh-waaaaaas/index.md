@@ -3,6 +3,7 @@ title: "Langzieh-Waaaaaas??"
 author: Ermeline
 date: 2014-05-18 17:42:09
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF0634-e1422117494573.jpg
 excerpt: "Wer nicht weiß was das hier sein soll, der denke jetzt bitte an Harry Potter... Die Weasley-Zwillinge... und Weaslys-Zauberhafte-Zauberscherze... jep, das ist ein Langzieh-Ohr."
 ---

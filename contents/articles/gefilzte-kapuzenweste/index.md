@@ -3,6 +3,7 @@ title: "gefilzte Kapuzenweste"
 author: Ermeline
 date: 2015-05-03 18:59:13
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF2769f.jpg
 excerpt: "Lange lange lag dieses Projekt herum, noch vor meinem Umzug wurde dieses Ding angefilzt, unfertig und farblich nicht mehr meiner Stimmung entsprechend, für über ein Jahr auf Eis gelegt und fast vergessen."
 ---

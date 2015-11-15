@@ -3,6 +3,7 @@ title: "Grinsekatze"
 author: Ermeline
 date: 2014-07-10 22:38:20
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF1318-e1422105791763.jpg
 excerpt: "Nachdem das Flauschiversum nun viiiiel zu lange nicht mehr kre-aktiv war gibt es nun eine Anleitung wie man aus einem ollen T-Shirt ein cooles Top machen kann."
 ---
