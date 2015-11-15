@@ -3,6 +3,7 @@ title: "Maskerade"
 author: Ermeline
 date: 2014-10-24 20:15:05
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF1828-e1421937578797.jpg
 excerpt: "So eine Firmenfeier mit dem Motto \"Maskenball\" steht bei einem Freund an und es wird an mich herangetreten: \"Sag mal Ermeline... könntest du vielleicht, ich hab hier noch diese blanko Maske...\""
 ---

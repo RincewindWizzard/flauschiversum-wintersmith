@@ -3,6 +3,7 @@ title: "für Blumenkinder"
 author: Ermeline
 date: 2014-01-02 22:46:33
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF0500-e1423512855930.jpg
 excerpt: "Irgendwie habe ich einen Narren an Spitzhüten gefressen. "
 ---

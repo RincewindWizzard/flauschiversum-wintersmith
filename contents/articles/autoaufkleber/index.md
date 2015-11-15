@@ -3,6 +3,7 @@ title: "Autoaufkleber"
 author: Ermeline
 date: 2014-05-22 15:05:28
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF0641-300x225.jpg
 excerpt: ""
 ---

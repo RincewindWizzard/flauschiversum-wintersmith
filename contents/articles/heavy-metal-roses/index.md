@@ -3,6 +3,7 @@ title: "Heavy Metal Roses"
 author: Ermeline
 date: 2014-01-04 20:22:53
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF0535.jpg
 excerpt: "Tja hübsch sehen sie ja aus, aber das ist doch echt schwer - oder?\r\nNö isses nicht."
 ---

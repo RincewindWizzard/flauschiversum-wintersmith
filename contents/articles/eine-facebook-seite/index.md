@@ -3,6 +3,7 @@ title: "Eine Facebook Seite"
 author: Ermeline
 date: 2014-05-10 15:30:11
 template: article.jade
+filename: /:year/:month/:title/index.html
 excerpt: ""
 ---
 

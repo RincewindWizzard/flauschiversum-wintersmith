@@ -3,6 +3,7 @@ title: "Ein Schneckenzwirbelhut"
 author: Ermeline
 date: 2014-08-05 22:27:59
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF1489-e1421947669696.jpg
 excerpt: "Diesmal ist es ein grünes Zwirbelchen geworden. "
 ---

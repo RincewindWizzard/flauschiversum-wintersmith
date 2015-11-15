@@ -4,6 +4,7 @@ category: filzen
 author: Ermeline
 date: 2014-08-01 14:23:27
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF1451.jpg
 excerpt: "Diesmal sollte es kein Spitzhut sein. Aber die Alternative kann sich sehen lassen. "
 ---

@@ -3,6 +3,7 @@ title: "der Schuh war für die Katz"
 author: Ermeline
 date: 2014-08-26 14:15:56
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF1522.jpg
 excerpt: "So um hier mal den Beweis zu bringen, dass ich auch noch andere Dinge als Kopfbedeckungen filzen kann... Hoffentlich bekommt keiner Käsefüße. "
 ---

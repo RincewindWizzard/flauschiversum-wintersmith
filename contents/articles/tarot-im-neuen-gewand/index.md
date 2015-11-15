@@ -4,6 +4,7 @@ category: brandings
 author: Ermeline
 date: 2015-02-10 15:57:25
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSC00014.jpg
 excerpt: "Hier mal ein zeitlich etwas länger zurückliegendes Werk."
 ---

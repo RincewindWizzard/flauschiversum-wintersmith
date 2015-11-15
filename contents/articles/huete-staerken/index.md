@@ -3,6 +3,7 @@ title: "Hüte stärken"
 author: Ermeline
 date: 2014-01-02 22:17:59
 template: article.jade
+filename: /:year/:month/:title/index.html
 excerpt: ""
 ---
 

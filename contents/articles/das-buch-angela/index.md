@@ -3,6 +3,7 @@ title: "Das Buch Angela"
 author: Ermeline
 date: 2014-06-12 16:05:04
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF0890-e1422112092855.jpg
 excerpt: "Wenn ich gerade mal nicht handarbeite, dann betätige ich mich als Schriftstellerin."
 ---

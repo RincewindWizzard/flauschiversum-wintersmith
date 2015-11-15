@@ -3,6 +3,7 @@ title: "idee Creativmarkt"
 author: Ermeline
 date: 2013-07-28 01:01:06
 template: article.jade
+filename: /:year/:month/:title/index.html
 excerpt: ""
 ---
 

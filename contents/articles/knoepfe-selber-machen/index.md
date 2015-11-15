@@ -3,6 +3,7 @@ title: "Knöpfe selber machen"
 author: Ermeline
 date: 2014-09-28 12:26:36
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF1705.jpg
 excerpt: "Wer brauchte nicht schon immer mal große, bunte Knöpfe haben oder in gaaaaanz bestimmten Farben? Vielleicht in eckig oder oval oder rund oder herzchenform???"
 ---

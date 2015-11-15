@@ -3,6 +3,7 @@ title: "Hexenküche"
 author: Ermeline
 date: 2014-08-31 21:18:46
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF1613-e1421944624349.jpg
 excerpt: "Endlich ist meine Küche fertig, sie hat nur auf dieses bebrannte Brett gewartet. "
 ---

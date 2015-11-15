@@ -3,6 +3,7 @@ title: "für die Ordenskrieger"
 author: Ermeline
 date: 2014-01-02 20:49:25
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF0481-e1423514105547.jpg
 excerpt: "Wer hat schonmal was von \"Klassenrat\"oder \"Klassenleiterstunde\" gehört? "
 ---

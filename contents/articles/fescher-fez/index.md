@@ -3,6 +3,7 @@ title: "Fescher Fez"
 author: Ermeline
 date: 2014-08-21 20:59:48
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF1509-e1421947525174.jpg
 excerpt: "Dieser an einen Fez angelehnte Hut, darf nun den Charakter eines Flaschengeistes visuell bereichern."
 ---

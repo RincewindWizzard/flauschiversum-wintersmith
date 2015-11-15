@@ -3,6 +3,7 @@ title: "Grinsekatze deluxe"
 author: Ermeline
 date: 2015-05-11 15:09:53
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF2817.jpg
 excerpt: "Es war einmal ein Acrylmal-Wochenende in der schönen Schule..."
 ---

@@ -3,6 +3,7 @@ title: "Gedenktafel"
 author: Ermeline
 date: 2014-05-18 16:21:42
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: IMG_4453-e1422117904595.jpg
 excerpt: "Nachdem ich trauriger Weise den Umzug meiner langjährigen Arbeitsstelle dulden musste, habe ich (als Andenken von uns Mitarbeitern für die Chefs) eine hölzerne Gedenktafel ins Leben gerufen."
 ---

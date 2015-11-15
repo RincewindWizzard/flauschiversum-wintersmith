@@ -3,6 +3,7 @@ title: "Karteikartenfresser"
 author: Ermeline
 date: 2014-05-18 15:14:18
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF0444sscff.jpg
 excerpt: "Also irgendwie fand ich den alten Karteikasten zu langweilig."
 ---

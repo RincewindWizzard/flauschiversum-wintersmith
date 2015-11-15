@@ -3,6 +3,7 @@ title: "Flauschebällchen"
 author: Ermeline
 date: 2013-07-28 17:23:39
 template: article.jade
+filename: /:year/:month/:title/index.html
 excerpt: ""
 ---
 

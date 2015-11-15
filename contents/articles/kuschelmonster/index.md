@@ -3,6 +3,7 @@ title: "Kuschelmonster"
 author: Ermeline
 date: 2015-02-09 21:50:12
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF2159-e1423515909684.jpg
 excerpt: "für die kalten Wintertage dacht' ich mir,\r\nfilz mal nen Schal in Gruselmanier..."
 ---

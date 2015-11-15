@@ -3,6 +3,7 @@ title: "Das Mädchen und die Heiligtümer des Todes"
 author: Ermeline
 date: 2015-01-07 18:10:57
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: IMG_4282.jpg
 excerpt: "Also eine Aufgabe aus der Unterstufe der Erzieherausbildung war es ein modernes Märchen zu schreiben und ein Märchenbuch zu gestalten."
 ---

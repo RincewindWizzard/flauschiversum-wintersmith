@@ -3,6 +3,7 @@ title: "Ein Hut für Steinfreunde"
 author: Ermeline
 date: 2014-04-28 21:33:43
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF0548.jpg
 excerpt: "So scheinbar habe ich meine Berufung gefunden... es sind die Filzhüte."
 ---
