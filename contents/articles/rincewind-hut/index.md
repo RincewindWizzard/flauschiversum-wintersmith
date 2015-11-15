@@ -4,7 +4,8 @@ category: filzen
 author: Ermeline
 date: 2014-01-02 22:07:35
 template: article.jade
-image: DSCF0512-e1423513244993.jpg
+filename: /:year/:month/:title/index.html
+image: "DSCF0512-e1423513244993.jpg"
 excerpt: "Tja, wo ein Hut was geworden ist, ist der zweite Hut nicht weit, jetzt wollte mein Freund für seinen Magier-Charakter auch einen haben... "
 ---
 
