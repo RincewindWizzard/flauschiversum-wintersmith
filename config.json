@@ -7,7 +7,6 @@
   },
   "plugins": [
     "./plugins/paginator.coffee",
-    "./plugins/permalinks",
     "wintersmith-less"
   ],
   "require": {
