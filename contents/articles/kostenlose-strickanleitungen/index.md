@@ -3,6 +3,7 @@ title: "kostenlose Strickanleitungen"
 author: Ermeline
 date: 2014-06-29 15:32:06
 template: article.jade
+filename: /:year/:month/:title/index.html
 excerpt: ""
 ---
 

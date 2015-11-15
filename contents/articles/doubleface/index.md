@@ -3,6 +3,7 @@ title: "Doubleface"
 author: Ermeline
 date: 2014-01-02 23:31:40
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: IMG_3748.jpg
 excerpt: "Ich finde ja wenn man Muster strickt ist es doof, dass es auf der Rückseite des Strickstücks immer so doofe Fäden gibt..."
 ---

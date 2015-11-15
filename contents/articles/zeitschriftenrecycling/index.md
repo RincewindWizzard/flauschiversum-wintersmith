@@ -3,6 +3,7 @@ title: "Zeitschriftenrecycling"
 author: Ermeline
 date: 2014-07-14 13:50:11
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF1335.jpg
 excerpt: "Das mir hier bloß keiner die Rentner-Bravo belächelt! Ich habe mit ihr soooo viel Spaß, weil da ganz tolle Farben drin sind."
 ---

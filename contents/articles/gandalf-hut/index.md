@@ -3,6 +3,7 @@ title: "Gandalf-Hut"
 author: Ermeline
 date: 2014-07-22 15:12:40
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF1385-e1421953820843.jpg
 excerpt: "Und hier haben wir uns heute mal an einen schlichten Zaubererhut gemacht."
 ---

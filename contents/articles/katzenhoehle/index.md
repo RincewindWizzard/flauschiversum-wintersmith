@@ -3,6 +3,7 @@ title: "Katzenhöhle"
 author: Ermeline
 date: 2015-07-27 11:01:13
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF2956.jpg
 excerpt: "Um es mal so zu sagen, auch bei einer Ermeline läuft nicht immer alles perfekt. Diese tolle Katzenhöhle sollte ein Hut werden.\r\n"
 ---

@@ -3,6 +3,7 @@ title: "Kinderspielhaus Deluxe"
 author: Ermeline
 date: 2014-06-05 14:55:18
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: IMG_2035.jpg
 excerpt: "Also mein Papa ist der coolste von der ganzen Welt... und das kann ich beweisen :)"
 ---

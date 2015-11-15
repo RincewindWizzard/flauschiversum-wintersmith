@@ -3,6 +3,7 @@ title: "Filzen Filzen Filzen"
 author: Ermeline
 date: 2015-07-30 19:21:38
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF3086.jpg
 excerpt: "Einige Tage des Filz-Kreativismus liegen hinter mir."
 ---

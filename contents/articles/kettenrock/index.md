@@ -3,6 +3,7 @@ title: "Kettenrock"
 author: Ermeline
 date: 2014-01-04 20:42:50
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSC00680.jpg
 excerpt: "Eines meiner ersten Werkstücke, welches ziemlich viele verschiedene Arbeiten in sich vereint. "
 ---

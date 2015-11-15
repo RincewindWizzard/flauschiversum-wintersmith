@@ -3,6 +3,7 @@ title: "Stricklies'ln & Häkelpetra's"
 author: Ermeline
 date: 2013-07-27 22:46:08
 template: article.jade
+filename: /:year/:month/:title/index.html
 excerpt: ""
 ---
 

@@ -3,6 +3,7 @@ title: "Räuberhut"
 author: Ermeline
 date: 2015-04-17 08:15:26
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF2723.jpg
 excerpt: "Nach langer Zeit hat die Ermeline mal wieder einen Hut gefilzt. "
 ---

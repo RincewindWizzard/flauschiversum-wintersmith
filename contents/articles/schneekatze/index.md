@@ -3,6 +3,7 @@ title: "Schneekatze"
 author: Ermeline
 date: 2015-01-24 12:07:37
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF2033.jpg
 excerpt: "Ein lang gehegter Traum geht in Erfüllung. Wenn ich schon derzeit nicht meine eigene Hauskatze haben kann, dann doch wohl die Schneekatze im Hinterhof."
 ---

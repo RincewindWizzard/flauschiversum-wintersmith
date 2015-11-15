@@ -3,6 +3,7 @@ title: "Monstermützen"
 author: Ermeline
 date: 2015-01-04 14:12:55
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF2005.jpg
 excerpt: "So dann wollen wir doch mal wieder was flauschiges teilen. Die Feiertage haben bestimmt viel von uns abverlangt und ich habe diese Zeit zum Entspannen und Produzieren genutzt... "
 ---

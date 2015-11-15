@@ -3,6 +3,7 @@ title: "(F)Lauschangriff"
 author: Ermeline
 date: 2014-04-29 21:05:07
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF0592.jpg
 excerpt: "Es war einmal...\r\n... ein Freund und der wollte (wie könnte es anders sein...) einen Hut."
 ---

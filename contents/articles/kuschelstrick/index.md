@@ -3,6 +3,7 @@ title: "Kuschelstrick"
 author: Ermeline
 date: 2014-06-11 15:51:03
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF0854-e1422112754326.jpg
 excerpt: "Mein Hobby, Wolldecken zu stricken, entwickelte sich eher zufällig."
 ---

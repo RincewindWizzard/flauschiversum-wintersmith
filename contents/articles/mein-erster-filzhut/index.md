@@ -3,6 +3,7 @@ title: "Mein erster Filzhut"
 author: Ermeline
 date: 2014-01-02 21:47:16
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF0503-e1423513550725.jpg
 excerpt: "Also ich habe mich vorher noch nie an das Filzen herangetraut, und dann kam es über mich: zu viel freie Zeit und der Wille einen qualitativ hochwertigen Hexenhut zu haben, wie ich ihn mir immer vorgestellt habe... denkste..."
 ---

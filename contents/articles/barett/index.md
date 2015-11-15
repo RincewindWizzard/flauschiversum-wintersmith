@@ -3,6 +3,7 @@ title: "Barett"
 author: Ermeline
 date: 2015-07-27 13:02:41
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF3012.jpg
 excerpt: "Ich brauche für meinen neuen LARP-Charakter eine neuen Hut, denn ausnahmsweise bin ich mal keine Hexe sondern eine Wollwerkerin."
 ---

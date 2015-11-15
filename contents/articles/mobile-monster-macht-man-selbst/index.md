@@ -3,6 +3,7 @@ title: "mobile Monster macht man selbst"
 author: Ermeline
 date: 2014-12-02 20:12:00
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF1889.jpg
 excerpt: "So wie fange ich an?\r\nAm besten damit, dass ich mal in einem Spielzeuggeschäft stand und dort neben diversen Handpuppen auch ein paar Umhängetaschen mit Monstergesichtern hingen."
 ---

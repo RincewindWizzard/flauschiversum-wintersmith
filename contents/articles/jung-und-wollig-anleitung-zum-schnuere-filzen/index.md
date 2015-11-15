@@ -3,6 +3,7 @@ title: "jung und wollig / Anleitung zum Schnüre filzen"
 author: Ermeline
 date: 2014-08-02 14:06:49
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF1420.jpg
 excerpt: "Das war mal eine verrückte Idee, die ich nicht ungefilzt auf mir sitzen lassen konnte. "
 ---

@@ -3,6 +3,7 @@ title: "Das lauwarme Händchen"
 author: Ermeline
 date: 2014-10-23 10:56:18
 template: article.jade
+filename: /:year/:month/:title/index.html
 excerpt: "Halloween ist nah und da ist es noch näher liegend, dass man sich was ausgefallenes als Deko aussuchen muss. "
 ---
 

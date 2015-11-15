@@ -3,6 +3,7 @@ title: "Strickmantel"
 author: Ermeline
 date: 2014-06-25 16:36:09
 template: article.jade
+filename: /:year/:month/:title/index.html
 image: DSCF0872-e1422110208219.jpg
 excerpt: "Das Strickmuster welches ich für meine kunterbunte Restedecke benutzt habe, habe ich auch für meinen Mantel benutzt."
 ---

@@ -3,6 +3,7 @@ title: "de Wullstuuv"
 author: Ermeline
 date: 2013-07-28 00:50:23
 template: article.jade
+filename: /:year/:month/:title/index.html
 excerpt: ""
 ---
 
