@@ -1,5 +1,6 @@
 ---
 title: "Zerknautschter Hut, ist immer gut."
+category: filzen
 author: Ermeline
 date: 2014-08-01 14:23:27
 template: article.jade
@@ -14,11 +15,4 @@ excerpt: "Diesmal sollte es kein Spitzhut sein. Aber die Alternative kann sich s
 ![DSCF1452](DSCF1452.jpg)
 </div>
 
-Diesmal sollte es kein Spitzhut sein. Aber die Alternative kann sich
-sehen lassen. Ein zerknautschter, blauer Zylinder ist absolut
-akzeptabel. Mit ein bisschen Hutstärke und Bügeleisenpower dürften die
-Falten viel Action standhalten. Das Hutband ist aus einem Stück Stoff
-genäht, welches auch an der zum Magier gehörigen Gewandung zu finden
-ist, daher rundet der Hut das Outfit perfekt ab und hat seinen ersten
-Auftritt auf der diesjährigen Mythodea. Ich hab das Gefühl "Behüterin"
-ist ein treffender Begriff für mich.
+Diesmal sollte es kein Spitzhut sein. Aber die Alternative kann sich sehen lassen. Ein zerknautschter, blauer Zylinder ist absolut akzeptabel. Mit ein bisschen Hutstärke und Bügeleisenpower dürften die Falten viel Action standhalten. Das Hutband ist aus einem Stück Stoff genäht, welches auch an der zum Magier gehörigen Gewandung zu finden ist, daher rundet der Hut das Outfit perfekt ab und hat seinen ersten Auftritt auf der diesjährigen Mythodea. Ich hab das Gefühl "Behüterin" ist ein treffender Begriff für mich.

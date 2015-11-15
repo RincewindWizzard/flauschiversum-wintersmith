@@ -1,5 +1,6 @@
 ---
 title: "Wikinger"
+category: brandings
 author: Ermeline
 date: 2014-01-04 19:34:32
 template: article.jade
@@ -12,8 +13,4 @@ excerpt: "Nachdem ich festgestellt hatte was man mit Vaddis Lötkolben alles ans
 ![DSC00622](DSC00622-e1423509999197.jpg)
 </div>
 
-Nachdem ich festgestellt hatte was man mit Vaddis Lötkolben alles
-anstellen kann, hab ich mich an das erste Lederbranding rangewagt, man
-was braucht man da Feingefühl. Ist natürlich auch nicht so detailliert
-wie auf der Vorlage aber trotzdem ganz ok. Blöd nur, wenn man noch nicht
-so richtig auf der Schippe hat, dass ein Lötkolben heiß ist...  
+Nachdem ich festgestellt hatte was man mit Vaddis Lötkolben alles anstellen kann, hab ich mich an das erste Lederbranding rangewagt, man was braucht man da Feingefühl. Ist natürlich auch nicht so detailliert wie auf der Vorlage aber trotzdem ganz ok. Blöd nur, wenn man noch nicht so richtig auf der Schippe hat, dass ein Lötkolben heiß ist...  
