@@ -24,7 +24,7 @@ Ich möchte insgesamt 12 Schnüre haben, deshalb hab ich mir 6 etwa 70cm
 lange Kammzüge abgetrennt und der Länge nach geteilt (so sind meine
 Schnüre nicht ganz so dick, etwa 1cm wenn sie fertig gefilzt sind).
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF1424](DSCF1424.jpg)
 ![DSCF1425](DSCF1425.jpg)
 </div>
@@ -52,7 +52,7 @@ die Schnüre darauf. Das Handtuch gibt der Rolle Wiederstand und ich
 rutsche nicht einfach nur über die Schnur, sondern kann sie wieder
 rollen.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF1427](DSCF1427.jpg)
 ![DSCF1429](DSCF1429.jpg)
 </div>
@@ -62,7 +62,7 @@ verbinden habe ich wie oben schon erwähnt die einen Enden ungefilzt
 gelassen, diese lege ich nun überlappend übereinander, sodass die Fasern
 der verschiedenen Schnüre sich miteinander verbinden können.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF1430](DSCF1430.jpg)
 ![DSCF1431](DSCF1431.jpg)
 </div>
@@ -72,7 +72,7 @@ Schur zum ungefilzten Ende ein wenig Wolle zum Zusammehalt
 herumgewickelt. Dann habe ich alles zusammen wie eine große Schnur an
 der Oberfläche angefilzt.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF1432](DSCF1432.jpg)
 ![DSCF1433](DSCF1433.jpg)
 ![DSCF1434](DSCF1434.jpg)
@@ -85,7 +85,7 @@ gewalkt und dann war der Stiel umfilzt mit den Schnüren dran. Gibt es
 schon Vermutungen? Wascht euer fertiges Werkstück gut aus und
 neutralisiert dabei mit etwas Essigessenz die Seife.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF1442](DSCF1442.jpg)
 ![DSCF1444](DSCF1444.jpg)
 ![DSCF1446](DSCF1446.jpg)
@@ -94,7 +94,7 @@ neutralisiert dabei mit etwas Essigessenz die Seife.
 
 Weiter geht es mit dem Zubehör zu dem oben beschriebenen Werk.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF1448](DSCF1448.jpg)
 ![DSCF1437](DSCF1437.jpg)
 ![DSCF1435](DSCF1435.jpg)

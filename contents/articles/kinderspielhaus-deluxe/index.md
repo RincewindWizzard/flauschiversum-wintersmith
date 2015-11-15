@@ -20,7 +20,7 @@ für das ultimative Kinderspielhaus. Wie durch Zufall hat meine Schwester
 Kinder (na sowas) und damit hatten wir auch einen idealen Endabnehmer :)
 ...also ran an den Speck.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![IMG\_2035](IMG_2035.jpg)
 ![IMG\_2039](IMG_2039.jpg)
 ![IMG\_2040](IMG_2040.jpg)
@@ -34,7 +34,7 @@ hatten 4 Wände und ein Dach gebaut, aber das macht noch kein fertiges
 Haus. Damit ein Kind sich dort wohlfühlen kann und auch wohnen kann,
 fehlen Fenster und Tür, Vorhänge und Hausschild...
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF0962](DSCF0962.jpg)
 ![DSCF0964](DSCF0964.jpg)
 </div>
@@ -48,7 +48,7 @@ Schornstein, ist in der Rückwand des Häusschens eine Toilettenbelüftung
 leiden...), hier sieht man gerade einen neugierigen Eigenheimbesitzer,
 der bei der Montage spioniert.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF0973](DSCF0973.jpg)
 ![DSCF0976](DSCF0976.jpg)
 </div>
@@ -64,7 +64,7 @@ hätte jemand das Haus vermutlich mit einem Plumpsklo verwechselt und das
 sollte nicht geschehen.) Ein kleiner Riegel verhindert das Aufschwingen
 der Tür.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![IMG\_2024](IMG_2024.jpg)
 ![DSCF0969](DSCF0969.jpg)
 </div>
@@ -77,7 +77,7 @@ Tonne umgeleitet werden. Damit auch jeder weiß: "Dieses Haus gehört
 jemandem:" Habe ich noch ein kleines Schild mit den Initialen meiner
 Nichten gebrannt.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF0990](DSCF0990.jpg)
 ![DSCF0971](DSCF0971.jpg)
 </div>

@@ -8,7 +8,7 @@ image: DSCF0500-e1423512855930.jpg
 excerpt: "Irgendwie habe ich einen Narren an Spitzhüten gefressen. "
 ---
 
-<div class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF0500](DSCF0500-e1423512855930.jpg)
 ![DSCF0501](DSCF0501-e1423512867344.jpg)
 ![DSCF0502](DSCF0502-e1423512877240.jpg)

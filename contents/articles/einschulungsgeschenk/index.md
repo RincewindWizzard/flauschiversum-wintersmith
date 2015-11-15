@@ -16,7 +16,7 @@ Lucy war kreativ, und obwohl hier gestrickt und genäht wurde, gilt dieses beson
 
 Die Vorgeschichte dazu ist jene: Lucy und ich verbrachten einen ganz normalen Sonntag miteinander und in einer Zeitschrift war dann eine kleine genähte Lunchbox abgebildet, die mich sofort begeisterte. Ich ließ nebenbei fallen, dass ich so eine kleine Box sehr gerne hätte, weil das voll toll für die Schule wäre und vergaß nach kurzer Zeit wieder, dass ich dies sagte. Nun wird nächste Woche meine Erste Klasse eingeschult und ich bekam heute mein Einschulungsgeschenk von Lucy. Schaut selbst was sie sich hat einfallen lassen.
 
-<div class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF3239-e1440934589131-750x380.jpg](DSCF3239-e1440934589131-750x380.jpg)
 ![DSCF3240.jpg](DSCF3240.jpg)
 ![DSCF3241.jpg](DSCF3241.jpg)

@@ -9,7 +9,7 @@ image: DSCF1854.jpg
 excerpt: "Diese liebenswerte Hasendame hat seit gestern nicht nur einen Platz in meiner Einzelne-Socken-Kiste geräumt, sondern auch einen in meinem Herzen erobert."
 ---
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF1851](DSCF1851.jpg)
 ![DSCF1853](DSCF1853.jpg)
 ![DSCF1854](DSCF1854.jpg)

@@ -9,7 +9,7 @@ image: "Seepferdchenhut_links.jpg"
 excerpt: "Meer auf dem Kopf haben wünschen sich nicht nur manche Männer..."
 ---
 
-<div class='slideshow slideshow_portrait'>
+<div class="slideshow_portrait">
 ![links](Seepferdchenhut_links.jpg)
 ![vorne](Seepferdchenhut_vorne.jpg)
 ![rechts](Seepferdchenhut_rechts.jpg)

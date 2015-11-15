@@ -8,7 +8,7 @@ image: DSCF1385-e1421953820843.jpg
 excerpt: "Und hier haben wir uns heute mal an einen schlichten Zaubererhut gemacht."
 ---
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF1385](DSCF1385-e1421953820843.jpg)
 ![DSCF1386](DSCF1386-e1421953831602.jpg)
 ![DSCF1383](DSCF1383-e1421953795669.jpg)

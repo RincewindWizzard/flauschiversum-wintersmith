@@ -9,7 +9,7 @@ image: DSCF2723.jpg
 excerpt: "Nach langer Zeit hat die Ermeline mal wieder einen Hut gefilzt. "
 ---
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF2723](DSCF2723.jpg)
 ![DSCF2724](DSCF2724.jpg)
 ![DSCF2725](DSCF2725.jpg)
@@ -19,7 +19,7 @@ excerpt: "Nach langer Zeit hat die Ermeline mal wieder einen Hut gefilzt. "
 Nach langer Zeit hat die Ermeline mal wieder einen Hut gefilzt. Für diesen Räuberhut konnte ich die [Spitzhutvorlage](http://flauschiversum.de/2014/07/ermelines-neuer-hexenhut-2/ "Ermelines neuer Hexenhut") von den Zauberhüten nehmen und musste dafür einfach nur die Spitze umklappen. Wenn du das auch so machen möchtest, dann achte darauf, dass du den Hut noch nicht zu stark gewalkt hast an der Spitze, damit du eine schöne runde Form bilden kannst, denn du wirst von der geraden Kante der Vorlage Ecken an der Hutspitze haben.
 
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF2717](DSCF2717.jpg)
 ![DSCF2718](DSCF2718.jpg)
 ![DSCF2729](DSCF2729.jpg)
@@ -29,7 +29,7 @@ Nach langer Zeit hat die Ermeline mal wieder einen Hut gefilzt. Für diesen Räu
 Mein Zipfel hätte fast noch kürzer sein können, ich habe die Überlänge mittels eines Zwirbels versteckt. Das Praktische ist ja bei Wolle, wenn sie trocknet, behält sie die Form.
 
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF2720](DSCF2720.jpg)
 ![DSCF2727](DSCF2727.jpg)
 ![DSCF2728](DSCF2728.jpg)

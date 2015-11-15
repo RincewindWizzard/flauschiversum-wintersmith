@@ -13,7 +13,7 @@ excerpt: "Ich habe ein Problem, ich habe mir ein traumhaftes Fingergarn von Scho
 
 Ich habe ein Problem, ich habe mir ein traumhaftes Fingergarn von SchoppelWolle besorgt und wollte mir ein schönes Lacegarn spinnen. Wie ihr seht, ist noch was von dem Garn übrig, aber die Spindel ist mittlerweile so schwer geworden, dass sie sich super träge dreht. Ich habe schon Fingerschmerzen vom andrehen. Doch Hilfe ist nah.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF2846](DSCF2846.jpg)
 ![DSCF2847](DSCF2847.jpg)
 ![DSCF2848](DSCF2848.jpg)

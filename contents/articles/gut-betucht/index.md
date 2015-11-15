@@ -34,7 +34,7 @@ einer kleine Fibel oder einer Tuchnadel ist es ein leichtes, kuscheliges
 Tuch für kühle Abende. Und ich arbeite schon an meinem nächsten Tuch,
 diesmal in größer und ohne selbstgesponnene Wolle.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF2941](DSCF2941.jpg)
 ![DSCF2942](DSCF2942.jpg)
 ![DSCF2943](DSCF2943.jpg)

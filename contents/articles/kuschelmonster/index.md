@@ -19,7 +19,7 @@ Es begann tatsächlich mit einem Schal und einer konkreten Vorstellung,
 die sich dann im Laufe des Prozesses zu etwas ganz Anderem entwickelte
 als das, was ursprünglich angedacht war...
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF2144](DSCF2144.jpg)
 ![DSCF2145](DSCF2145.jpg)
 ![DSCF2148](DSCF2148.jpg)
@@ -34,7 +34,7 @@ Wolle modellierte, fiel mir auf, dass ein Gesicht auch ganz gut passen
 würde. Und so machte ich mich an die Bleistiftskizze oben und versuchte
 sie mit Wolle in die Realität umzusetzen.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF2152](DSCF2152.jpg)
 ![DSCF2147](DSCF2147.jpg)
 ![DSCF2146](DSCF2146.jpg)
@@ -63,7 +63,7 @@ leicht wegfliegen, danach habe ich ein Fliegengitter darübergelegt und
 begonnen die Wolle flach zu drücken um sie vollständig mit Wasser zu
 tränken.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF2153](DSCF2153.jpg)
 ![DSCF2158](DSCF2158.jpg)
 ![DSCF2154](DSCF2154.jpg)
@@ -85,7 +85,7 @@ walken. Das kann jeder handhaben wie er will, so sind bei mir die
 Arbeitsschritte eingeprägt und so mache ich es auch, wer ein anderes
 Vorgehen für besser befindet, dem sei da freie Hand gelassen.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF2161](DSCF2161.jpg)
 ![DSCF2163](DSCF2163.jpg)
 </div>
@@ -99,7 +99,7 @@ Gedächtnis und wenn sie in einer bestimmten Form trocknet, so behält sie
 diese auch weitestgehend nach dem Trockenvorgang und wir wollen ja
 keinen Knitterschal... obwohl. Nee lieber doch nicht
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF2164](DSCF2164-e1423517780331.jpg)
 ![DSCF2165](DSCF2165-e1423517791543.jpg)
 ![DSCF2166](DSCF2166-e1423517802957.jpg)
@@ -108,7 +108,7 @@ keinen Knitterschal... obwohl. Nee lieber doch nicht
 
 Wenn er denn Fertig ist sieht er so aus.  
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF2171](DSCF2171.jpg)
 ![DSCF2174](DSCF2174.jpg)
 ![DSCF2175](DSCF2175.jpg)
@@ -118,14 +118,14 @@ Wenn er denn Fertig ist sieht er so aus.  
 Und wie ich schon am Anfang geschrieben habe... es bleibt oft nicht bei
 einem Schal. Diesmal ein brüderliches Dreieckstuch.  
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF2176](DSCF2176-e1423518155455.jpg)
 ![DSCF2177](DSCF2177-e1423518167582.jpg)
 </div>
 
 Hier nochmal im Tragezustand.  
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF2316](DSCF2316.jpg)
 ![DSCF2315](DSCF2315.jpg)
 ![DSCF2317](DSCF2317.jpg)
@@ -136,7 +136,7 @@ Und aktuell trocknet dieser ähhh... feuchte Traum in Violett-Rosa-Orange
 und wartet sehnsüchtig auf seine Vollendung mit dem
 Flauschiversum-Label.  
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF2330](DSCF2330.jpg)
 ![DSCF2331](DSCF2331-e1423582240257.jpg)
 ![DSCF2332](DSCF2332.jpg)

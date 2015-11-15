@@ -8,7 +8,7 @@ image: IMG_3748.jpg
 excerpt: "Ich finde ja wenn man Muster strickt ist es doof, dass es auf der Rückseite des Strickstücks immer so doofe Fäden gibt..."
 ---
 
-<div class='slideshow'>
+<div class="slideshow_landscape">
 ![IMG\_3748](IMG_3748.jpg)
 ![IMG\_3746](IMG_3746.jpg)
 </div>
@@ -22,7 +22,7 @@ gestrickten Tuch, wer die Strickspitze wiedererkennt - ja sie ist
 abgeschaut beim "[In the
 Pink](http://flauschiversum.de/2014/01/in-the-pink/ "In the Pink")".
 
-<div class='slideshow'>
+<div class="slideshow_landscape">
 ![IMG\_3749](IMG_3749.jpg)
 ![IMG\_3747](IMG_3747.jpg)
 ![IMG\_3750](IMG_3750.jpg)

@@ -15,7 +15,7 @@ Filzsession mit Lucy ergeben, die mit der genialen Idee eine Seerose
 filzen zu wollen ein Lauffeuer entfacht hat. Entstanden innerhalb der
 letzten sieben Tage sind:
 
-<div class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF3086](DSCF3086.jpg)
 ![DSCF3085](DSCF3085.jpg)
 ![DSCF3084](DSCF3084.jpg)
@@ -27,7 +27,7 @@ eine Handpuppe Namens "Susette" (die nicht anders aussehen könnte als
 sie es sollte - ein rosa Einhorn kommt selbst mit viel Phantasie nicht
 hin, da hat einiges spontan nicht gepasst.)
 
-<div class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF3089](DSCF3089.jpg)
 ![DSCF3088](DSCF3088.jpg)
 ![DSCF3087](DSCF3087.jpg)
@@ -43,7 +43,7 @@ zwei Seerosen mit Blatt (rechts von Lucy; links von mir) zwei Sitzkissen
 (die trotz der ähnlichen Materialien kaum verschiedener sein könnten)
 hier ist das Kissen von Lucy
 
-<div class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF3059](DSCF3059.jpg)
 ![DSCF3060](DSCF3060.jpg)
 ![DSCF3061](DSCF3061.jpg)
@@ -53,7 +53,7 @@ hier ist das Kissen von Lucy
 hier mein Kissen, mal wieder ein
 [Schleimmonster](http://flauschiversum.de/2015/02/kuschelmonster/).
 
-<div class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF3073](DSCF3073.jpg)
 ![DSCF3063](DSCF3063.jpg)
 ![DSCF3070](DSCF3070.jpg)
@@ -64,7 +64,7 @@ hier mein Kissen, mal wieder ein
 
 drei kleine Blumen zwei große Rosen
 
-<div class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF3105](DSCF3105.jpg)
 ![DSCF3106](DSCF3106.jpg)
 ![DSCF3107](DSCF3107.jpg)
@@ -80,7 +80,7 @@ drei kleine Blumen zwei große Rosen
 
 ein Blumenhut ein Paar Stulpen
 
-<div class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF3101](DSCF3101.jpg)
 ![DSCF3104](DSCF3104.jpg)
 ![DSCF2995](DSCF2995.jpg)

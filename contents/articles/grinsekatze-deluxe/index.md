@@ -67,7 +67,7 @@ aufgegtragen, dazu wird die bestrichene Folie auf die Leinwand gelegt
 und nur minimal angedrückt, so entstehen die interessantesten
 Strukturen.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF2820](DSCF2820.jpg)
 ![DSCF2821](DSCF2821.jpg)
 </div>
@@ -83,7 +83,7 @@ dem Brustfell verwendet.
 Auch hier kann man nochmal die Marmoriertechnik sehen, an dieser Stelle
 habe ich bewusst begonnen die Katze heraus zu arbeiten.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF2826](DSCF2826.jpg)
 ![DSCF2829](DSCF2829.jpg)
 </div>

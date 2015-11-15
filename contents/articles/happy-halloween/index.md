@@ -18,7 +18,7 @@ es nicht getan. Dann fand ich dieses Video auf Youtube
 [http://www.youtube.com/watch?v=\_9iIz2i2gww](http://www.youtube.com/watch?v=_9iIz2i2gww)
 und mich hats gepackt.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF1734](DSCF1734-e1421938827294.jpg)
 ![DSCF1742](DSCF1742-e1421938889112.jpg)
 ![DSCF1741](DSCF1741-e1421938875997.jpg)

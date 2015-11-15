@@ -19,7 +19,7 @@ Auf der Innenseite der Lederstreifen sind Schutzrunen eingebrannt. Hier
 muss man Kettenringe verbinden, Nähen, Vernieten und bebrennen. Hey was
 für ein Aufwand ;)
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSC00679](DSC00679.jpg)
 ![DSC00678](DSC00678.jpg)
 </div>

@@ -9,7 +9,7 @@ image: DSCF0496.jpg
 excerpt: "Ich wollte selbst immer einen dicken Wälzer haben, mit dem ich auffallen würde."
 ---
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF0496](DSCF0496.jpg)
 ![DSCF0497](DSCF0497.jpg)
 </div>

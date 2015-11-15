@@ -8,7 +8,7 @@ image: IMG_1892.jpg
 excerpt: "Hier mein Lieblingsschal nach einer Anleitung von Ravelry in verschiedensten Ausführungen."
 ---
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![IMG\_1892](IMG_1892.jpg)
 ![IMG\_1897](IMG_1897.jpg)
 ![IMG\_1896](IMG_1896.jpg)
@@ -24,14 +24,14 @@ wer findet sie? Die Strickspitze habe ich auch schon bei anderen Tüchern
 verwendet zum Beispiel beim
 [Doubleface-Schal](http://flauschiversum.de/2014/01/doubleface/ "Doubleface").
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![IMG\_1966](IMG_1966.jpg)
 ![IMG\_1967](IMG_1967.jpg)
 </div>
 
 Das war ein Weihnachtsgeschenk für meine liebe Mama.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![IMG\_4237](IMG_4237.jpg)
 ![IMG\_4238](IMG_4238.jpg)
 ![IMG\_4239](IMG_4239.jpg)

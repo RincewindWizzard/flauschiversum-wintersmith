@@ -28,7 +28,7 @@ kennt jeder? Genau, die Grinsekatze aus Alice im Wunderland. Also auf
 zur Suchmaschine und das Internet nach Bildern durchforsten lassen. Das
 ist dabei herausgekommen und an diesem Bild werde ich mich orientieren.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF1323](DSCF1323-e1422105892559.jpg)
 ![DSCF1320](DSCF1320-e1422105970752.jpg)
 ![DSCF1321](DSCF1321-e1422105979848.jpg)
@@ -42,7 +42,7 @@ glatte Unterlage gespannt. Am besten nehmt ihr eine, die in das Shirt
 passt, so hat man es später beim Schneiden leichter und wenn man evtl.
 noch Farben benutzt drücken diese nicht durch.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF1322](DSCF1322-e1422106074348.jpg)
 ![DSCF1325](DSCF1325-e1422106176320.jpg)
 </div>
@@ -61,7 +61,7 @@ darauf, dass ihr nicht zu viel wegnehmt und auch dass die Abstände der
 Löcher voneinander ungefähr bei einem Zentimeter liegen, denn
 anderenfalls hat man am Ende ein großes hässliches Loch.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF1326](DSCF1326.jpg)
 ![DSCF1327](DSCF1327.jpg)
 ![DSCF1329](DSCF1329-e1422106359329.jpg)
@@ -78,7 +78,7 @@ abzuschneiden und auf die Vorderseite noch was raufzumalen. wenn man
 sich jetzt noch ein blaues, grünes oder violettes Shirt untendrunter
 anzieht, hat man eine stets lächelnde Grinsekatze.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF1331](DSCF1331.jpg)
 ![DSCF1333](DSCF1333.jpg)
 ![DSCF1330](DSCF1330-e1422106562548.jpg)

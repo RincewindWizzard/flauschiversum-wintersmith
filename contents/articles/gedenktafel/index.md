@@ -9,7 +9,7 @@ excerpt: "Nachdem ich trauriger Weise den Umzug meiner langjährigen Arbeitsstel
 ---
 
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![IMG\_4453](IMG_4453-e1422117904595.jpg)
 ![IMG\_4454](IMG_4454-e1422117895133.jpg)
 ![IMG\_4455](IMG_4455-e1422117887576.jpg)

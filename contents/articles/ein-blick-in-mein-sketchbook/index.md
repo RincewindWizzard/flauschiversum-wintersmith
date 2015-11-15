@@ -16,7 +16,7 @@ Es folgen die Kategorien:
 
 # Frauen und Engel
 
-<div class='slideshow slideshow_portrait'>
+<div class="slideshow_portrait">
 ![Frau von Hinten](DSCF3152.jpg)
 ![Elfe](DSCF3156.jpg)
 ![Engel schwebt](DSCF3157.jpg)
@@ -30,7 +30,7 @@ Es folgen die Kategorien:
 ![Gefallener Engel](DSCF3178-e1440600195369.jpg)
 </div>
 
-<div class='slideshow'>
+<div class="slideshow_landscape">
 ![Engel greift nach einer Hand](DSCF3153.jpg)
 ![Engel fliegt](DSCF3154.jpg)
 ![Frau liegt auf Sofa](DSCF3155.jpg)
@@ -42,7 +42,7 @@ Es folgen die Kategorien:
 
 # Gesichter und Gesichtsteile
 
-<div class='slideshow slideshow_portrait'>
+<div class="slideshow_portrait">
 ![Frauengesicht](DSCF3169-e1440597870847.jpg)
 ![Frau greift nach Herz](DSCF3192.jpg)
 ![Mädchen mit Spaghettishirt](DSCF3207-e1440597958823.jpg)
@@ -53,7 +53,7 @@ Es folgen die Kategorien:
 ![Gesicht mit Muster](DSCF3218.jpg)
 </div>
 
-<div class='slideshow'>
+<div class="slideshow_landscape">
 ![Drachenauge](Drachenauge.jpg)
 ![Drachenauge 2](DSCF3196.jpg)
 ![Gesichtspuzzle](DSCF3201.jpg)
@@ -66,7 +66,7 @@ Es folgen die Kategorien:
 
 # Grusel
 
-<div class='slideshow slideshow_portrait'>
+<div class="slideshow_portrait">
 ![RIP Santa](DSCF3202-e1440598378966.jpg)
 ![Zyklop](DSCF3162.jpg)
 ![Warzengesicht](DSCF3163.jpg)
@@ -77,7 +77,7 @@ Es folgen die Kategorien:
 ![Tod Death Hate Skull](DSCF3233-e1440598499416.jpg)
 </div>
 
-<div class='slideshow'>
+<div class="slideshow_landscape">
 ![Augapfel](DSCF3226.jpg)
 ![Spinne](DSCF3232.jpg)
 ![Schleimmonster](DSCF3228.jpg)
@@ -86,13 +86,13 @@ Es folgen die Kategorien:
 
 # Kuschel und niedlich
 
-<div class='slideshow slideshow_portrait'>
+<div class="slideshow_portrait">
 ![Grinsekatze 1](DSCF3172-e1440598992217.jpg)
 ![Sitzende Katze](DSCF3174-e1440599005287.jpg)
 ![Grinsekatze 4](DSCF3176-e1440599039345.jpg)
 </div>
 
-<div class='slideshow'>
+<div class="slideshow_landscape">
 ![Grinsekatze 2](DSCF3173.jpg)
 ![Grinsekatze 3](DSCF3175.jpg)
 ![Grinsekatze 5](DSCF3177.jpg)
@@ -101,14 +101,14 @@ Es folgen die Kategorien:
 
 # Gedöns
 
-<div class='slideshow slideshow_portrait'>
+<div class="slideshow_portrait">
 ![Rose mit Flügeln](DSCF3211-e1440599335557.jpg)
 ![Kritzel Punk](DSCF3217-e1440598009578.jpg)
 ![Schreibutensilien](DSCF3235-e1440599377752.jpg)
 ![Herzen](DSCF3231-e1440599361885.jpg)
 </div>
 
-<div class='slideshow'>
+<div class="slideshow_landscape">
 ![Sonne Mond Frauenkopf](DSCF3198.jpg)
 ![Hüte](DSCF3225.jpg)
 ![magic](DSCF3199.jpg)

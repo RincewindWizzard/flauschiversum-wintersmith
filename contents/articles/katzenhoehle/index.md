@@ -11,7 +11,7 @@ excerpt: "Um es mal so zu sagen, auch bei einer Ermeline läuft nicht immer alle
 Um es mal so zu sagen, auch bei einer Ermeline läuft nicht immer alles
 perfekt. Diese tolle Katzenhöhle sollte ein Hut werden.  
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF2956](DSCF2956.jpg)
 ![DSCF2957](DSCF2957.jpg)
 </div>
@@ -28,7 +28,7 @@ Zentimeter vergrößert werden. Hierbei ist auch auf den Schrumpffaktor
 der Wolle zu achten, bei mir hatte ich ihn zu optimistisch angesetzt und
 mein "Hut" wurde zu groß.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF2959](DSCF2959.jpg)
 ![DSCF2960](DSCF2960.jpg)
 </div>
@@ -37,7 +37,7 @@ Ich habe mein dünnes Wollvlies (es sollte ja ein Hut werden, der keine
 Kopfschmerzen durch das Gewicht verursacht) unter die Schablone gelegt
 und die Ränder großzügig zurechtgezupft.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF2961](DSCF2961.jpg)
 ![DSCF2962](DSCF2962.jpg)
 </div>
@@ -48,7 +48,7 @@ musst du die Kanten umklappen und diese sollen sich überlappen, damit
 die Seiten sich verbinden. Hier kannst du auch sehen, dass mein Vlies
 wirklich dünn ist.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF2963](DSCF2963.jpg)
 ![DSCF2964](DSCF2964.jpg)
 ![DSCF2965](DSCF2965.jpg)
@@ -67,7 +67,7 @@ und wieder die Kanten umschlagen. Auf diese Weise bekommst du später
 einen festen Filz und deine Kanten sind durch die Überlappung gut
 verbunden.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF2970](DSCF2970.jpg)
 ![DSCF2971](DSCF2971.jpg)
 </div>
@@ -77,7 +77,7 @@ ein wenig mit einem Wolltuch und einer Spitzengardine experimentiert.
 Nachdem diese Seite nassgemacht und plattgedrückt war, habe ich sie
 vorsichtig mithilfe einer Platte umgedreht.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF2972](DSCF2972.jpg)
 ![DSCF2973](DSCF2973.jpg)
 </div>
@@ -88,7 +88,7 @@ verursachen. Die weißen Stellen in der Mitte werden nachher für die
 Öffnung verwendet und rausgeschnitten. Daher habe ich mich nicht groß
 mit dem Design an dieser Stelle beschäftigt.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF2974](DSCF2974.jpg)
 ![DSCF2975](DSCF2975.jpg)
 </div>
@@ -121,7 +121,7 @@ achte darauf, dass du allen Seiten die gleiche Aufmerksamkeit zukommen
 lässt, sonst hast du evtl. ein total verschrobenes geschrumpftes Ding.
 Wenn du also rollst, dann immer beide Seiten und aus jeder Richtung.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF2980](DSCF2980.jpg)
 ![DSCF2985](DSCF2985.jpg)
 ![DSCF2986](DSCF2986.jpg)
@@ -136,7 +136,7 @@ zuverlässig im trockenen Zustand. Also sorge dafür, dass es keine
 hässlichen ausgestopften Dellen gibt, wo keine sein sollen. Jetzt heißt
 es Warten.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF3001](DSCF3001.jpg)
 ![DSCF3002](DSCF3002.jpg)
 ![DSCF3007](DSCF3007.jpg)
@@ -147,7 +147,7 @@ Katzen normaler Größe. Ich habe noch ein Handtuch als wechselbare
 Einlage hineingelegt und jetzt wartet diese Hütte auf einen Bewohner,
 mal schauen wann sich das ergibt.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF2982](DSCF2982.jpg)
 ![DSCF2981](DSCF2981.jpg)
 ![DSCF3003](DSCF3003.jpg)

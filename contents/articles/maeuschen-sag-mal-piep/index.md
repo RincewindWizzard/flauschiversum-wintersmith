@@ -8,7 +8,7 @@ image: DSCF0879.jpg
 excerpt: "Und die Maus antwortet: \"Rrrrrrrrr\"..."
 ---
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF0879](DSCF0879.jpg)
 ![DSCF0880](DSCF0880.jpg)
 ![DSCF0882](DSCF0882.jpg)

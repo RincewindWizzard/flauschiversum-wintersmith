@@ -14,7 +14,7 @@ Es war einmal... ... ein Freund (siehe links) und der wollte (wie könnte
 es anders sein...) einen Hut. Und wie man den Hut macht, kann im
 Folgenden begutachtet werden.  
 
-<div class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF0555](DSCF0555.jpg)
 ![DSCF0556](DSCF0556.jpg)
 ![DSCF0572](DSCF0572.jpg)
@@ -31,7 +31,7 @@ unter Zuhilfenahme meiner Filz und Nähbücher, denn Hasenohren wollen
 schließlich die richtige Form haben. Tja und dann ab zum Wolldealer des
 Vertrauens...
 
-<div class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF0571](DSCF0571.jpg)
 ![DSCF0574](DSCF0574.jpg)
 ![DSCF0576](DSCF0576.jpg)
@@ -63,7 +63,7 @@ Arbeit wird zusehends glatter und es bildet sich ein Gewebe. Bevor die
 Hutkrempe zu sehr verfilzt, habe ich sie umgeschlagen, denn so verfilzt
 sie mit dem Inneren des Hutes und man bekommt eine saubere Kante.  
 
-<div class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF0580](DSCF0580.jpg)
 ![DSCF0581](DSCF0581.jpg)
 </div>
@@ -79,7 +79,7 @@ senkrecht.
 Ich klappe ca. alle 2 Schichten die Ränder vom zuerst gefilzten Stück
 um.
 
-<div class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF0582](DSCF0582.jpg)
 ![DSCF0583](DSCF0583.jpg)
 </div>
@@ -146,7 +146,7 @@ robuster aber er schrumpft auch. Also aufgepasst, wenn man zu viel walkt
 passt er am Ende nicht mehr, also immer mal schauen ob der Kopf noch
 reinpasst und wenn er die richtige Größe hat, geht es an die Feinarbeit.
 
-<div class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF0587](DSCF0587.jpg)
 ![DSCF0588](DSCF0588.jpg)
 </div>
@@ -158,7 +158,7 @@ neutralisieren die Reste anschließend mit Essig und waschen nochmal
 durch... ein letztes Mal anpassen und mit Zeitungspapier ausstopfen und
 trocknen lassen. Dieser meiner Hüte braucht definitiv keine Stärke.
 
-<div class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF0589](DSCF0589.jpg)
 ![DSCF0591](DSCF0591.jpg)
 ![DSCF0590](DSCF0590.jpg)

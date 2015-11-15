@@ -23,7 +23,7 @@ Kreis machst du die Abrundung nur auf der einen Seite und auf der
 Anderen zeichnest du eine Welle ein, so wird das Blütenblatt schmaler
 und du kannst deine Mitte besser modellieren.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF0541](DSCF0541.jpg)
 ![DSCF0542](DSCF0542.jpg)
 </div>
@@ -52,7 +52,7 @@ ziehst. Pass bitte bei der Arbeit mit Blech gut auf und schneide dich
 nicht. Wenn du gut mit Gartenhandschuhen arbeiten kannst und trotzdem
 ein Feeling für das Material hast, empfehle ich dir diese zu nutzen.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF0539](DSCF0539.jpg)
 ![DSCF0538](DSCF0538.jpg)
 </div>

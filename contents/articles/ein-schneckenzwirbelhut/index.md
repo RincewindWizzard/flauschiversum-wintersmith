@@ -8,7 +8,7 @@ image: DSCF1489-e1421947669696.jpg
 excerpt: "Diesmal ist es ein grünes Zwirbelchen geworden. "
 ---
 
-<div class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF1489](DSCF1489-e1421947669696.jpg)
 ![DSCF1490](DSCF1490-e1421947681743.jpg)
 ![DSCF1491](DSCF1491-e1421947692111.jpg)

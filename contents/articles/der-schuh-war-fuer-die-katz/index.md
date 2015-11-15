@@ -22,7 +22,7 @@ funktioniert, wenn man den Puschen nicht richtig benutzt, kann man den
 Beiden so oft sagen wie man will.
 
 
-<div class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF1522](DSCF1522.jpg)
 ![DSCF1524](DSCF1524.jpg)
 ![DSCF1525](DSCF1525.jpg)

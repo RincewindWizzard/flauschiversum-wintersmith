@@ -8,7 +8,7 @@ image: DSCF1705.jpg
 excerpt: "Wer brauchte nicht schon immer mal große, bunte Knöpfe haben oder in gaaaaanz bestimmten Farben? Vielleicht in eckig oder oval oder rund oder herzchenform???"
 ---
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF1705](DSCF1705.jpg)
 ![DSCF1708](DSCF1708.jpg)
 ![DSCF1707](DSCF1707.jpg)
@@ -25,7 +25,7 @@ aus dickem Draht selber machen), eine Nadel und Wollreste
 Du fädelst deine Wolle in das Nadelöhr ein und führst den Faden durch
 den Ring.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF1710](DSCF1710.jpg)
 ![DSCF1711](DSCF1711.jpg)
 ![DSCF1712](DSCF1712.jpg)
@@ -34,7 +34,7 @@ den Ring.
 Stich mit der Nadel immer von unten nach oben durch den Ring und führe
 sie durch die Schlaufe. Diese Technik nennt man Langettenstich.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF1713](DSCF1713.jpg)
 ![DSCF1714](DSCF1714.jpg)
 </div>
@@ -42,7 +42,7 @@ sie durch die Schlaufe. Diese Technik nennt man Langettenstich.
 So sollte es bei dir aussehen. Du umwickelst mit dieser Technik den
 ganzen Ring.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF1715](DSCF1715.jpg)
 ![DSCF1717](DSCF1717.jpg)
 </div>
@@ -50,7 +50,7 @@ ganzen Ring.
 Um den Anfangsfaden zu vernähen, schlingst du ihn einmal um den Ring und
 umwickelst ihn mit dem Langettenstich bis der ganze Ring bedeckt ist.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF1718](DSCF1718.jpg)
 ![DSCF1719](DSCF1719.jpg)
 </div>
@@ -58,7 +58,7 @@ umwickelst ihn mit dem Langettenstich bis der ganze Ring bedeckt ist.
 Zum Vernähen stichst du mit der Nadel in die erste Schlaufe und schließt
 das Umwickeln ab.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF1720](DSCF1720.jpg)
 ![DSCF1721](DSCF1721.jpg)
 </div>
@@ -66,7 +66,7 @@ das Umwickeln ab.
 Drehe die äußere Kante nach innen, jetzt ist auch der Rest deines Fadens
 innen.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF1722](DSCF1722.jpg)
 ![DSCF1723](DSCF1723.jpg)
 </div>
@@ -78,7 +78,7 @@ nächsten Schritt. Dein Stern endet dort wo du mit ihm begonnen hast, von
 dort aus führst du deinen Faden zur gegenüberliegenden Lücke zwischen
 den Zacken.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF1724](DSCF1724.jpg)
 ![DSCF1725](DSCF1725.jpg)
 ![DSCF1729](DSCF1729.jpg)
@@ -100,7 +100,7 @@ Die neuen und Schluss-Fäden vernähst du mit einem großzügigen
 Und so toll können deine Knöpfe dann aussehen und die
 unterschiedlichsten Dinge aufpeppen.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF1692](DSCF1692.jpg)
 ![DSCF1688](DSCF1688.jpg)
 ![DSCF1693](DSCF1693.jpg)

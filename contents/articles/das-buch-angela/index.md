@@ -8,7 +8,7 @@ image: DSCF0890-e1422112092855.jpg
 excerpt: "Wenn ich gerade mal nicht handarbeite, dann betätige ich mich als Schriftstellerin."
 ---
 
-<div class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF0890](DSCF0890-e1422112092855.jpg)
 </div>
 

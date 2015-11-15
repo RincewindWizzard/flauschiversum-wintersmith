@@ -9,7 +9,7 @@ image: DSCF1451.jpg
 excerpt: "Diesmal sollte es kein Spitzhut sein. Aber die Alternative kann sich sehen lassen. "
 ---
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF1451](DSCF1451.jpg)
 ![DSCF1450](DSCF1450.jpg)
 ![DSCF1453](DSCF1453.jpg)

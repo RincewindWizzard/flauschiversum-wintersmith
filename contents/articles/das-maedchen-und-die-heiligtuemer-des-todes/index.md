@@ -21,7 +21,7 @@ des Buches, die mit Kupferblech eingefasst wurden und dem Ganzen den
 letzten Schliff geben.
 
 
-<div class='slideshow'>
+<div class="slideshow_landscape">
 ![IMG\_4282](IMG_4289.jpg)
 ![IMG\_4282](IMG_4282.jpg)
 ![IMG\_4289](IMG_4289.jpg)
@@ -36,6 +36,6 @@ und der Tod daselbst, nicht zu Ross denn zu Rad, geben dem Ganzen den
 Touch des ähhh Andersartigen ;) nenne ich es jetzt mal. Hier ein ein
 kleiner Blick auf die Bilder im Buch.\
 
-<div class='slideshow'>
+<div class="slideshow_landscape">
 ![](IMG_4289.jpg)
 </div>

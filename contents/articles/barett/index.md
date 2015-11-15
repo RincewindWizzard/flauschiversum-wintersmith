@@ -17,7 +17,7 @@ Hohlform angepasst wurde und keine
 entstanden ist. Am gleichen Tag ist auch noch eine schlichte Tasche
 entstanden aber man braucht ja auch was fürs Auge.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![Barett](DSCF3012.jpg)
 ![Barett](DSCF3013.jpg)
 ![Barett](DSCF3015.jpg)
@@ -27,7 +27,7 @@ entstanden aber man braucht ja auch was fürs Auge.
 Das dürfte ein auffälliges Accessoire sein. Jetzt nur noch irgendwo 'ne
 hübsche Brosche dran und alles tutti.
 
-<div class='slideshow'>
+<div class="slideshow_landscape">
 ![Barett](DSCF3009.jpg)
 ![Barett](DSCF3010.jpg)
 ![Barett](DSCF3011.jpg)

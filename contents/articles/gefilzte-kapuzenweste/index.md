@@ -8,7 +8,7 @@ image: DSCF2769f.jpg
 excerpt: "Lange lange lag dieses Projekt herum, noch vor meinem Umzug wurde dieses Ding angefilzt, unfertig und farblich nicht mehr meiner Stimmung entsprechend, für über ein Jahr auf Eis gelegt und fast vergessen."
 ---
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF2769f](DSCF2769f.jpg)
 ![DSCF2768f](DSCF2768f.jpg)
 </div>
@@ -26,7 +26,7 @@ trocknen lassen mit all der Seife, die noch enthalten war.
 Glücklicherweise hat sich mein schlecht behandeltes Werk nicht gerächt,
 die Wolle stank nicht, sie war nicht verklebt oder spröde... mein Glück.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF2771f](DSCF2771f.jpg)
 ![DSCF2770f](DSCF2770f.jpg)
 ![DSCF2772f](DSCF2772f.jpg)
@@ -44,7 +44,7 @@ reingestopft (aber nicht zu viel) und los ging es mit nur der Hälfte
 Waschmitteldosis im Normalwaschgang. Da die Gugel eh zu groß war, konnte
 es nicht schaden dem Ganzen die volle Filzdröhnung zu geben.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF2763](DSCF2763.jpg)
 ![DSCF2762](DSCF2762.jpg)
 ![DSCF2761](DSCF2761.jpg)
@@ -59,7 +59,7 @@ nebenbei, um die Zipfel zu begradigen, diese unter den Achseln nach
 vorne zog, war die Begeisterung groß. Das sollte eine Weste sein! Also
 ich war mehr als zufrieden mit diesem Endergebnis.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF2760](DSCF2760.jpg)
 ![DSCF2759](DSCF2759.jpg)
 ![DSCF2758](DSCF2758.jpg)

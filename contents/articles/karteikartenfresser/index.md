@@ -8,7 +8,7 @@ image: DSCF0444sscff.jpg
 excerpt: "Also irgendwie fand ich den alten Karteikasten zu langweilig."
 ---
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF0444sscff](DSCF0444sscff.jpg)
 ![DSCF044ss8](DSCF044ss8.jpg)
 ![DSCF044ss5](DSCF044ss5.jpg)

@@ -24,7 +24,7 @@ Unser Kürbis soll ein kleines freches Grinsen mit einem Zyklopenauge bekommen. 
 Mit einer Nadel o.ä. kann man sich anritzen, wo die wichtigsten Teile des Gesichtes liegen sollen, das hilft einem bei den ersten Schnitten mit dem Messer. Beginnt nun mit den Details, erstmal schnitzt ihr im Groben zum Beispiel die Zähne und das Auge, sucht erstmal die Formen eures Gesichtes.
 
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![10748753\_751703911531687\_1874763441\_n](10748753_751703911531687_1874763441_n.jpg)
 ![photdfo.php](http://flauschiversum.de/wp-content/uploads/2014/10/photdfo.php_.jpeg)
 ![photo.php](http://flauschiversum.de/wp-content/uploads/2014/10/photo.php_.jpeg)
@@ -39,7 +39,7 @@ Wenn ihr die Formen gefunden habt, geht es an das Ausdefinieren. Die Zähne müs
 Tusche her und Pinsel schwingen. Achtet bei bemalen darauf, dass eure Tusche nicht zu wässrig ist und macht dunkel, was im Schatten liegt und setzt Akzente erst zum Schluss, so wie hier das Blut auf den Zähnen oder die Adern im Auge. Um dem Kürbis ein wenig Haltbarkeit zu geben (mit intakter Schale halten Kürbisse sich über Monate...) haben wir mit Klarlack eine unsichtbare Schutzschicht nach dem Trocknen der Tusche aufgetragen.
 
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![10736064\_751702971531781\_1872276266\_n](10736064_751702971531781_1872276266_n.jpg)
 ![10743418\_751702644865147\_817282897\_n](10743418_751702644865147_817282897_n.jpg)
 ![10743573\_751702941531784\_1911829696\_n](10743573_751702941531784_1911829696_n.jpg)

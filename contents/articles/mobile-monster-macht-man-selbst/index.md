@@ -14,7 +14,7 @@ excerpt: "So wie fange ich an? Am besten damit, dass ich mal in einem Spielzeugg
 So wie fange ich an?
 Am besten damit, dass ich mal in einem Spielzeuggeschäft stand und dort neben diversen Handpuppen auch ein paar Umhängetaschen mit Monstergesichtern hingen. Was geschah kann man sich denken, ich hab mich verliebt, aber für meinen Geldbeutel waren die Taschen zu teuer und ich tröstete mich mit dem Gedanken irgendwann einmal die Zeit und Muse zu haben mir ein solches Exemplar selbst zu nähen. Die Zeit des Wartens ist vorbei! Es folgt die zunächst vereinfachte Anleitung zu einer Monstertasche, wie ich sie nähe.
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF1859](DSCF1859.jpg)
 ![DSCF1857](DSCF1857.jpg)
 </div>
@@ -24,7 +24,7 @@ Ich habe für dieses Monsterchen eine halbe alte Wolldecke verwendet. Du kannst 
 Zunächst habe ich meine Decke zerschnitten in eine Bahn von ca. 40 cm Breite und 1,50 m Länge. (Schneide die Decke einfach an der kurzen Seite, die ist in der Regel ca 1,5 Meter lang, es kommt dabei nicht auf den Zentimeter an.
 
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF1860](DSCF1860.jpg)
 ![DSCF1861](DSCF1861.jpg)
 </div>
@@ -37,7 +37,7 @@ Schlage nun ca 2 cm des Stoffes um und nähe ihn fest.
 Nun schau wie lang du deine Schleppe haben möchtest (Mehr als ein Viertel der Gesamtlänge des Stoffes macht wenig Sinn, da die Schleppe sonst über die Tasche hinaus Richtung Boden hängt. Wenn deine Tasche insgesamt wie bei mir 40 cm Taschentiefe haben soll, dann mache auch die Schleppe so lang.) und stecke sie mit Nadeln fest. Dann zeichnest du mit einem Frühstücksteller (oder einem anderen runden Gegenstand) eine weiche Kante, dort wirst du später auch entlangnähen.
 
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF1863](DSCF1863.jpg)
 ![DSCF1864](DSCF1864.jpg)
 ![DSCF1865](DSCF1865.jpg)
@@ -47,7 +47,7 @@ Zwischen den Rundungen sollen nun die Zähne eingepasst werden. dafür habe ich 
 ... legst du die Zähne in die Tasche, die immernoch auf links vor dir liegt. Stecke nun die Zähne fest und nähe sie direkt mit ein, wenn du die Kanten zusammennähst.
 
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF1867](DSCF1867.jpg)
 ![DSCF1866](DSCF1866.jpg)
 ![DSCF1868](DSCF1868.jpg)
@@ -57,7 +57,7 @@ Wenn du das Ganze festgenäht hast und wendest, sind die Zähne gleich fest eing
 Um dem ganzen mehr Stabilität zu geben (vielleicht merkt du, je nach Dicke des Stoffes den du verwendest, dass sich die Nähte wieder nach innen wölben) habe ich entlang der innenliegenden Kanten noch eine Naht gesetzt (wenn du eine normale Nähmaschine nutzt sind 3 Schichten bei Verwendung von Wolldecken das Maximum, das du ihr zumuten solltest), diese Naht sorgt dafür, dass die Kanten sich nicht mehr nach Innen ziehen und sorgt zum anderen dafür dass Innen die Kanten nicht mehr offenliegen und versteckt sind. Ich finde auch, dass die Naht das Gesicht einrahmt.
 
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF1870](DSCF1870.jpg)
 ![DSCF1873](DSCF1873.jpg)
 </div>
@@ -72,7 +72,7 @@ Um die zugeschnittenen Seitenteile richtig positionieren zu können, musst du nu
 Wenn du die Kanten an der Taschenöffnung nicht umnähst, kannst du später ggf. noch einen Reißverschluss einnähen. Bedenke diese Option, ich erinnere an die 3 Stoffschichten als Maximum für deine Maschine.
 
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF1874](DSCF1874.jpg)
 ![DSCF1875](DSCF1875.jpg)
 </div>
@@ -80,7 +80,7 @@ Wenn du die Kanten an der Taschenöffnung nicht umnähst, kannst du später ggf.
 Nun steckst du mit Nadeln die Seitenteile fest, achte dabei darauf, dass du die Kanten bündig aufeinanderlegst. Du nähst alles wieder mit einer geraden Naht zusammen und lass dir Zeit bei den Rundungen, du müsstest ohne Faltenwurf durchnähen können.
 
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF1877](DSCF1877.jpg)
 ![DSCF1881](DSCF1881.jpg)
 </div>
@@ -89,7 +89,7 @@ Dann wendest du die Tasche und nähst wieder die Wulst, wie beim Gesicht an der 
 Nähe diese Wulst auch etwa 1 cm vom Boden entfernt, du kannst dich an den Ecken der Tasche orientieren und dann mit Nadeln eine gerade Strecke abstecken. Dann wird auch dein Boden der Tasche klar definiert sein. Du kommst nicht unbedingt in die Ecken, wenn dein Stoff so dick ist wie Meiner, das ist aber nicht schlimm, denn auch runde Ecken sind harmonisch. :)
 
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF1869](DSCF1869.jpg)
 ![DSCF1879](DSCF1879.jpg)
 </div>
@@ -98,7 +98,7 @@ Kümmere dich nun um den Tragegurt. Ich möchte einen sehr breiten Gurt, weil vi
 Du nähst das Ganze wieder und wendest den Gurt. (Dazu muss ich sagen, bei dickem Wollstoff ist ein breiter Gurt für diesen Schritt vorteilhafter, da du den dicken Stoff sonst nicht gewendet bekommst.) Nähe wieder die Wulst, so bleibt deine Tasche einheitlich. Nähe die Träger in der gewünschten Länge an die Seitenteile deiner Tasche an, arbeite  sorgfältig, diese Riemen tragen später das ganze Gewicht der Tasche und ihres Inhaltes.
 
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF1884](DSCF1884.jpg)
 ![DSCF1885](DSCF1885.jpg)
 </div>
@@ -111,7 +111,7 @@ Grundsätzlich ist deine Tasche nun fertig, jetzt fehlen noch die Augen und klei
 Weil erfahrungsgemäß der verwendete Filz fusselt und ausfranzt möchte ich eine schöne Kante schaffen und setze mit dem Knopflochstich eine Naht an der Kante entlang.
 
 
-<div id='slides' class='slideshow'>
+<div class="slideshow_landscape">
 ![DSCF1878](DSCF1878.jpg)
 ![DSCF1882](DSCF1882.jpg)
 ![DSCF1883](DSCF1883.jpg)

@@ -9,7 +9,7 @@ image: DSCF0503-e1423513550725.jpg
 excerpt: "Also ich habe mich vorher noch nie an das Filzen herangetraut, und dann kam es über mich: zu viel freie Zeit und der Wille einen qualitativ hochwertigen Hexenhut zu haben, wie ich ihn mir immer vorgestellt habe... denkste..."
 ---
 
-<div id='slides' class='slideshow slideshow_portrait'>
+<div class="slideshow_portrait">
 ![DSCF0503](DSCF0503-e1423513550725.jpg)
 ![DSCF0504](DSCF0504-e1423513561706.jpg)
 ![DSCF0505](DSCF0505-e1423513572622.jpg)
