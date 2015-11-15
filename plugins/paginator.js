@@ -23,7 +23,7 @@
         options[key] = defaults[key];
       }
     }
-    getArticles = function(contents) {
+    getArticles = function(contents, category) {
       var articles;
       articles = contents[options.articles]._.directories.map(function(item) {
         return item.index;
@@ -31,6 +31,13 @@
       articles = articles.filter(function(item) {
         return item.template !== 'none';
       });
+
+      if(category) {
+        articles = articles.filter(function(item) {
+          return item.metadata.category == category;
+        });
+      }
+
       articles.sort(function(a, b) {
         return b.date - a.date;
       });
@@ -42,17 +49,19 @@
 
       /* A page has a number and a list of articles */
 
-      function PaginatorPage(pageNum, articles1) {
+      function PaginatorPage(pageNum, articles1, category) {
         this.pageNum = pageNum;
         this.articles = articles1;
+        this.category = category
       }
 
       PaginatorPage.prototype.getFilename = function() {
         if (this.pageNum === 1) {
-          return options.first;
+          var result = (this.category ? this.category : '') + '/' + options.first;
         } else {
-          return options.filename.replace('%d', this.pageNum);
+          var result = (this.category ? this.category : '') + '/' + options.filename.replace('%d', this.pageNum);
         }
+        return result
       };
 
       PaginatorPage.prototype.getView = function() {
@@ -66,7 +75,8 @@
             articles: this.articles,
             pageNum: this.pageNum,
             prevPage: this.prevPage,
-            nextPage: this.nextPage
+            nextPage: this.nextPage,
+            category: this.category
           };
           env.utils.extend(ctx, locals);
           return template.render(ctx, callback);
@@ -78,27 +88,44 @@
     })(env.plugins.Page);
     env.registerGenerator('paginator', function(contents, callback) {
       var articles, i, j, k, l, len, len1, numPages, page, pageArticles, pages, ref, rv;
-      articles = getArticles(contents);
-      numPages = Math.ceil(articles.length / options.perPage);
-      pages = [];
-      for (i = j = 0, ref = numPages; 0 <= ref ? j < ref : j > ref; i = 0 <= ref ? ++j : --j) {
-        pageArticles = articles.slice(i * options.perPage, (i + 1) * options.perPage);
-        pages.push(new PaginatorPage(i + 1, pageArticles));
-      }
-      for (i = k = 0, len = pages.length; k < len; i = ++k) {
-        page = pages[i];
-        page.prevPage = pages[i - 1];
-        page.nextPage = pages[i + 1];
-      }
       rv = {
         pages: {}
       };
-      for (l = 0, len1 = pages.length; l < len1; l++) {
-        page = pages[l];
-        rv.pages[page.pageNum + ".page"] = page;
-      }
-      rv['index.page'] = pages[0];
-      rv['last.page'] = pages[numPages - 1];
+      [null, 'basteln', 'brandings', 'filzen', 'malen', 'nähen', 'wolle'].forEach(function(category) {
+        articles = getArticles(contents, category);
+        if(articles.length > 0) {
+          if(category)
+            rv[category] = { pages: {} }
+
+          numPages = Math.ceil(articles.length / options.perPage);
+          pages = [];
+          for (i = j = 0, ref = numPages; 0 <= ref ? j < ref : j > ref; i = 0 <= ref ? ++j : --j) {
+            pageArticles = articles.slice(i * options.perPage, (i + 1) * options.perPage);
+            pages.push(new PaginatorPage(i + 1, pageArticles, category));
+          }
+          for (i = k = 0, len = pages.length; k < len; i = ++k) {
+            page = pages[i];
+            page.prevPage = pages[i - 1];
+            page.nextPage = pages[i + 1];
+          }
+
+          for (l = 0, len1 = pages.length; l < len1; l++) {
+            page = pages[l];
+            if(category)
+              rv[category].pages[page.pageNum + ".page"] = page;
+            else
+              rv.pages[page.pageNum + ".page"] = page;
+          }
+          if(category) {
+            rv[category]['index.page'] = pages[0];
+            rv[category]['last.page'] = pages[numPages - 1];
+          }
+          else {
+            rv['index.page'] = pages[0];
+            rv['last.page'] = pages[numPages - 1];
+          }
+        }
+      })
       return callback(null, rv);
     });
     env.helpers.getArticles = getArticles;

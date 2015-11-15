@@ -6,7 +6,7 @@
     "description": "Ermelines Bastelblog"
   },
   "plugins": [
-    "./plugins/paginator.coffee",
+    "./plugins/paginator.js",
     "./plugins/date_urls.js",
     "wintersmith-less"
   ],
