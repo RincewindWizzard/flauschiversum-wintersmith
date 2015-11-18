@@ -1,19 +1,16 @@
 ---
 title: "Filzen Filzen Filzen"
+category: filzen
 author: Ermeline
 date: 2015-07-30 19:21:38
 template: article.jade
 filename: /:year/:month/:title/index.html
-image: DSCF3086.jpg
+image: "DSCF3086.jpg"
 excerpt: "Einige Tage des Filz-Kreativismus liegen hinter mir."
 ---
 
-Einige Tage des Filz-Kreativismus liegen hinter mir. Meine Hände sind
-schrumplig, der Wollvorrat hat sich stark reduziert und ich bin über die
-Ergebnisse glücklich. Endlich hat sich auch mal eine gemeinsame
-Filzsession mit Lucy ergeben, die mit der genialen Idee eine Seerose
-filzen zu wollen ein Lauffeuer entfacht hat. Entstanden innerhalb der
-letzten sieben Tage sind:
+Einige Tage des Filz-Kreativismus liegen hinter mir. Meine Hände sind schrumplig, der Wollvorrat hat sich stark reduziert und ich bin über die Ergebnisse glücklich. Endlich hat sich auch mal eine gemeinsame Filzsession mit Lucy ergeben, die mit der genialen Idee eine Seerose filzen zu wollen ein Lauffeuer entfacht hat. Entstanden innerhalb der letzten sieben Tage sind:
+
 
 <div class="slideshow_landscape">
 ![DSCF3086](DSCF3086.jpg)
@@ -21,17 +18,16 @@ letzten sieben Tage sind:
 ![DSCF3084](DSCF3084.jpg)
 ![DSCF3083](DSCF3083.jpg)
 ![DSCF3082](DSCF3082.jpg)
-</div>
-
-eine Handpuppe Namens "Susette" (die nicht anders aussehen könnte als
-sie es sollte - ein rosa Einhorn kommt selbst mit viel Phantasie nicht
-hin, da hat einiges spontan nicht gepasst.)
-
-<div class="slideshow_landscape">
 ![DSCF3089](DSCF3089.jpg)
 ![DSCF3088](DSCF3088.jpg)
 ![DSCF3087](DSCF3087.jpg)
 ![DSCF3090](DSCF3090.jpg)
+</div>
+
+eine Handpuppe Namens "Susette" (die nicht anders aussehen könnte als sie es sollte - ein rosa Einhorn kommt selbst mit viel Phantasie nicht hin, da hat einiges spontan nicht gepasst.)
+
+
+<div class="slideshow_landscape">
 ![DSCF3066](DSCF3066.jpg)
 ![DSCF3067](DSCF3067.jpg)
 ![DSCF3068](DSCF3068.jpg)
@@ -39,9 +35,8 @@ hin, da hat einiges spontan nicht gepasst.)
 ![DSCF3079](DSCF3079.jpg)
 </div>
 
-zwei Seerosen mit Blatt (rechts von Lucy; links von mir) zwei Sitzkissen
-(die trotz der ähnlichen Materialien kaum verschiedener sein könnten)
-hier ist das Kissen von Lucy
+zwei Seerosen mit Blatt (rechts von Lucy; links von mir) 
+
 
 <div class="slideshow_landscape">
 ![DSCF3059](DSCF3059.jpg)
@@ -50,19 +45,25 @@ hier ist das Kissen von Lucy
 ![DSCF3062](DSCF3062.jpg)
 </div>
 
-hier mein Kissen, mal wieder ein
-[Schleimmonster](http://flauschiversum.de/2015/02/kuschelmonster/).
+zwei Sitzkissen (die trotz der ähnlichen Materialien kaum verschiedener sein könnten) hier ist das Kissen von Lucy
+
 
 <div class="slideshow_landscape">
 ![DSCF3073](DSCF3073.jpg)
 ![DSCF3063](DSCF3063.jpg)
 ![DSCF3070](DSCF3070.jpg)
+</div>
+
+hier mein Kissen, mal wieder ein [Schleimmonster](http://flauschiversum.de/2015/02/kuschelmonster/).
+
+
+<div class="slideshow_landscape">
 ![DSCF3064](DSCF3064.jpg)
 ![DSCF3065](DSCF3065.jpg)
 ![DSCF3114](DSCF3114.jpg)
-</div>
 
-drei kleine Blumen zwei große Rosen
+drei kleine Blumen 
+
 
 <div class="slideshow_landscape">
 ![DSCF3105](DSCF3105.jpg)
@@ -71,6 +72,12 @@ drei kleine Blumen zwei große Rosen
 ![DSCF3109](DSCF3109.jpg)
 ![DSCF3108](DSCF3108.jpg)
 ![DSCF3112](DSCF3112.jpg)
+</div>
+
+zwei große Rosen
+
+
+<div class="slideshow_landscape">
 ![DSCF3096](DSCF3096.jpg)
 ![DSCF3097](DSCF3097.jpg)
 ![DSCF3098](DSCF3098.jpg)
@@ -78,11 +85,18 @@ drei kleine Blumen zwei große Rosen
 ![DSCF3100](DSCF3100.jpg)
 </div>
 
-ein Blumenhut ein Paar Stulpen
+ein Blumenhut 
+
 
 <div class="slideshow_landscape">
 ![DSCF3101](DSCF3101.jpg)
 ![DSCF3104](DSCF3104.jpg)
+</div>
+
+ein Paar Stulpen
+
+
+<div class="slideshow_landscape">
 ![DSCF2995](DSCF2995.jpg)
 ![DSCF2947](DSCF2947.jpg)
 ![DSCF2954](DSCF2954.jpg)
@@ -90,13 +104,4 @@ ein Blumenhut ein Paar Stulpen
 ![DSCF2989](DSCF2989.jpg)
 </div>
 
-eine Tasche Ich bin selber total geplättet, was alles so im Filzrausch
-entsteht. Und ich bin noch nicht mal fertig mit der Filzaktion, mir
-schweben noch allerhand Dinge im Kopf herum und zum Glück sind ja jetzt
-Ferien. Habe dennoch den Tapeziertisch aus dem kleinen Wohnzimmer
-abgebaut und werde nun auf kleinere Projekte umsteigen bzw. ein großes
-wird es hoffentlich in den Ferien noch geben, wenn gutes Wetter ist. Ich
-sag mal soviel, es soll was zum Anziehen sein und es wird so viel Platz
-beim Filzen beanspruchen, dass ich dafür auf den Hinterhof ausweichen
-muss. Für heute wird erst mal gestrickt und mal schauen was der
-Zauberkasten heute so zeigt.
+eine Tasche Ich bin selber total geplättet, was alles so im Filzrausch entsteht. Und ich bin noch nicht mal fertig mit der Filzaktion, mir schweben noch allerhand Dinge im Kopf herum und zum Glück sind ja jetzt Ferien. Habe dennoch den Tapeziertisch aus dem kleinen Wohnzimmer abgebaut und werde nun auf kleinere Projekte umsteigen bzw. ein großes wird es hoffentlich in den Ferien noch geben, wenn gutes Wetter ist. Ich sag mal soviel, es soll was zum Anziehen sein und es wird so viel Platz beim Filzen beanspruchen, dass ich dafür auf den Hinterhof ausweichen muss. Für heute wird erst mal gestrickt und mal schauen was der Zauberkasten heute so zeigt.

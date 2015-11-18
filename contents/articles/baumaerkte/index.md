@@ -1,10 +1,11 @@
 ---
-title: "Baumärkte "
+title: "Baumärkte"
+category: basteln
 author: Ermeline
 date: 2013-07-28 01:03:37
 template: article.jade
 filename: /:year/:month/:title/index.html
-excerpt: ""
+excerpt: "Yey, davon haben wir ja so schön viele."
 ---
 
 Yey, davon haben wir ja so schön viele :)
@@ -15,5 +16,4 @@ Yey, davon haben wir ja so schön viele :)
 -   B1
 -   Dehner Gartencenter
 
-... da muss ich jetzt doch nichts zu schreiben an denen kommt man alle
-naselang vorbei.
+... da muss ich jetzt doch nichts zu schreiben an denen kommt man alle naselang vorbei.

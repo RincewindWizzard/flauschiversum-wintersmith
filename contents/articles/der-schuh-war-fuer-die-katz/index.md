@@ -1,25 +1,17 @@
 ---
 title: "der Schuh war für die Katz"
+category: filzen
 author: Ermeline
 date: 2014-08-26 14:15:56
 template: article.jade
 filename: /:year/:month/:title/index.html
-image: DSCF1522.jpg
+image: "DSCF1523.JPG"
 excerpt: "So um hier mal den Beweis zu bringen, dass ich auch noch andere Dinge als Kopfbedeckungen filzen kann... Hoffentlich bekommt keiner Käsefüße. "
 ---
 
-So um hier mal den Beweis zu bringen, dass ich auch noch andere Dinge
-als Kopfbedeckungen filzen kann... Hoffentlich bekommt keiner Käsefüße.
-Es ist ein Schuh geworden - gut, zugegebenermaßen, er ist ein wenig zu
-groß geraten aber aus verlässlicher Quelle weiß ich, dass das Nathan
-(oben links) und Mishou (oben rechts) nicht im geringsten stört. Dieser
-Puschen besteht aus etwa 400 - 450 Gramm Merinovlies und darf nun als
-Katzen-Schlafstätte dienen, hoffentlich beruhigen die beiden sich bald,
-sodass ich mal ein Bild mit der eigentlichen Funktionsweise posten kann.
-Manchmal wünscht man sich, dass Katzen auf einen hören würden, wenn man
-sagt: "Leg dich hin." Tja und dass das Ganze nicht so richtig
-funktioniert, wenn man den Puschen nicht richtig benutzt, kann man den
-Beiden so oft sagen wie man will.
+![DSCF1523](DSCF1523.JPG)
+
+So um hier mal den Beweis zu bringen, dass ich auch noch andere Dinge als Kopfbedeckungen filzen kann... Hoffentlich bekommt keiner Käsefüße. Es ist ein Schuh geworden - gut, zugegebenermaßen, er ist ein wenig zu groß geraten aber aus verlässlicher Quelle weiß ich, dass das Nathan und Mishou nicht im geringsten stört. Dieser Puschen besteht aus etwa 400 - 450 Gramm Merinovlies und darf nun als Katzen-Schlafstätte dienen, hoffentlich beruhigen die beiden sich bald, sodass ich mal ein Bild mit der eigentlichen Funktionsweise posten kann. Manchmal wünscht man sich, dass Katzen auf einen hören würden, wenn man sagt: "Leg dich hin." Tja und dass das Ganze nicht so richtig funktioniert, wenn man den Puschen nicht richtig benutzt, kann man den Beiden so oft sagen wie man will.
 
 
 <div class="slideshow_landscape">
@@ -36,10 +28,4 @@ Beiden so oft sagen wie man will.
 ![DSCF1545](DSCF1545.jpg)
 </div>
 
-So und knapp eine Woche nach der Landung des Riesenpuschen, kann ich
-mich selbst davon überzeugen, dass er akzeptiert wurde. Schade, dass ihr
-das seelige Schnurren nicht hören könnt. Natürlich muss sich der große
-Kater hineinquetschen und nicht die zierliche Katze für die der Schuh
-gedacht war... aber das zeigt mal wieder die Unberechenbarkeit von
-Katzen. Jetzt habe ich wenigstens einen Grund, eine weitere Katzenhöhle
-zu filzen. ;)
+So und knapp eine Woche nach der Landung des Riesenpuschen, kann ich mich selbst davon überzeugen, dass er akzeptiert wurde. Schade, dass ihr das seelige Schnurren nicht hören könnt. Natürlich muss sich der große Kater hineinquetschen und nicht die zierliche Katze für die der Schuh gedacht war... aber das zeigt mal wieder die Unberechenbarkeit von Katzen. Jetzt habe ich wenigstens einen Grund, eine weitere Katzenhöhle zu filzen. ;) Es freut mich auf jeden Fall zu sehen, dass der Puschen immer besetzt ist.

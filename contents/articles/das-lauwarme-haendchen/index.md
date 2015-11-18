@@ -12,7 +12,7 @@ ausgefallenes als Deko aussuchen muss. Ich hab mir gedacht ein
 "Eiskaltes Händchen" wäre schön, nur das meines gleichzeitig warm und
 gemütlich sein soll. Hä... Ok also fangen wir von vorne an. Ich habe
 unheimlich viele Kerzenreste und Gummihandschuhe und Dochte... hat's
-jetzt klick gemacht? Ich will mir alsoeine Kerzenhand machen. Man
+jetzt klick gemacht? Ich will mir also eine Kerzenhand machen. Man
 benötigt, weißes und rotes Kerzenwachs und besonders auch jenes Wachs
 von den roten Kerzen, das außen als Schicht angebracht ist. 5 Dochte zu
 ca 10 cm und einen Latexhandschuh mit etwas Geduld und Geschick sieht
