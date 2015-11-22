@@ -34,9 +34,7 @@
 
       if(category) {
         articles = articles.filter(function(item) {
-          if(item && item.metadata)
-            return item.metadata.category == category;
-          else return false;
+          return item.metadata.category == category;
         });
       }
 
