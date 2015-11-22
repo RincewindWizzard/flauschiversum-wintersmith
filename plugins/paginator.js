@@ -34,7 +34,12 @@
 
       if(category) {
         articles = articles.filter(function(item) {
-          return item.metadata.category == category;
+	  if(item.metadata)
+	    return item.metadata.category == category;
+          else {
+            console.log(item.filepath.relative)
+            return false
+          }
         });
       }
 

@@ -5,7 +5,7 @@ author: Ermeline
 date: 2014-10-25 18:21:13
 template: article.jade
 filename: /:year/:month/:title/index.html
-image: 10728915_751717644863647_274297722_n.jpg
+image: "10728915_751717644863647_274297722_n.jpg"
 excerpt: "Bald ist Halloween und wann wenn nicht jetzt ist es an der Zeit ein Tutorial zum Kürbisschnitzen zu machen?"
 ---
 

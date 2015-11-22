@@ -5,7 +5,7 @@ author: Lucy
 date: 2014-07-14 13:50:11
 template: article.jade
 filename: /:year/:month/:title/index.html
-image: DSCF1347.jpg
+image: "DSCF1347.jpg"
 excerpt: "Das mir hier bloß keiner die Rentner-Bravo belächelt! Ich habe mit ihr soooo viel Spaß, weil da ganz tolle Farben drin sind."
 ---
 
@@ -62,3 +62,24 @@ Und neben Brotkörben kann man auch tolle Bilderrahmen machen und sich beim Verz
 Aber auch Perlen kann man selber machen indem man ca. 25 cm lange spitz zulaufende Papierstreifen über einen Zahnstocher aufrollt.
 
 ![DSCF1352](DSCF1352.jpg)
+
+
+Bei meiner letzten Session sind noch weitere Experimente geglückt.
+
+<div class="slideshow_landscape">
+![DSCF1461](DSCF1461.JPG)
+![DSCF1462](DSCF1462.JPG)
+![DSCF1463](DSCF1463.JPG)
+![DSCF1464](DSCF1464.JPG)
+![DSCF1465](DSCF1465.JPG)
+![DSCF1466](DSCF1466.JPG)
+![DSCF1467](DSCF1467.JPG)
+![DSCF1468](DSCF1468.JPG)
+</div>
+
+<div class="slideshow_landscape">
+![DSCF1469](DSCF1469.JPG)
+![DSCF1470](DSCF1470.JPG)
+![DSCF1471](DSCF1471.JPG)
+![DSCF1472](DSCF1472.JPG)
+</div>

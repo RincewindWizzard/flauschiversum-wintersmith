@@ -38,6 +38,7 @@ module.exports = function(env, callback) {
     };
 
     env.registerContentPlugin('Postimages', 'articles/*/*.jpg', PostImage);
+    env.registerContentPlugin('Postimages', 'articles/*/*.JPG', PostImage);
     //env.registerContentPlugin('Markdown', 'articles/*/index.md', BlogPost);
     return callback();
 }

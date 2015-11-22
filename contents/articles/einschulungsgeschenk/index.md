@@ -5,8 +5,7 @@ author: Ermeline
 date: 2015-08-30 11:45:00 
 template: article.jade
 filename: /:year/:month/:title/index.html
-filename: /:year/:month/:title/index.html
-image: "DSCF3239.JPG"
+image: "Korb.jpg"
 excerpt: "Ich habe mich sehr über ein Geschenk gefreut."
 ---
 
