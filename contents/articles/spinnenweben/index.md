@@ -38,7 +38,7 @@ Dann schauen wir uns das Schätzchen mal im Detail an wie es aussieht, wenn es f
 </div>
 
 
-div class="slideshow_landscape">
+<div class="slideshow_landscape">
 ![](DSCF2134.JPG)
 ![](DSCF2137.JPG)
 ![](DSCF2136.JPG)
