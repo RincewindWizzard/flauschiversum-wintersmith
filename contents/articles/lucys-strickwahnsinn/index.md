@@ -11,7 +11,7 @@ excerpt: "Es ist ja nun nicht so, daß ich ein Mammutprojekt nach dem anderen fa
 
 Es ist ja nun nicht so, daß ich ein Mammutprojekt nach dem anderen fabriziere. Zwischendurch entspanne ich mich gerne mit kleineren Arbeiten wie z.B. Socken, Handschuhen und eben auch Lacetüchern, die einen auf elegant verspielte Weise schön warm halten.
 
-<div class="slideshow_landscape">
+<div class="slideshow">
 ![Tücher](DSCF1570.JPG)
 ![Handschuhe](DSCF1574.JPG)
 ![Mützenkombi](IMG1995.JPG)
@@ -22,9 +22,6 @@ Es ist ja nun nicht so, daß ich ein Mammutprojekt nach dem anderen fabriziere. 
 ![Schwarzer Pulli noppen](IMG1979.JPG)
 ![Schwarz weiße Blumen](IMG1983.JPG)
 ![Schwarzer Pulli Ärmel](IMG1990.JPG)
-</div>
-
-<div class="slideshow_portrait">
 ![Esel vorne](DSCF2003.JPG)
 ![Esel hinten](DSCF2004.JPG)
 ![Schwarzer Pulli Detail](IMG1980.JPG)
@@ -38,7 +35,7 @@ Ein super Geschenk zu Weihnachten, in diesem Sinne einen schönen 3. Advent!
 
 
 ## Schals
-<div class="slideshow_landscape">
+<div class="slideshow">
 ![Wellen](DSCF1562num.JPG)
 ![Dreieck rosa](DSCF1563num.JPG)
 ![Dreieck](DSCF1566num.JPG)
@@ -51,7 +48,7 @@ Ein super Geschenk zu Weihnachten, in diesem Sinne einen schönen 3. Advent!
 
 
 ## Tücher
-<div class="slideshow_landscape">
+<div class="slideshow">
 ![weinrot moosgrün](DSCF1564num.JPG)
 ![Revontuli](DSCF1570num.JPG)
 ![weiß](DSCF1573num.JPG)
@@ -67,7 +64,7 @@ Ein super Geschenk zu Weihnachten, in diesem Sinne einen schönen 3. Advent!
 
 
 ## Sonstige
-<div class="slideshow_landscape">
+<div class="slideshow">
 ![Lacepulli](DSCF1572num.JPG)
 ![Handschuhe Spitze](DSCF1574num.JPG)
 ![Handschuhe](DSCF1575num.JPG)
