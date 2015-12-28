@@ -71,10 +71,16 @@ Ein super Geschenk zu Weihnachten, in diesem Sinne einen schönen 3. Advent!
 ![Lacepulli](DSCF1572num.JPG)
 ![Handschuhe Spitze](DSCF1574num.JPG)
 ![Handschuhe](DSCF1575num.JPG)
+![Handschuhe neu](DSCF3620num.JPG)
+![Handschuhe](DSCF3621.JPG)
+![Handschuhe](DSCF3622num.JPG)
+![Handschuhe](DSCF3626.JPG)
 ![Kette](DSCF2001.JPG)
 ![USA](IMG1996.JPG)
 ![Regenbogen](IMG1997.JPG)
 ![Spitzenhalsband](DSCF1561num.JPG)
+![Hausschuhe](DSCF3623.JPG)
+![Stulpen](DSCF3624.JPG)
 </div>
 
 Wer Interesse an einem der Tücher oder anderen Strickwaren hat, möge eine Anfrage per Mail an ermeline@flauschiversum.de schicken.
