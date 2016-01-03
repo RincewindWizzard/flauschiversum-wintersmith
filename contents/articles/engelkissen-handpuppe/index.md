@@ -40,7 +40,7 @@ Ich habe als Stoff einen alten Bieberflanell-Bettbezug mit Wolkendruck genommen,
 </div>
 
 
-An dieser Stelle erkläre ich Kurz was zu den Flügeln. Ich hatte noch den silbernen Stoff, aber der war nicht dick genug, deshalb bestehen dieFlügel aus drei Schichten, da sich zwischen den beiden silbernen Stoffen noch eine Schicht mit dickem Filz befindet. Diese Schichten habe ich mit einer geraden Naht verbunden.
+An dieser Stelle erkläre ich Kurz was zu den Flügeln. Ich hatte noch den silbernen Stoff, aber der war nicht dick genug, deshalb bestehen die Flügel aus drei Schichten, da sich zwischen den beiden silbernen Stoffen noch eine Schicht mit dickem Filz befindet. Diese Schichten habe ich mit einer geraden Naht verbunden.
 
 Als alle Teile vorbereitet waren, musste ich mich damit auseinandersetzen, in welcher Reihenfolge ich die wenigen Teile zusammennähen musste. 
 
@@ -98,7 +98,7 @@ Den Rückenteil habe ich auch an der Eingriffstelle mit einer Zickzacknaht umnä
 ![Zickzacknaht Kopf](DSCF3656.JPG)
 
 
-Nun wird alles aufeinandergelegt und zwar ist nun auf der einen Seite (Du nähst auf links um die Nähte zu verstecken, daher ist beim mir die blaue Seite zu sehen, diese wird später innen sein.) der Handschuh vom Innenfutter festgesteckt und festgenäht. Nun wird alles umgedreht und als nächstes die Kopf aufgelegt, dann die Flügel und dann der Rücken.
+Nun wird alles aufeinandergelegt und zwar ist nun auf der einen Seite (Du nähst auf links um die Nähte zu verstecken, daher ist beim mir die blaue Seite zu sehen, diese wird später innen sein.) der Handschuh vom Innenfutter festgesteckt und festgenäht. Nun wird alles umgedreht und als nächstes der Kopf aufgelegt, dann die Flügel und dann der Rücken.
 
 <div class="slideshow_landscape">
 ![Schichten Handschuh](DSCF3659.JPG)
@@ -111,7 +111,7 @@ Nun wird alles aufeinandergelegt und zwar ist nun auf der einen Seite (Du nähst
 
 Diese Schichten kann meine Maschine noch locker nähen, man denke an die Wollschichten, die sie bewältigen musste beiden [Monstern](http://flauschiversum.de/2014/12/mobile-monster-macht-man-selbst/). 
 
-<div class="slideshow">
+<div class="slideshow_landscape">
 ![Schicht](DSCF3657.JPG)
 ![Schicht 1](DSCF3658.JPG)
 </div>
@@ -119,7 +119,7 @@ Diese Schichten kann meine Maschine noch locker nähen, man denke an die Wollsch
 
 Wenn alles zusammengenäht ist, kannst du das Ganze wenden und schon sieht das ganze fast fertig aus.
 
-<div class="slideshow">
+<div class="slideshow_landscape">
 ![Gewendet](DSCF3662.JPG)
 ![Gewendet 1](DSCF3663.JPG)
 ![Gewendet 2](DSCF3665.JPG)
@@ -128,7 +128,7 @@ Wenn alles zusammengenäht ist, kannst du das Ganze wenden und schon sieht das g
 
 Bevor es nun an das Finish geht, stopfen wir das ganze mit so viel Füllwatte aus, dass das Kissen noch schön fluffig ist. Danach stecke ich mit Nadeln das Innenfutter vom Handschuh am Eingriff fest (du musst das Innenfutter unter der Füllwatte hervorholen) und nähe wieder mit der Hand. Hier wird nun alles Verschlossen, was sonst die Füllwatte ausspucken kann, also auch die Seiten neben dem Eingriff.
 
-<div class="slideshow">
+<div class="slideshow_landscape">
 ![Füllung](DSCF3668.JPG)
 ![Füllung eingriff](DSCF3669.JPG)
 ![Eingriff feststecken](DSCF3670.JPG)
@@ -139,7 +139,7 @@ Bevor es nun an das Finish geht, stopfen wir das ganze mit so viel Füllwatte au
 
 Jetzt kommen noch die Augen. Ich habe aus weißem dünnen Filz die Form ausgeschnitten und an der Rundung von Hand zusammengenäht, dann habe ich noch mit der Hälfte der Augenschablone Augenlider aus dem Kissenbezugstoff gemacht. Wende die Naht nach innen und nähe außen kurz vor der Naht (sie soll vom Lid verdeckt werden) das Augenlid fest. Ich habe noch Teddyaugen organisiert und farbigen Filz für die Iris zurechtgeschnitten.
 
-<div class="slideshow">
+<div class="slideshow_landscape">
 ![Auge 1](DSCF3673.JPG)
 ![Augen](DSCF3674.JPG)
 ![Naht am Auge](DSCF3675.JPG)
@@ -149,7 +149,7 @@ Jetzt kommen noch die Augen. Ich habe aus weißem dünnen Filz die Form ausgesch
 
 Um das Auge auszustopfen ohne, dass die Watte wieder rausquillt habe ich auf Watte verzichtet und einen Küchenschwamm durchgeschnitten und je eine Hälfte für ein Auge als Füllung genutzt. Mit dem Faden vom Festnähen des Augenlids kann man auch das Auge verschließen wie auf den Fotos zu sehen. Anschließend nähte ich wieder per Hand die Augen fest. 
 
-<div class="slideshow">
+<div class="slideshow_landscape">
 ![Auge 1](DSCF3678.JPG)
 ![Auge 2](DSCF3679.JPG)
 ![Auge 3](DSCF3680.JPG)
@@ -163,7 +163,7 @@ Um das Auge auszustopfen ohne, dass die Watte wieder rausquillt habe ich auf Wat
 
 Jetzt kann ich lustige Puppenspiele mit Engelchen und Teufelchen machen.
 
-<div class="slideshow">
+<div class="slideshow_landscape">
 ![Paar](DSCF3690.JPG)
 ![Paar2](DSCF3688.JPG)
 ![Paar3](DSCF3689.JPG)
