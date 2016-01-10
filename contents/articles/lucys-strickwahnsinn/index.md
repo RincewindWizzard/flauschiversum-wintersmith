@@ -80,7 +80,7 @@ Ein super Geschenk zu Weihnachten, in diesem Sinne einen schönen 3. Advent!
 ![Stulpen](DSCF3624.JPG)
 </div>
 
-Wer Interesse an einem der Tücher oder anderen Strickwaren hat, möge eine Anfrage per Mail an ermeline@flauschiversum.de schicken.
+Wer Interesse an einem der Tücher oder anderen Strickwaren hat, möge eine Anfrage per Mail an lucy@flauschiversum.de schicken.
 
 
 
