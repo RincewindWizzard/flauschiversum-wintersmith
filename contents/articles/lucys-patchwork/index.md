@@ -26,7 +26,6 @@ Aus einfarbigem Stoff schneide ich 25*25cm Patches als Hintergrundstoff zu, die 
 
 
 Das Log-Cabin-Muster habe ich an einem Tischläufer mit Blumenstoffen ausprobiert. 
-
 ![Rosen](DSCF2507.JPG)
 
 <div class="slideshow_landscape">
@@ -35,7 +34,6 @@ Das Log-Cabin-Muster habe ich an einem Tischläufer mit Blumenstoffen ausprobier
 </div>
 
 Besonders gut gefällt mir, dass die Streifen besonders schmal sind, denn ich hatte von einer Freundin alte Autositzbezüge in schönen Farben aber einem entsetzlichen Muster geschenkt bekommen. 
-
 ![Anleitung](DSCF2372.JPG)
 
 Der Patch setzt sich aus schmalen und breiteren Streifen zusammen, man muss darauf achten, dass man beim Annähen der Streifen die Patches immer in die gleiche Richtung dreht. An der Nummerierung meiner Skizze kann man sehen, dass ich immer gegen den Uhrzeigersinn gedreht habe. Beim nähen war also immer der letzte genähte Streifen oben. Bei gleichbreiten Streifen entsteht keine Rundung. Bei dem nächsten Quilt habe ich die schmalen grünen Streifen der Skizze mit blauem einfarbigen Stoff genäht und die gelben breiteren Streifen sind aus meinem Autobezug. Mit den fertigen Patches hat man viele Mustermöglichkeiten, ich habe mir dieses symmetrische ausgesucht.
@@ -48,7 +46,6 @@ Der Patch setzt sich aus schmalen und breiteren Streifen zusammen, man muss dara
 
 
 Ein Quilt von Kaffe Fassett aus Streifenstoffen faszinierte mich schon lange. Irgendwann reichten die Hemden- und Geschirrtuchstoffe aus um ihn nachzuarbeiten. Die zugeschnittenen Quadrate werden wieder diagonal geteilt, sie werden dann so zusammengesetzt, dass die Streifen um die Ecke gehen.
-
 ![Quadratquilt](DSCF2510.JPG)
 
 
@@ -74,7 +71,7 @@ Viel Freude bereitet mir auch das Zusammenstellen von Kissenarrangements. Die Ki
 ![creme](DSCF1602.JPG)
 ![Streifen](DSCF1606.JPG)
 ![Gobelin](DSCF1608.JPG)
-![Delfine](DSCF1696.JPG)
+![Delfine](DSCF1596.JPG)
 ![Röschen](DSCF1603.JPG)
 ![Rosenspitze](DSCF1607.JPG)
 ![Karos](DSCF1609.JPG)
