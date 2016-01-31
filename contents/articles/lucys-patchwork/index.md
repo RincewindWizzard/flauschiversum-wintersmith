@@ -5,7 +5,7 @@ author: Lucy
 date: 2016-01-10 12:03:47
 template: article.jade
 filename: /:year/:month/:title/index.html
-image: "DSCF2513.JPG"
+image: "DSCF3738.JPG"
 excerpt: "Da ich euch kürzlich meine Strickexzesse vorgestellt habe, möchte ich jetzt auch meine genähten Werke zeigen."
 ---
 
@@ -22,6 +22,15 @@ Aus einfarbigem Stoff schneide ich 25*25cm Patches als Hintergrundstoff zu, die 
 ![Anleitung 1](DSCF2050.JPG)
 ![Anleitung 2](DSCF2051.JPG)
 ![Anleitung 3](DSCF2052.JPG)
+</div>
+
+Mit der gleichen Technik habe ich noch einen Stuhlüberwurf für meine Gartenstühle genäht. Gekonnt hat sich Shubia für die Präsentation in Pose geworfen.
+
+<div class="slideshow_portrait">
+![Überwurf 1](DSCF3735.JPG)
+![Überwurf 2](DSCF3736.JPG)
+![Überwurf 3](DSCF3737.JPG)
+![Überwurf 4](DSCF3738.JPG)
 </div>
 
 
