@@ -5,11 +5,11 @@ author: Lucy
 date: 2015-01-18 20:30:23
 template: article.jade
 filename: /:year/:month/:title/index.html
-image: "DSCF2030.jpg"
+image: "DSCF2030.JPG"
 excerpt: "Weil mein Gästebad so langweilig aussah, beschloß ich, es mit einem Bild zu verschönern. Und was paßt in einen solchen Raum besser, als ein Seerosenquilt a la Monet?"
 ---
 
-![DSCF2030](DSCF2030.jpg)
+![DSCF2030](DSCF2030.JPG)
 
 Weil mein Gästebad so langweilig aussah, beschloß ich, es mit einem Bild zu verschönern. Und was paßt in einen solchen Raum besser, als ein Seerosenquilt a la Monet?
 
