@@ -24,7 +24,7 @@ Mit Textilkleber habe ich die Reste zu einem rechteckigen Stück zusammengefügt
 
 ![Textilkleber](DSCF3770.JPG)
 
-Zunächst war mir nur klar, dass ich etwas nähen möchte, Lucy hatte mich mit dem vergangenen Post aus der letzten Woche mit ihrem Etui inspiriert. Jedoch ahtte ich für einEtui nicht genug verschiedene Spitzen und dann fiel mir mein altest Westenlederstück ins Auge.
+Zunächst war mir nur klar, dass ich etwas nähen möchte, Lucy hatte mich mit dem vergangenen Post aus der letzten Woche mit ihrem Etui inspiriert. Jedoch hatte ich für ein Etui nicht genug verschiedene Spitzen und dann fiel mir mein altes Westenlederstück ins Auge.
 Also überlegte ich ob daraus ein Etui oder eine Buchhülle machbar wären, dann kramte ich in meiner Kiste mit den Spitzen und Bordüren und fand direkt ein paar Teile die passten. Dann blitzte mich aus meinem Ledersortiment noch ein quietschiges Grün an und die Idee einer Tasche manifestierte sich.
 Ich habe mir also zwei je 5 cm breite Stücke von meinem lilafarbenen Leder abgeschnitten und diese dann als Seitenteile mit dem Textilkleber eingefügt. Dies soll zunächst nur der Fixierung dienen.
 
@@ -38,7 +38,7 @@ Ich habe mir also zwei je 5 cm breite Stücke von meinem lilafarbenen Leder abge
 ![Seitenteile Innenansicht](DSCF3775.JPG)
 </div>
 
-Da ich dasLeder nicht belasten möchte und eventuell noch eine kleine Innentasche haben wollte, habe ich mich an ein Innenfutter gemacht. Dazu habe ich den Bomull-Stoff von IKEA doppelt gelegt. Ein ausreichend großes Stück, das noch ca. 5 cm breiter ist als die Tasche habe ich an den Rändern gerade zusammengenäht (Bild 1) und dann die Ecken abgenäht (Bild 2). So entsteht ein passendes Innenfutter, welches die gleiche Form wie die Tasche hat. Die Ecken kann man abschneiden oder man entscheidet sich wie ich, dafür sie am Boden mit einer kurzen Naht zu fixieren.
+Da ich das Leder nicht belasten möchte und eventuell noch eine kleine Innentasche haben wollte, habe ich mich an ein Innenfutter gemacht. Dazu habe ich den Bomull-Stoff von IKEA doppelt gelegt. Ein ausreichend großes Stück, das noch ca. 5 cm breiter ist als die Tasche habe ich an den Rändern gerade zusammengenäht (Bild 1) und dann die Ecken abgenäht (Bild 2). So entsteht ein passendes Innenfutter, welches die gleiche Form wie die Tasche hat. Die Ecken kann man abschneiden oder man entscheidet sich wie ich, dafür sie am Boden mit einer kurzen Naht zu fixieren.
 
 <div class="slideshow_landscape">
 ![Innenfutter](DSCF3779.JPG)
