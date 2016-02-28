@@ -5,7 +5,7 @@ author: Ermeline
 date: 2014-09-28 12:26:36
 template: article.jade
 filename: /:year/:month/:title/index.html
-image: "DSCF1705.jpg"
+image: "DSCF1729.jpg"
 excerpt: "Wer brauchte nicht schon immer mal große, bunte Knöpfe in gaaaaanz bestimmten Farben? Vielleicht in eckig oder oval oder rund oder herzchenform???"
 ---
 
@@ -72,7 +72,7 @@ Drehe die äußere Kante nach innen, jetzt ist auch der Rest deines Fadens innen
 ![DSCF1723](DSCF1723.jpg)
 </div>
 
-Du beginnst damit den Faden sternförmig innerhalb des Rings zu verteilen, nutze zur Befestigung die Stichkante.  Achte darauf, dass dein Stern eine ungleiche Zackenanzahl hat, das ist wichtig für den nächsten Schritt. Dein Stern endet dort wo du mit ihm begonnen hast, von dort aus führst du deinen Faden zur gegenüberliegenden Lücke zwischen den Zacken.
+Du beginnst damit den Faden sternförmig innerhalb des Rings zu verteilen, nutze zur Befestigung die Stichkante. Achte darauf, dass dein Stern eine ungleiche Zackenanzahl hat, das ist wichtig für den nächsten Schritt. Dein Stern endet dort, wo du mit ihm begonnen hast, von dort aus führst du deinen Faden zur gegenüberliegenden Lücke zwischen den Zacken.
 
 
 <div class="slideshow_landscape">
@@ -81,7 +81,7 @@ Du beginnst damit den Faden sternförmig innerhalb des Rings zu verteilen, nutze
 ![DSCF1729](DSCF1729.jpg)
 </div>
 
-In dieser Lücke beginnt deine Webarbeit. Immer über einen Zacken drüber und drunter führst du deinen Faden, durch die ungleiche Zackenanzahl kann der Faden überlappend (wie Ziegel) die Webfläche bilden. So liegt in der ersten Runde der Fden beim ersten Zacken oben und bei der zweiten Runde unten. Du kannst Farbwechsel und andere kreative Ideen umsetzen, wie zum Beispiel Perlen mit einweben oder Lücken lassen und Fäden überspringen, lass deiner Kreativität freien Lauf.
+In dieser Lücke beginnt deine Webarbeit. Immer über einen Zacken drüber und drunter führst du deinen Faden, durch die ungleiche Zackenanzahl kann der Faden überlappend (wie Ziegel) die Webfläche bilden. So liegt in der ersten Runde der Faden beim ersten Zacken oben und bei der zweiten Runde unten. Du kannst Farbwechsel und andere kreative Ideen umsetzen, wie zum Beispiel Perlen mit einweben oder Lücken lassen und Fäden überspringen, lass deiner Kreativität freien Lauf.
 
 
 ![DSCF1730](DSCF1730.jpg)

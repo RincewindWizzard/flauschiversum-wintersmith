@@ -13,4 +13,4 @@ excerpt: "Jaaaa, also... ich hab ein klein wenig gebastelt."
 
 Jaaaa, also... ich hab ein klein wenig gebastelt und gemalt und mir gedacht: "Mach mal nen Autoaufkleber." Ja und den werde ich nachdem ich ein Stellchen an meinem Auto geputzt habe auch direkt draufbabsen und stolz wie Bolle über mein Flauschiversum durch die Gegend fahren. ;)
 
-[![IMG_20140522](IMG_20140522.jpg)
+![IMG_20140522](IMG_20140522.jpg)

@@ -13,18 +13,18 @@ Also um mein Gedöns zum Basteln aufzubewahren, benutze ich Kartons. Normalerwei
 
 ![schwarze Kassett](DSCF3853.JPG)
 
-Dies tat ich mit vielerlei verschiedenen Kartons, die mit der Post und durch andere Gelegenheiten kamen... ihr kennt das ja. Die sahen aber doof aus und der langen Rede kurzer Sinn. Heute geht es darum hässliche Kartons wieder aufzuhübschen, weil se einfach zu nützlich sind zum Wegwerfen.
+Dies tat ich mit vielerlei verschiedenen Kartons, die mit der Post und durch andere Gelegenheiten kamen... ihr kennt das ja. Die sahen aber doof aus und der langen Rede kurzer Sinn: Heute geht es darum hässliche Kartons wieder aufzuhübschen, weil sie einfach zu nützlich sind zum Wegwerfen.
 
 <div class="slideshow_landscape">
 ![Kartons](DSCF3832.JPG)
 ![Kartons 2](DSCF3833.JPG)
 </div>
 
-Ich hab bei dem einen Karton mit der Serviettentechnik experimentiert, leider war das Ergebnis nicht so zufrieden stellend, deshalb hab ich wieder mit Abtönfarben drübergepinselt. Sowas soll bei mir auch mal vorkommen...
+Ich hab bei dem einen Karton mit der Serviettentechnik experimentiert, leider war das Ergebnis nicht so zufriedenstellend, deshalb hab ich wieder mit Abtönfarben drübergepinselt. Sowas soll bei mir auch mal vorkommen...
 
 ![Serviettentechnik](DSCF3846.JPG)
 
-Der Karton wird erstmal einfach so bleiben, der größere Karton war mir dann aber in komplett lila zu langweilig. deshalb hab ich mal ne alte Tapete, die auch schon Verwendung im Grusellabyrinth Kiel und NRW gefunden hat, rausgekramt und einem dekorativen Zweck zugeführt. Ich habe die Tapete mit einer Bastelleim und Wasser Mischung mit dem Pinsel eingekleistert und dann auf den Karton geklebt. Später bin ich nochmal mit dem Edding an den Kanten langgefahren und fertig soll er sein. Hier sind die Bilder vom Entstehungsprozess.
+Der Karton wird erstmal einfach so bleiben, der größere Karton war mir dann aber in komplett lila zu langweilig. Deshalb hab ich mal eine alte Tapete, die auch schon Verwendung im Grusellabyrinth Kiel und NRW gefunden hat, rausgekramt und einem dekorativen Zweck zugeführt. Ich habe die Tapete mit einer Bastelleim und Wasser Mischung mit dem Pinsel eingekleistert und dann auf den Karton geklebt. Später bin ich nochmal mit dem Edding an den Kanten langgefahren und fertig soll er sein. Hier sind die Bilder vom Entstehungsprozess.
 
 <div class="slideshow_landscape">
 ![Abtönfarbe](DSCF3841.JPG)

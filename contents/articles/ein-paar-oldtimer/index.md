@@ -9,9 +9,9 @@ image: "100_0371.JPG"
 excerpt: "Starten wir das Jahr 2016 mal mit ein paar Oldies aus meiner Foto-Fundgrube."
 ---
 
-Starten wir das Jahr 2016 mal mit ein paar Oldies aus meiner Foto-Fundgrube. Ich habe diesen Post mal in die Kategorie Basteln eingeordnet, obwohl hier viele Sachen auch gestrickt und genäht sind.Kurzum es ist eine Sammlung vieler alter Projekte, die ich bisher noch nicht vorgestellt habe und manche davon habe ich auch nicht mehr. Verzeiht mir an dieser Stelle die schlechte Fotoqualität, mache Dinge habe ich nur noch auf diesen Fotos und daher nicht die Gelegenheit sie schöner abzulichten.
+Starten wir das Jahr 2016 mal mit ein paar Oldies aus meiner Foto-Fundgrube. Ich habe diesen Post mal in die Kategorie Basteln eingeordnet, obwohl hier viele Sachen auch gestrickt und genäht sind. Kurzum es ist eine Sammlung vieler alter Projekte, die ich bisher noch nicht vorgestellt habe und manche davon habe ich auch nicht mehr. Verzeiht mir an dieser Stelle die schlechte Fotoqualität, mache Dinge habe ich nur noch auf diesen Fotos und daher nicht die Gelegenheit sie schöner abzulichten.
 
-Hier sind ein paar selbstgemalte und abgemalte Bilder, die noch nicht im Flauschiversum auftauchen, die meißten kommen aus dem Jahr 2004 sind also über 10 Jahre alt, sie entstammen damit der Ära "Ich male auf Holz" die durch mein damaliges Schulpraktikum im Opernhaus eingeläutet wurde. Zwei Bilder sind auf Papier gemalt, das eine dürftet ihr sogar wiedererkennen von der Kategorie Malen.
+Hier sind ein paar selbstgemalte und abgemalte Bilder, die noch nicht im Flauschiversum auftauchen, die meisten kommen aus dem Jahr 2004 sind also über 10 Jahre alt, sie entstammen damit der Ära "Ich male auf Holz" die durch mein damaliges Schulpraktikum im Opernhaus eingeläutet wurde. Zwei Bilder sind auf Papier gemalt, das eine dürftet ihr sogar wiedererkennen von der Kategorie Malen.
 
 
 ## Bilder

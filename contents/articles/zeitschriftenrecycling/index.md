@@ -33,7 +33,7 @@ Jetzt solltet ihr so eine Rolle haben. Die dann mit einem Stift platt gedrückt 
 ![DSCF1340](DSCF1340.jpg)
 </div>
 
-Diese platte Rolle rollt ihr wiederum auf einen Stift oder etwas anderes rundes oder eckiges auf. Einkleistern nicht vergessen... Und irgendwann hab ihr dann viele bunte Hariboschnecken aus Papier. Ihr könnt sie bemalen oder im Urzustand belassen.
+Diese platte Rolle rollt ihr wiederum auf einen Stift oder etwas anderes rundes oder eckiges auf. Einkleistern nicht vergessen... Und irgendwann habt ihr dann viele bunte Hariboschnecken aus Papier. Ihr könnt sie bemalen oder im Urzustand belassen.
 
 
 ![DSCF1341](DSCF1341-e1422103198308.jpg)

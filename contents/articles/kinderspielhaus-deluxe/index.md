@@ -6,7 +6,7 @@ date: 2014-06-05 14:55:18
 template: article.jade
 filename: /:year/:month/:title/index.html
 image: "DSCF0973.jpg"
-excerpt: "Also mein Papa ist der coolste von der ganzen Welt... und das kann ich beweisen :)"
+excerpt: "Also mein Papa ist der Coolste von der ganzen Welt... und das kann ich beweisen :)"
 ---
 
 Also mein Papa ist der coolste von der ganzen Welt... und das kann ich beweisen. :) Ich fange am besten von vorne an, damit man auch die gesamte Entstehungsgeschichte kennt. 
@@ -20,7 +20,7 @@ Wir befanden uns in einem Holzhandel und sahen vor der Eingangstür ein kleines 
 </div>
 
 
-Wir bekamen eine alte Wohnzimmerverkleidung geschenkt aus der wir die Wände des Hauses bauten. Das Haus soll einem Umzug stand halten können unter anderem auch, weil der Bauort nicht dem Spielort entsprach und daher passt das Haus in auseinandergebautem Zustand in einen Kombi. Wir hatten 4 Wände und ein Dach gebaut, aber das macht noch kein fertiges Haus. Damit ein Kind sich dort wohlfühlen kann und auch wohnen kann, fehlen Fenster und Tür, Vorhänge und Hausschild...
+Wir bekamen eine alte Wohnzimmerverkleidung geschenkt, aus der wir die Wände des Hauses bauten. Das Haus soll einem Umzug stand halten können unter anderem auch, weil der Bauort nicht dem Spielort entsprach und daher passt das Haus in auseinandergebautem Zustand in einen Kombi. Wir hatten 4 Wände und ein Dach gebaut, aber das macht noch kein fertiges Haus. Damit ein Kind sich dort wohlfühlen kann und auch wohnen kann, fehlen Fenster und Tür, Vorhänge und Hausschild...
 
 <div class="slideshow_landscape">
 ![DSCF0962](DSCF0962.jpg)
@@ -28,7 +28,7 @@ Wir bekamen eine alte Wohnzimmerverkleidung geschenkt aus der wir die Wände des
 </div>
 
 
-Also los geht's. Die Innenseiten der Wände haben wir mit Styropor isoliert und mit Stoff bezogen (Wer will schon, dass die Kinder das Styropor in seine Einzelteile zerlegen...?) und danach in einem Cremeton gestrichen (gutes Feng-Shui :D) Zur Belüftung, denn das Haus hat keinen Schornstein, ist in der Rückwand des Häusschens eine Toilettenbelüftung (wer möchte schon das die Kinder beim Spielen an Sauerstoffmangel leiden...), hier sieht man gerade einen neugierigen Eigenheimbesitzer, der bei der Montage spioniert.
+Also los geht's. Die Innenseiten der Wände haben wir mit Styropor isoliert und mit Stoff bezogen (Wer will schon, dass die Kinder das Styropor in seine Einzelteile zerlegen...?) und danach in einem Cremeton gestrichen (gutes Feng-Shui :D). Zur Belüftung, denn das Haus hat keinen Schornstein, ist in der Rückwand des Häusschens eine Toilettenbelüftung (wer möchte schon, dass die Kinder beim Spielen an Sauerstoffmangel leiden...), hier sieht man gerade einen neugierigen Eigenheimbesitzer, der bei der Montage spioniert.
 
 <div class="slideshow_portrait">
 ![DSCF0973](DSCF0973.jpg)
@@ -36,7 +36,7 @@ Also los geht's. Die Innenseiten der Wände haben wir mit Styropor isoliert und 
 </div>
 
 
-Die Fenster sind aus Plexiglas und das große an der Seite lässt sich aufschieben. Die Vorhänge hat meine Mutti beigesteuert, das macht das ganze schon viel wohnlicher (... und verbessert das Feng-Shui erheblich). Das tollste überhaupt ist, glaube ich, die Klönschnack-Tür. Diese besteht aus massivem Holz und ist mit einer kleinen Schwelle zum Aufstützen während des Klönschnacks und einem kleinen Blümchen zum Durchschauen versehen. (Ein Herzchen wäre auch tollgewesen, aber dann hätte jemand das Haus vermutlich mit einem Plumpsklo verwechselt und das sollte nicht geschehen.) Ein kleiner Riegel verhindert das Aufschwingen der Tür.
+Die Fenster sind aus Plexiglas und das Große an der Seite lässt sich aufschieben. Die Vorhänge hat meine Mutti beigesteuert, das macht das ganze schon viel wohnlicher (... und verbessert das Feng-Shui erheblich). Das Tollste überhaupt ist, glaube ich, die Klönschnack-Tür. Diese besteht aus massivem Holz und ist mit einer kleinen Schwelle zum Aufstützen während des Klönschnacks und einem kleinen Blümchen zum Durchschauen versehen. (Ein Herzchen wäre auch tollgewesen, aber dann hätte jemand das Haus vermutlich mit einem Plumpsklo verwechselt und das sollte nicht geschehen.) Ein kleiner Riegel verhindert das Aufschwingen der Tür.
 
 <div class="slideshow_landscape">
 ![IMG\_2024](IMG_2024.jpg)

@@ -11,4 +11,4 @@ excerpt: "Wenn ich gerade mal nicht handarbeite, dann betätige ich mich als Sch
 
 ![DSCF0890](DSCF0890.jpg)
 
-Wenn ich gerade mal nicht handarbeite, dann betätige ich mich als Schriftstellerin. Im Moment schreibe ich an meinem ersten Roman, der hoffentlich dieses Jahr noch in Druck geht. Mein erstes (Engel)buch "Angela" vereinigt ein bißchen Fantasy, etwas Märchen, viel Dramatik und eine gute Portion Lebensweisheiten zu einer berührenden Lovestory. Es ist über www.book-on-demand.de und auch in jedem Buchhandel für 8,50 € zu bestellen. ISBN - Nr. 9783863863180
+Wenn ich gerade mal nicht handarbeite, dann betätige ich mich als Schriftstellerin. Im Moment schreibe ich an meinem ersten Roman, der hoffentlich dieses Jahr noch in Druck geht. Mein erstes (Engel)buch "Angela" vereinigt ein bisschen Fantasy, etwas Märchen, viel Dramatik und eine gute Portion Lebensweisheiten zu einer berührenden Lovestory. Es ist über www.book-on-demand.de und auch in jedem Buchhandel für 8,50 € zu bestellen. ISBN - Nr. 9783863863180

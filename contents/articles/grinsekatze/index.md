@@ -9,7 +9,7 @@ image: DSCF1318.jpg
 excerpt: "Nachdem das Flauschiversum nun viiiiel zu lange nicht mehr kre-aktiv war gibt es nun eine Anleitung wie man aus einem ollen T-Shirt ein cooles Top machen kann."
 ---
 
-Nachdem das Flauschiversum nun viiiiel zu lange nicht mehr kre-aktiv war gibt es nun eine Anleitung wie man aus einem ollen T-Shirt ein cooles Top machen kann. Ich bin schon länger begeistert von den Video-Tutorials bei Youtube zum Thema Do-It-Yourself Shirts. Was man braucht sind nur ein T-Shirt ein auswaschbarer Stoffmaler oder ein Stück Kreide und eine Schere, für meine Version fügen wir noch Stoffmaler und eine blendende Idee hinzu.
+Nachdem das Flauschiversum nun viiiiel zu lange nicht mehr kre-aktiv war, gibt es nun eine Anleitung, wie man aus einem ollen T-Shirt ein cooles Top machen kann. Ich bin schon länger begeistert von den Video-Tutorials bei Youtube zum Thema Do-It-Yourself Shirts. Was man braucht sind nur ein T-Shirt ein auswaschbarer Stoffmaler oder ein Stück Kreide und eine Schere, für meine Version fügen wir noch Stoffmaler und eine blendende Idee hinzu.
 
 ![DSCF1318](DSCF1318.jpg)
 
@@ -29,7 +29,7 @@ Zunächst will ich die Ärmel weg haben, dazu Falte ich das Shirt, zeichne mir m
 ![DSCF1325](DSCF1325.jpg)
 </div>
 
-So jetzt wird die Grinsekatze übertragen, überlegt euch bei einem Motiv vorher was ihr wegschneiden wollt und ob das auch so funktioniert wie ihr euch das vorstellt. Manchmal hat man tolle Ideen und muss feststellen, dass sich diese nicht unbedingt immer umsetzen lassen, wenn ihr euch nicht sicher seid, dann macht einfach ein paar Tests an einem echt ranzigen Shirt, ich habe zum Beispiel lange überlegt, wie ich die Nase der Katze hinbekommen kann. Nachdem ich mit meiner Skizze zufrieden war, habe ich die einzelnen Zähne, die Nase und Augen ausgeschnitten, das ist ein bisschen fummelig aber mit einer guten Schere (Nagelschere kann hilfreich sein) ist das ganze kein Problem. Achtet beim Schneiden darauf, dass ihr nicht zu viel wegnehmt und auch dass die Abstände der Löcher voneinander ungefähr bei einem Zentimeter liegen, denn anderenfalls hat man am Ende ein großes hässliches Loch.
+So jetzt wird die Grinsekatze übertragen, überlegt euch bei einem Motiv vorher was ihr wegschneiden wollt und ob das auch so funktioniert wie ihr euch das vorstellt. Manchmal hat man tolle Ideen und muss feststellen, dass sich diese nicht unbedingt immer umsetzen lassen, wenn ihr euch nicht sicher seid, dann macht einfach ein paar Tests an einem echt ranzigen Shirt, ich habe zum Beispiel lange überlegt, wie ich die Nase der Katze hinbekommen kann. Nachdem ich mit meiner Skizze zufrieden war, habe ich die einzelnen Zähne, die Nase und Augen ausgeschnitten, das ist ein bisschen fummelig aber mit einer guten Schere (Nagelschere kann hilfreich sein) ist das Ganze kein Problem. Achtet beim Schneiden darauf, dass ihr nicht zu viel wegnehmt und auch, dass die Abstände der Löcher voneinander ungefähr bei einem Zentimeter liegen, denn anderenfalls hat man am Ende ein großes hässliches Loch.
 
 <div class="slideshow_landscape">
 ![DSCF1326](DSCF1326.jpg)
