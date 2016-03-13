@@ -66,7 +66,7 @@ Das Pinwheel-Muster kommt in meinem nächsten Quilt zur Geltung. Er ist komplett
 </div>
 
 
-Viel Freude bereitet mir auch das Zusammenstellen von Kissenarrangements. Die Kissenbezüge haben einen Hotelverschluss, sind also ohne Reisverschluss und Knöpfe gefertigt. Hier einige meiner Kreationen, die auch käuflich für 10€ das Stück erworben werden können, beim Kauf von mehreren Bezügen wird es günstiger. Schreibt dafür eine Mail an lucy@flauschiversum.de
+Viel Freude bereitet mir auch das Zusammenstellen von Kissenarrangements. Die Kissenbezüge haben einen Hotelverschluss, sind also ohne Reisverschluss und Knöpfe gefertigt. Hier einige meiner Kreationen.
 
 <div class="slideshow_landscape">
 ![Landhausblumen](DSCF1590.JPG)
@@ -88,7 +88,7 @@ Viel Freude bereitet mir auch das Zusammenstellen von Kissenarrangements. Die Ki
 </div>
 
 
-Hier ist noch eine kleine Decke aus reiner Baumwolle, mit echter Klöppelspitze. Die Größe beträgt ca. 80*80cm, für 18€ könnte es deine sein.
+Hier ist noch eine kleine Decke aus reiner Baumwolle, mit echter Klöppelspitze. Die Größe beträgt ca. 80*80cm.
 
 <div class="slideshow_landscape">
 ![Deckchen](DSCF1587.JPG)

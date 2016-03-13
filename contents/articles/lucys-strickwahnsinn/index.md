@@ -29,7 +29,7 @@ Es ist ja nun nicht so, daß ich ein Mammutprojekt nach dem anderen fabriziere. 
 </div>
 
 
-Dafür habe ich meine alten Kunststrickhefte wieder hervorgekramt und die Muster dieser nostalgischen Tischdeckchen einfach halbiert. Statt Baumwolle eignet sich natürlich Merino, Mohair oder Sockenwolle, die diese Tücher trotz der filigranen Spitze unheimlich haltbar macht. Die Modelle sind meist halbmondförmig oder dreieckig und lassen sich auf Wunsch in vielen Farben arbeiten. Sollten also die Farben nicht gefallen oder das Tuch schon vergriffen sein, nehme ich gerne Auftragsarbeiten entgegen.
+Dafür habe ich meine alten Kunststrickhefte wieder hervorgekramt und die Muster dieser nostalgischen Tischdeckchen einfach halbiert. Statt Baumwolle eignet sich natürlich Merino, Mohair oder Sockenwolle, die diese Tücher trotz der filigranen Spitze unheimlich haltbar macht. Die Modelle sind meist halbmondförmig oder dreieckig und lassen sich in vielen Farben arbeiten.
 
 Ein super Geschenk zu Weihnachten, in diesem Sinne einen schönen 3. Advent! 
 
@@ -80,7 +80,6 @@ Ein super Geschenk zu Weihnachten, in diesem Sinne einen schönen 3. Advent!
 ![Stulpen](DSCF3624.JPG)
 </div>
 
-Wer Interesse an einem der Tücher oder anderen Strickwaren hat, möge eine Anfrage per Mail an lucy@flauschiversum.de schicken.
 
 
 
